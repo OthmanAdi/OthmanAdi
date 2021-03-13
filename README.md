@@ -2,7 +2,7 @@
 - 👀 I’m interested in Teaching and Building Great Products
 - 🌱 I’m currently Working as a BackEnd Developer
 - 💞️ I’m looking to collaborate on FrontEnd/BackEnd projects for Educational purposes
-- 📫 Mail me on my a.othmanadi@mediaagentur-in.berlin
+- 📫 Mail me on my a.othmanadi@mediaagentur-in.berlin /  https://easyporto-bk5spidm8-mino-cmd.vercel.app/
 
 <!---
 OthmanAdi/OthmanAdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
