@@ -1,4 +1,5 @@
- ,---------------------------,
+<!--  
+,---------------------------,
               |  /---------------------\  |
               | |                       | |
               | |     Beep              | |
@@ -18,7 +19,8 @@
   /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/ /
 /-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/ /
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+-->
+ 
 - 👋 Hi, I’m @OthmanAdi
 - 👀 I’m interested in Teaching and Building Great Products
 - 🌱 I’m currently Working as IOS Augemented Reaility Developer / Blockchain Development with Soliditiy
