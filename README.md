@@ -12,15 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=codingwithadi&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithadi&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codingwithadi&label=Profile%20Views&color=10&icon=7&pretty=true)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=codingwithadi&label=Profile%20Views&color=10&icon=7&pretty=true" />
-</a>
