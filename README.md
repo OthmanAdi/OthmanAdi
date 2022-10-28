@@ -15,7 +15,7 @@
 
 ### 🎶 Checkout my playlists and go in your focus zone with me
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true)
----
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) [![](https://visitcount.itsvg.in/api?id=codingwithadi&label=Profile%20Views&color=10&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 ![United States of America Flag Landscape Rectangle Laptop Sticker (1)](https://user-images.githubusercontent.com/78882424/198596313-9d767231-fd85-4419-81d1-c0a36f596d90.png)
