@@ -15,7 +15,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Othmanadi&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true)
-
-<img width="200" alt="Screenshot 2022-10-28 at 23 11 30" src="https://user-images.githubusercontent.com/78882424/198733751-03616d60-1336-4a60-be8f-3f772b7b7602.png">
-
-<img width="200" alt="Screenshot 2022-10-28 at 23 10 20" src="https://user-images.githubusercontent.com/78882424/198733813-d9efa050-c4c7-4c26-a097-2c1bf9aa030d.png">
