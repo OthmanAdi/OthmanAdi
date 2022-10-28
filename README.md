@@ -12,10 +12,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Othmanadi&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Othmanadi&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Othmanadi&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Othmanadi)](https://github.com/Othmanadi/github-readme-stats) -->
 
 ### 🎶 Checkout my playlists and go in your focus zone with me
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true),![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true)![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codingwithadi&label=Profile%20Views&color=10&icon=7&pretty=true)](https://visitcount.itsvg.in)
