@@ -1,5 +1,6 @@
 # 💫 About Me:
 👷🏼‍♂️ Co-Founder of Adeptly: the Friendly Tech Solutions Agency<br>🧑🏼‍🏫 Teacher in Computer Science and Technologies at Berlitz✨ and Startsteps✨<br>👨🏼‍💻 Developer for Web and App solutions
+🇸🇾 From Syria teaching to the world 🗺
 
 
 ## 🌐 Socials:
@@ -16,7 +17,4 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) [![](https://visitcount.itsvg.in/api?id=codingwithadi&label=Profile%20Views&color=10&icon=7&pretty=true)](https://visitcount.itsvg.in)
-
-
-![United States of America Flag Landscape Rectangle Laptop Sticker (1)](https://user-images.githubusercontent.com/78882424/198617424-4b12fd7e-8698-49b4-9665-7cf5a0e91e87.png)
 
