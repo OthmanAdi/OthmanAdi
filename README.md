@@ -1,6 +1,6 @@
 # 💫 About Me:
 👷🏼‍♂️ Co-Founder of Adeptly: the Friendly Tech Solutions Agency<br>🧑🏼‍🏫 Teacher in Computer Science and Technologies at Berlitz✨ and Startsteps✨<br>👨🏼‍💻 Developer for Web and App solutions<br>
-🇸🇾 From Syria teaching to the world 🗺
+🇸🇾 From Syria teaching the world 🗺
 
 
 ## 🌐 Socials:
