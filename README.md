@@ -18,4 +18,5 @@
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) [![](https://visitcount.itsvg.in/api?id=codingwithadi&label=Profile%20Views&color=10&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
-![United States of America Flag Landscape Rectangle Laptop Sticker (1)](https://user-images.githubusercontent.com/78882424/198533526-8f2add85-1312-4a78-abd5-1a56f6c3cecf.png)
+![United States of America Flag Landscape Rectangle Laptop Sticker (1)](https://user-images.githubusercontent.com/78882424/198596313-9d767231-fd85-4419-81d1-c0a36f596d90.png)
+
