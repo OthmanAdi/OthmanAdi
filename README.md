@@ -12,4 +12,5 @@
 # 🤓 NERD Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Othmanadi&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Othmanadi&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Othmanadi&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Othmanadi&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true)
