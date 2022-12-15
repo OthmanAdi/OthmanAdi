@@ -20,3 +20,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Othmanadi&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true)
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Othman Adi"/></a>
