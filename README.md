@@ -22,3 +22,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true)
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/OthmanAdi/OthmanAdi/blob/master/devcard.svg" width="400" alt="Othman Adi"/></a>
+
+<a href="https://app.daily.dev/ewfewfwefwe"><img src="https://api.daily.dev/devcards/2b3c3818146644ff978059e8869398b9.png?r=ban" width="400" alt="fewfewfwefwe's Dev Card"/></a>
