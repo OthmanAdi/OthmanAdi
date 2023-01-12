@@ -1,5 +1,5 @@
 # ⁉️ WhoAmI:
-👷🏼‍♂️Co-Founder of <code>Adeptly</code>: the Friendly Tech Solutions Agency 🌎*(Adeptly the Freidnly Tech Agency)[https://adeptly.herokuapp.com/]🌎
+👷🏼‍♂️Co-Founder of <code>Adeptly</code>: the Friendly Tech Solutions Agency 🌎[www.Adeptly.Site](https://adeptly.herokuapp.com/)🌎
 <br>🧑🏼‍🏫Teacher in Computer Science and Technologies at <b>Berlitz✨ and Startsteps✨</b>
 <br>👨🏼‍💻 <code>Developer</code> for Web and App solutions<br>
 🇸🇾 From <code>Syria</code> teaching the world 🗺
