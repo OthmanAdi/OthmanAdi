@@ -1,9 +1,6 @@
 # ⁉️ WhoAmI:
 👷🏼‍♂️Co-Founder of <code>Adeptly</code>: the Friendly Tech Solutions Agency 🌎[www.Adeptly.Site](https://adeptly.herokuapp.com/)🌎
-<br>🧑🏼‍🏫Teacher in Computer Science and Technologies at <b>Berlitz✨ and Startsteps✨</b>
-<br>👨🏼‍💻 <code>Developer</code> for Web and App solutions<br>
-From <code>💚🤍Syria❤️🖤</code> teaching the world 🗺
-
+<br>🧑🏼‍🏫Programmin / Computer technologies teacher @ <b>Berlitz✨ and Startsteps✨</b>
 ## 🌐 Check my online classes and EduContent:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codingwithadi) &emsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codingwithadi) &emsp;
@@ -19,6 +16,7 @@ From <code>💚🤍Syria❤️🖤</code> teaching the world 🗺
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true) &emsp;&emsp;&emsp;&emsp;  <a href="https://app.daily.dev/ewfewfwefwe"><img src="https://api.daily.dev/devcards/2b3c3818146644ff978059e8869398b9.png?r=ban" width="400" alt="fewfewfwefwe's Dev Card"/></a>
 
-
+<br>👨🏼‍💻In love with <code>Web and App Development</code><br>
+From <code>💚🤍Syria❤️🖤</code> sharing knowledge with the world 🗺
 &ensp; &ensp; &ensp; [![Startsteps](https://www.eu-startups.com/wp-content/uploads/2021/02/startstep.png)](https://startsteps.org/en) &ensp; &ensp; &ensp; &ensp; 
-[![Berlitz](https://jobs.gaijinpot.com/logo/1612/11956.thumbnail.png)](https://www.berlitz.com/de-de/kids-und-teens/digital-school)
+[![Berlitz](https://jobs.gaijinpot.com/logo/1612/11956.thumbnail.png)](https://www.berlitz.com/de-de/kids-und-teens/digital-school)<br/>
