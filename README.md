@@ -18,5 +18,5 @@
 
 <br>👨🏼‍💻In love with <code>Web and App Development</code><br>
 From <code>💚🤍Syria❤️🖤</code> sharing knowledge with the world 🗺
-&ensp; &ensp; &ensp; [![Startsteps](https://www.eu-startups.com/wp-content/uploads/2021/02/startstep.png)](https://startsteps.org/en) &ensp; &ensp; &ensp; &ensp; 
+[![Startsteps](https://www.eu-startups.com/wp-content/uploads/2021/02/startstep.png)](https://startsteps.org/en) &ensp; &ensp;
 [![Berlitz](https://jobs.gaijinpot.com/logo/1612/11956.thumbnail.png)](https://www.berlitz.com/de-de/kids-und-teens/digital-school)<br/>
