@@ -12,7 +12,7 @@ From <code>💚🤍Syria❤️🖤</code> sharing knowledge with the world 🗺
 <h3> 🌐 Lets Network:</h3>
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codingwithadi) &emsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codingwithadi) &emsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codingwithadi) &emsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingwithadi) &emsp;
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingwithadi) &emsp;
 ![Discrod](https://dcbadge.vercel.app/api/shield/712602397553459261) &emsp;
