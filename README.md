@@ -1,5 +1,3 @@
-![✨](https://visitor-badge.laobi.icu/badge?page_id=OthmanAdi.OthmanAdi)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=22&duration=8000&pause=1000&color=E6F772&background=1E3D2AF2&center=true&vCenter=true&repeat=false&width=435&lines=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+-+Guten+Tag+-+Hello)](https://git.io/typing-svg)
 
 <h3> ⁉️ WhoAmI:</h3>
@@ -31,4 +29,5 @@ From <code>💚🤍Syria❤️🖤</code> sharing knowledge with the world 🗺
 ---
 [![An image of @othmanadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/othmanadi)](https://holopin.io/@othmanadi)
 ---
-<p>View from my room</p> <img src="https://weather-icon.journeyad.repl.co/@berlin?v=1" align=""/>
+![✨](https://visitor-badge.laobi.icu/badge?page_id=OthmanAdi.OthmanAdi)
+<p>View from my room</p> <img src="https://weather-icon.journeyad.repl.co/@berlin?v=1" align=""/> 
