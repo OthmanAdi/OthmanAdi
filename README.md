@@ -30,4 +30,4 @@ From <code>💚🤍Syria❤️🖤</code> sharing knowledge with the world 🗺
 [![An image of @othmanadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/othmanadi)](https://holopin.io/@othmanadi)
 ---
 ![✨](https://visitor-badge.laobi.icu/badge?page_id=OthmanAdi.OthmanAdi)
-<p>View from my room</p> <img src="https://weather-icon.journeyad.repl.co/@berlin?v=1" align=""/> 
+<!-- <p>View from my room</p> <img src="https://weather-icon.journeyad.repl.co/@berlin" align=""/>  -->
