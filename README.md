@@ -1,12 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=22&duration=8000&pause=1000&color=E6F772&background=1E3D2AF2&center=true&vCenter=true&repeat=false&width=435&lines=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+-+Guten+Tag+-+Hello)](https://git.io/typing-svg)
 
 <h3> ⁉️ WhoAmI:</h3>
-
+<div>
 👷🏼‍♂️Co-Founder of <code>Adeptly</code>: the Friendly Tech Solutions Agency 🌎[www.Adeptly.Site](https://www.adeptly.site)🌎
 <br>🧑🏼‍🏫Programmin / Computer technologies teacher @ <b>Berlitz✨ and Startsteps✨</br>
 💻In love with <code>Web and App Development</code><br>
 From <code>💚🤍Syria❤️🖤</code> sharing knowledge with the world 🗺<br>
-Arabic AI tools lister [Adawat.Secure](https://ai-pool.web.app/#/) 
+Arabic AI tools lister [Adawat.Secure](https://ai-pool.web.app/#/)<br>
+<img src="https://weather-icon.journeyad.repl.co/@berlin" align=""/> 
+</div>
+
 
 <h3> 🌐 Lets Network:</h3>
 
@@ -31,4 +34,3 @@ Arabic AI tools lister [Adawat.Secure](https://ai-pool.web.app/#/)
 [![An image of @othmanadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/othmanadi)](https://holopin.io/@othmanadi)
 ---
 ![✨](https://visitor-badge.laobi.icu/badge?page_id=OthmanAdi.OthmanAdi)
-<p>View from my room</p> <img src="https://weather-icon.journeyad.repl.co/@berlin" align=""/> 
