@@ -9,7 +9,7 @@
 From <code>💚🤍Syria❤️🖤</code> sharing knowledge with the world 🗺<br>
 Arabic AI tools lister [Adawat.Secure](https://ai-pool.web.app/#/)<br>
   
-<img src="https://weather-icon.journeyad.repl.co/@tenerife" align=""/> 
+<img src="https://weather-icon.journeyad.repl.co/@spain" align=""/> 
 </div>
 
 <h3> 🌐 Lets Network:</h3>
