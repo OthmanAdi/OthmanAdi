@@ -8,8 +8,9 @@
 💻In love with <code>Web and App Development</code><br>
 From <code>💚🤍Syria❤️🖤</code> sharing knowledge with the world 🗺<br>
 Arabic AI tools lister [Adawat.Secure](https://ai-pool.web.app/#/)<br>
-  
-<img src="https://weather-icon.journeyad.repl.co/@spain" align=""/> 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmanAdi&theme=github-compact" width="100%"/>
+
 </div>
 
 <h3> 🌐 Lets Network:</h3>
@@ -20,7 +21,7 @@ Arabic AI tools lister [Adawat.Secure](https://ai-pool.web.app/#/)<br>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingwithadi) &emsp;
 ![Discrod](https://dcbadge.vercel.app/api/shield/712602397553459261) &emsp;
 
-## Available times for a questions: [Topmate.io - Coding with Adi](https://topmate.io/codingwithadi)
+### Available times for a questions: [Topmate.io - Coding with Adi](https://topmate.io/codingwithadi)
 
 ### [✨Links Tree for Offers, Videos and more 👈🏼](https://linkpop.com/codingwithadi).
 
@@ -40,10 +41,10 @@ Arabic AI tools lister [Adawat.Secure](https://ai-pool.web.app/#/)<br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmanAdi&theme=github-compact" width="100%"/>
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true) &emsp;&emsp;&emsp;&emsp;  <a href="https://app.daily.dev/codingwithadi"><img src="https://api.daily.dev/devcards/2b3c3818146644ff978059e8869398b9.png?r=3ym" width="400" alt="codingwithadi's Dev Card"/></a>
 
-[![An image of @othmanadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/othmanadi)](https://holopin.io/@othmanadi)
----
+<img src="https://weather-icon.journeyad.repl.co/@spain" align=""/> 
+
 ![✨](https://visitor-badge.laobi.icu/badge?page_id=OthmanAdi.OthmanAdi)
+
+[![An image of @othmanadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/othmanadi)](https://holopin.io/@othmanadi)
