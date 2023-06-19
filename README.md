@@ -40,7 +40,7 @@ Arabic AI tools lister [Adawat.Secure](https://ai-pool.web.app/#/)<br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=OthmanAdi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OthmanAdi&theme=github-compact" width="100%"/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true) &emsp;&emsp;&emsp;&emsp;  <a href="https://app.daily.dev/codingwithadi"><img src="https://api.daily.dev/devcards/2b3c3818146644ff978059e8869398b9.png?r=3ym" width="400" alt="codingwithadi's Dev Card"/></a>
 
