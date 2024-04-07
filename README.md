@@ -40,8 +40,4 @@ Arabic AI tools lister [Adawat.Secure](https://ai-pool.web.app/#/)<br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true) &emsp;&emsp;&emsp;&emsp;  <a href="https://app.daily.dev/codingwithadi"><img src="https://api.daily.dev/devcards/2b3c3818146644ff978059e8869398b9.png?r=3ym" width="400" alt="codingwithadi's Dev Card"/></a>
 
-<img src="https://weather-icon.journeyad.repl.co/@spain" align=""/> 
-
 ![✨](https://visitor-badge.laobi.icu/badge?page_id=OthmanAdi.OthmanAdi)
-
-[![An image of @othmanadi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/othmanadi)](https://holopin.io/@othmanadi)
