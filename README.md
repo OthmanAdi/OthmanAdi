@@ -3,7 +3,7 @@
 <h3> ⁉️ WhoAmI:</h3>
 <div>
 
-👷🏼‍♂️Co-Founder of <code>Adeptly</code>: the Friendly Tech Solutions Agency 🌎[www.Adeptly.Site](https://www.adeptly.site)🌎
+👷🏼‍♂️Co-Founder of <code>Adeptly</code>: the Friendly Tech Solutions Agency 🌎[www.Adeptly.Site]([https://www.adeptly.site](https://adeptly-961a7.web.app/))🌎
 <br>🧑🏼‍🏫Programmin / Computer technologies teacher @ <b>Berlitz✨ and Startsteps✨</br>
 💻In love with <code>Web and App Development</code><br>
 From <code>💚🤍Syria❤️🖤</code> sharing knowledge with the world 🗺<br>
