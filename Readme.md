@@ -1,5 +1,3 @@
-<img src="https://github.com/OthmanAdi/OthmanAdi/raw/main/WhatsApp%20Image%202024-09-18%20at%2023.45.55_63f02012.jpg" alt="Description of the image" style="width: 50vw; height: 80vh; object-fit: cover; object-position: top;">
-
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
