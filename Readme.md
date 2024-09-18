@@ -20,8 +20,6 @@
 From 💚🤍Syria❤️🖤 sharing knowledge with the world 🗺
 Arabic AI tools lister Adawat.Secure</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
 - 💼 I'm currently working on: **💻 Building Software to scale on larger scale with every new client**
 
  **<h3 align="center">Skills</h3>**
