@@ -14,7 +14,6 @@
   <li>👷🏼‍♂️ Co-Founder of Adeptly: the Friendly Tech Solutions Agency 🌎</li>
   <li>🧑🏼‍🏫 Teached Kids/Teens and Adults Full Stack Development, Coding and Mobile App Development at Berlitz - Startsteps - Mindrefined - Morphes - Hamburg Coding School</li>
   <li>💻 Passionate about Web and App Development</li>
-  <li>🇸🇾 From Syria, sharing knowledge with the world 🌍</li>
   <li>🔍 Creator of Adawat.Secure: Arabic AI Tools Curator</li>
 </ul>
 
