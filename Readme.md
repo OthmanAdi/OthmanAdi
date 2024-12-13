@@ -1,4 +1,13 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="100" height="100" />
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/OthmanAdi?pet-id=655424868402724120"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
