@@ -50,6 +50,6 @@ Building production AI systems. 100K+ lines of enterprise code. LangGraph multi-
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/othman-adi">LinkedIn</a> ·
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://linkedin.com/in/codingwithadi">LinkedIn</a> ·
+  <a href="mailto:adiatwork@Outlook.com">Email</a>
 </p>
