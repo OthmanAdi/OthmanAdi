@@ -8,7 +8,7 @@ Building production AI systems. 100K+ lines of enterprise code. LangGraph multi-
 
 ### Now
 
-- **Team Lead** at [migRaven](https://migraven.com) — Building AI-powered enterprise tools
+- **Team Lead** at [migRaven](https://www.migraven.com) — Building AI-powered enterprise tools
 - **Creator** of [Prompt Fusion](https://github.com/OthmanAdi/PromptFusion) — Semantic weighted prompt layering
 - **Creator** of [AI Docs Copier](https://github.com/OthmanAdi/AI-Docs-Copier) — Browser extension for AI-ready documentation
 
