@@ -1,46 +1,55 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="100" height="100" />
+# Ahmad Othman Adi
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/OthmanAdi?pet-id=655424868402724120"
-    width="600"
-    height="120"
-  />
-</a>
-  
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        Marhaban & Hello World
-      </h1>
-    </summary>
-  </ul>
-</div>
+**AI Engineer** · **Team Lead** · **Full-Stack Developer**
 
- <h3 align="left">Who Am I:</h3>
-<ul>
-  <li>👷🏼‍♂️ Co-Founder of Adeptly: the Friendly Tech Solutions Agency 🌎</li>
-  <li>🧑🏼‍🏫 Teached Kids/Teens and Adults Full Stack Development, Coding and Mobile App Development at Berlitz - Startsteps - Mindrefined - Morphes - Hamburg Coding School</li>
-  <li>💻 Passionate about Web and App Development</li>
-  <li>🔍 Creator of Adawat.Secure: Arabic AI Tools Curator</li>
-</ul>
+Building production AI systems. 100K+ lines of enterprise code. LangGraph multi-agent architectures.
 
-- 💼 I'm currently working on: **💻 Building Software to scale on larger scale with every new client**
+---
 
- **<h3 align="center">Skills</h3>**
+### Now
 
-<p align="center"><img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=cs" height="40" alt="CSharp" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=htmx" height="40" alt="HTMX" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=swift" height="40" alt="Swift" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="Graphql" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=lua" height="40" alt="Lua" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=astro" height="40" alt="Astro" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="ASP.NET" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="WebStorm" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" style="margin-right: 8px"></p>
+- **Team Lead** at [migRaven](https://migraven.com) — Building AI-powered enterprise tools
+- **Creator** of [Prompt Fusion](https://github.com/OthmanAdi/PromptFusion) — Semantic weighted prompt layering
+- **Creator** of [AI Docs Copier](https://github.com/OthmanAdi/AI-Docs-Copier) — Browser extension for AI-ready documentation
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>  <a href="https://www.linkedin.com/in/codingwithadi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+---
 
- **<h3 align="left">GitHub Stats</h3>**
+### Tech
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-CC785C?style=flat-square)
+![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+### Work
+
+| Project | Description |
+|---------|-------------|
+| **migRaven.MAX** | LangGraph multi-agent system · 97K LOC · Enterprise AI assistant |
+| **Nexus Workflow Builder** | Visual workflow automation · .NET 9 + React 19 · Distributed jobs |
+| **Prompt Fusion** | Semantic prompt layering system for LLMs |
+| **AI Docs Copier** | Chrome extension · Copy docs as Markdown/llms.txt |
+
+---
+
+### Background
+
+- 7,000+ lecture hours in software development
+- Founded BarberBuddies — Online store builder for barbershops in minutes
+- Berlin, Germany
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/othman-adi">LinkedIn</a> ·
+  <a href="mailto:your-email@example.com">Email</a>
 </p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://paypal.me/Othmanadi" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
