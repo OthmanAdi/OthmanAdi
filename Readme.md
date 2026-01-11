@@ -7,7 +7,7 @@
 ### Human
 
 Berlin, Germany
-Team Lead @ [aikux](https://aikux.ai)
+Team Lead @ [aikux](https://www.aikux.ai)
 8,000+ hours teaching developers
 
 **Languages:** Arabic · English · German · learning Turkish, French, Spanish
