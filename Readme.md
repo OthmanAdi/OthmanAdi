@@ -39,6 +39,15 @@ Team Lead @ [aikux](https://www.aikux.ai)
 
 ---
 
+### 2026 Highlights
+
+| | |
+|---|---|
+| <a href="https://github.com/OthmanAdi/planning-with-files" target="_blank"><b>planning-with-files</b></a> ⭐ 7.1K | Manus-style file-based planning for Claude Code. First production-grade context engineering skill. |
+| <a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch" target="_blank"><b>langsmith-fetch</b></a> | First AI observability skill for Claude Code. Debug LangChain/LangGraph agents. Featured in [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills). |
+
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/codingwithadi" target="_blank">LinkedIn</a> ·
   <a href="mailto:adiatwork@outlook.com">Email</a>
