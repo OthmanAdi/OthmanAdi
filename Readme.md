@@ -1,6 +1,6 @@
 # Ahmad Othman Adi
 
-**Berlin** · Team Lead @ [aikux](https://aikux.ai) · 8,000+ hours teaching developers
+**Teach. Build. Give it away. Repeat.**
 
 ---
 
