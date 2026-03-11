@@ -39,4 +39,4 @@
 <a href="https://linkedin.com/in/codingwithadi">LinkedIn</a> · <a href="mailto:adiatwork@outlook.com">Email</a>
 </p>
 
-<sub>🍰 I make very good tiramisu</sub>
+<sub>🤌 I make very good tiramisu</sub>
