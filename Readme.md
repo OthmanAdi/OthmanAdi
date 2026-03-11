@@ -8,7 +8,7 @@
 
 | | |
 |:--|:--|
-| [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) ⭐ 15.8K | Manus-style persistent markdown planning for Claude Code |
+| [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) | Manus-style persistent markdown planning for Claude Code |
 | [**promptfusion**](https://github.com/OthmanAdi/promptfusion) | Three-layer prompt composition system for AI agents — semantic weighted priorities that LLMs actually follow |
 | [**langsmith-fetch**](https://github.com/OthmanAdi/langsmith-fetch-skill) | AI observability skill for Claude Code — debug LangChain/LangGraph agents from your terminal |
 | [**AI-Docs-Copier**](https://github.com/OthmanAdi/AI-Docs-Copier) | Transform any documentation into AI-friendly formats |
@@ -17,6 +17,7 @@
 | [**OpenMark**](https://github.com/OthmanAdi/OpenMark) | Personal knowledge graph — 8K+ bookmarks indexed with LangGraph + Neo4j |
 | [**langgraph-checkpoint-neo4j-js**](https://github.com/OthmanAdi/langgraph-checkpoint-neo4j-js) | Neo4j checkpoint saver for LangGraph.js — persistent agent memory with time-travel |
 | [**vibe-skills**](https://github.com/OthmanAdi/vibe-skills) | Generate and deploy websites from natural language — live URL in seconds |
+| [**open-responses-agent-skill**](https://github.com/OthmanAdi/open-responses-agent-skill) | Multi-provider agent development via HuggingFace Inference Providers |
 | [**Mystic-Portfolio**](https://github.com/OthmanAdi/Mystic-Portfolio) | Multilingual portfolio — React 19, TypeScript, Tailwind, RTL support |
 
 ---
