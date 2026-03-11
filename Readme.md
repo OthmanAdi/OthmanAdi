@@ -22,6 +22,14 @@
 
 ---
 
+### Contributions
+
+| | |
+|:--|:--|
+| [**langsmith-fetch**](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch) | Merged into [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) (43K+ stars) |
+
+---
+
 ### Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
