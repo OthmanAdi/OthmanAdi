@@ -1,3 +1,19 @@
+<p align="center">
+  <a href="https://github.com/OthmanAdi/APEX">
+    <img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX - Agentic Production Engineering eXecution" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <strong>6-12 months → 4 weeks</strong> — AI-driven replatforming, migration, and high-velocity engineering workflows.
+</p>
+
+<p align="center">
+  <code>npx skills add OthmanAdi/APEX</code>
+</p>
+
+---
+
 # Ahmad Othman Adi
 
 **Teach. Build. Give it away. Repeat.**
@@ -47,4 +63,4 @@
 <a href="https://linkedin.com/in/codingwithadi">LinkedIn</a> · <a href="mailto:adiatwork@outlook.com">Email</a>
 </p>
 
-<sub>🤌 I make very good tiramisu</sub>
+<sub>I make very good tiramisu</sub>
