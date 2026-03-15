@@ -79,8 +79,6 @@
 | | |
 | [**langgraph-checkpoint-neo4j-js**](https://github.com/OthmanAdi/langgraph-checkpoint-neo4j-js) | Neo4j checkpoint saver for LangGraph.js. Persistent memory with time-travel. |
 | | |
-| [**ai-doc-gen**](https://github.com/OthmanAdi/ai-doc-gen) | Multi-agent system for automatic codebase documentation |
-| | |
 | [**AI-Docs-Copier**](https://github.com/OthmanAdi/AI-Docs-Copier) | Transform any documentation into AI-friendly formats |
 | | |
 | [**analyzeRepo**](https://github.com/OthmanAdi/analyzeRepo) | Go CLI that uses Claude to analyze repos and generate onboarding docs |
