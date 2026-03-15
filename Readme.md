@@ -1,4 +1,16 @@
 <p align="center">
+  12+ years building production systems · 8,000+ teaching hours · 100+ tech careers launched
+</p>
+
+<p align="center">
+  <a href="https://skills.sh/othmanadi"><img src="https://img.shields.io/badge/skills.sh-~10K_weekly_downloads-black?style=flat-square" alt="skills.sh"></a>
+  &nbsp;
+  <a href="https://github.com/OthmanAdi/planning-with-files/stargazers"><img src="https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&label=planning-with-files&color=gold" alt="stars"></a>
+</p>
+
+---
+
+<p align="center">
   <a href="https://github.com/OthmanAdi/APEX">
     <img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="700">
   </a>
@@ -36,19 +48,6 @@
 </td>
 </tr>
 </table>
-
----
-
-<p align="center">
-  <strong>Software Engineer · AI Architect · Technical Educator</strong><br>
-  12+ years building production systems · 8,000+ teaching hours · 100+ tech careers launched
-</p>
-
-<p align="center">
-  <a href="https://skills.sh/othmanadi"><img src="https://img.shields.io/badge/skills.sh-~10K_weekly_downloads-black?style=flat-square" alt="skills.sh"></a>
-  &nbsp;
-  <a href="https://github.com/OthmanAdi/planning-with-files/stargazers"><img src="https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&label=planning-with-files&color=gold" alt="stars"></a>
-</p>
 
 ---
 
