@@ -6,9 +6,21 @@
   <a href="https://skills.sh/othmanadi"><img src="https://img.shields.io/badge/skills.sh-~10K_weekly_downloads-black?style=flat-square" alt="skills.sh"></a>
   &nbsp;
   <a href="https://github.com/OthmanAdi/planning-with-files/stargazers"><img src="https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&label=planning-with-files&color=gold" alt="stars"></a>
+  &nbsp;
+  <a href="https://github.com/OthmanAdi/researchclaw-skill/stargazers"><img src="https://img.shields.io/github/stars/OthmanAdi/researchclaw-skill?style=flat-square&label=researchclaw-skill&color=red" alt="stars"></a>
 </p>
 
 ---
+
+<p align="center">
+  <sub>Looking for the best planning skill for coding agents?</sub>
+  <br>
+  <a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a> — 16K+ developers use it. Manus-style persistent markdown planning.
+  <br>
+  <code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code>
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://github.com/OthmanAdi/APEX">
@@ -22,6 +34,20 @@
 
 <p align="center">
   <code>npx skills add OthmanAdi/APEX</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/OthmanAdi/researchclaw-skill">
+    <img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Topic → Conference-grade paper</strong> · 23-stage autonomous research pipeline with real citations, sandbox experiments, and multi-agent peer review.
+</p>
+
+<p align="center">
+  <code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code>
 </p>
 
 <br>
@@ -66,7 +92,7 @@
 
 | | |
 |:--|:--|
-| [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) ⭐ 16K+ | Manus-style persistent markdown planning for Claude Code |
+| [**researchclaw-skill**](https://github.com/OthmanAdi/researchclaw-skill) | One-command autonomous research paper generator. Wraps AutoResearchClaw's 23-stage pipeline. |
 | | |
 | [**APEX**](https://github.com/OthmanAdi/APEX) | Cross-platform skill framework for AI-driven replatforming |
 | | |
