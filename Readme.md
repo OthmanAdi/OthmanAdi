@@ -10,12 +10,24 @@
   <a href="https://github.com/OthmanAdi/researchclaw-skill/stargazers"><img src="https://img.shields.io/github/stars/OthmanAdi/researchclaw-skill?style=flat-square&label=researchclaw-skill&color=red" alt="stars"></a>
 </p>
 
+Looking for the best planning skill for coding agents?
+<br>
+<a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a> — 16K+ developers use it. Manus-style persistent markdown planning.
+<br>
+<code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code>
+
 <p align="center">
-  Looking for the best planning skill for coding agents?
-  <br>
-  <a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a> — 16K+ developers use it. Manus-style persistent markdown planning.
-  <br>
-  <code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code>
+  <a href="https://github.com/OthmanAdi/researchclaw-skill">
+    <img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="640">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Topic → Conference-grade paper</strong> · 23-stage autonomous research pipeline with real citations, sandbox experiments, and multi-agent peer review.
+</p>
+
+<p align="center">
+  <code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code>
 </p>
 
 <p align="center">
@@ -30,20 +42,6 @@
 
 <p align="center">
   <code>npx skills add OthmanAdi/APEX</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/OthmanAdi/researchclaw-skill">
-    <img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="700">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Topic → Conference-grade paper</strong> · 23-stage autonomous research pipeline with real citations, sandbox experiments, and multi-agent peer review.
-</p>
-
-<p align="center">
-  <code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code>
 </p>
 
 <br>
