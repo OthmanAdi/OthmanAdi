@@ -13,14 +13,12 @@
 ---
 
 <p align="center">
-  <sub>Looking for the best planning skill for coding agents?</sub>
+  Looking for the best planning skill for coding agents?
   <br>
   <a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a> — 16K+ developers use it. Manus-style persistent markdown planning.
   <br>
   <code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code>
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://github.com/OthmanAdi/APEX">
