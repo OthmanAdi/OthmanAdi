@@ -28,16 +28,27 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
+<a href="https://github.com/OthmanAdi/pr-perfect">
+<img src="https://raw.githubusercontent.com/OthmanAdi/pr-perfect/main/media/logo.png" width="120" alt="pr-perfect">
+</a>
+<br><br>
+<a href="https://github.com/OthmanAdi/pr-perfect"><strong>pr-perfect</strong></a>
+<br>
+<sub>One command to engineer PR descriptions your boss's agent can verify.</sub>
+<br>
+<sub><code>npx skills add OthmanAdi/pr-perfect</code></sub>
+</td>
+<td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/awesome-here-now">
-<img src="https://raw.githubusercontent.com/OthmanAdi/awesome-here-now/main/media/banner_v5.png" width="400" alt="awesome-here-now">
+<img src="https://raw.githubusercontent.com/OthmanAdi/awesome-here-now/main/media/banner_v5.png" width="280" alt="awesome-here-now">
 </a>
 <br><br>
 <a href="https://github.com/OthmanAdi/awesome-here-now"><strong>awesome-here-now</strong></a>
 <br>
 <sub>Curated showcase of sites published with here.now</sub>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/vibe-skills">
 <img src="https://raw.githubusercontent.com/OthmanAdi/vibe-skills/master/media/logo.png" width="100" alt="vibe-skills">
 </a>
