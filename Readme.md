@@ -10,8 +10,6 @@
   <a href="https://github.com/OthmanAdi/researchclaw-skill/stargazers"><img src="https://img.shields.io/github/stars/OthmanAdi/researchclaw-skill?style=flat-square&label=researchclaw-skill&color=red" alt="stars"></a>
 </p>
 
----
-
 <p align="center">
   Looking for the best planning skill for coding agents?
   <br>
