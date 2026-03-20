@@ -10,11 +10,13 @@
   <a href="https://github.com/OthmanAdi/researchclaw-skill/stargazers"><img src="https://img.shields.io/github/stars/OthmanAdi/researchclaw-skill?style=flat-square&label=researchclaw-skill&color=red" alt="stars"></a>
 </p>
 
-Looking for the best planning skill for coding agents?
-<br>
-<a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a> — 16K+ developers use it. Manus-style persistent markdown planning.
-<br>
-<code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code>
+<p align="center">
+  Looking for the best planning skill for coding agents?
+  <br>
+  <a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a> — 16K+ developers use it. Manus-style persistent markdown planning.
+  <br>
+  <code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code>
+</p>
 
 <p align="center">
   <a href="https://github.com/OthmanAdi/researchclaw-skill">
@@ -32,7 +34,7 @@ Looking for the best planning skill for coding agents?
 
 <p align="center">
   <a href="https://github.com/OthmanAdi/APEX">
-    <img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="700">
+    <img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="640">
   </a>
 </p>
 
