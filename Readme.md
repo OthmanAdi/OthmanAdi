@@ -67,6 +67,8 @@
 | | |
 | [**open-responses-agent-skill**](https://github.com/OthmanAdi/open-responses-agent-skill) | Multi-provider agent dev via HuggingFace Inference Providers |
 | | |
+| [**pr-perfect**](https://github.com/OthmanAdi/pr-perfect) | One command to engineer PR descriptions. Forensic commit analysis, team-format output. |
+| | |
 | [**cowork-workflows**](https://github.com/OthmanAdi/cowork-workflows) | File-based planning workflows for Cowork |
 
 #### AI Systems
