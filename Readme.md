@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <strong>Topic → Conference-grade paper</strong> · 23-stage autonomous research pipeline with real citations, sandbox experiments, and multi-agent peer review.
+  <strong>Topic → Conference-grade paper</strong> · Autonomous 23-stage research pipeline. Real citations, sandbox experiments, peer review.
 </p>
 
 <p align="center">
