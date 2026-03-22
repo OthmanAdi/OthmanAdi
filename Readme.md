@@ -4,10 +4,6 @@
 
 <p align="center">
   <a href="https://skills.sh/othmanadi"><img src="https://img.shields.io/badge/skills.sh-~10K_weekly_downloads-black?style=flat-square" alt="skills.sh"></a>
-  &nbsp;
-  <a href="https://github.com/OthmanAdi/planning-with-files/stargazers"><img src="https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&label=planning-with-files&color=gold" alt="stars"></a>
-  &nbsp;
-  <a href="https://github.com/OthmanAdi/researchclaw-skill/stargazers"><img src="https://img.shields.io/github/stars/OthmanAdi/researchclaw-skill?style=flat-square&label=researchclaw-skill&color=red" alt="stars"></a>
 </p>
 
 <p align="center">
@@ -19,34 +15,35 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/OthmanAdi/researchclaw-skill">
-    <img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="640">
+  <a href="https://github.com/OthmanAdi/openui-forge">
+    <img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/logo.png" alt="OpenUI Forge" width="200">
   </a>
 </p>
 
 <p align="center">
-  <strong>Topic → Conference-grade paper</strong> · Autonomous 23-stage research pipeline. Real citations, sandbox experiments, peer review.
+  <a href="https://github.com/OthmanAdi/openui-forge"><strong>openui-forge</strong></a> — Build generative UI with OpenUI. Any LLM. Any backend. 9 skills, 12 platforms.
+  <br>
+  <code>npx skills add OthmanAdi/openui-forge --skill openui-forge -g</code>
 </p>
 
-<p align="center">
-  <code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/OthmanAdi/APEX">
-    <img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="640">
-  </a>
-</p>
-
-<p align="center">
-  <strong>6-12 months → 4 weeks</strong> · AI-driven replatforming, migration, and high-velocity engineering workflows.
-</p>
-
-<p align="center">
-  <code>npx skills add OthmanAdi/APEX</code>
-</p>
-
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/OthmanAdi/researchclaw-skill"><strong>researchclaw-skill</strong></a>
 <br>
+<sub><strong>Topic to conference-grade paper</strong> · Autonomous 23-stage research pipeline. Real citations, sandbox experiments, peer review.</sub>
+<br>
+<sub><code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code></sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/OthmanAdi/APEX"><strong>APEX</strong></a>
+<br>
+<sub><strong>6-12 months to 4 weeks</strong> · AI-driven replatforming, migration, and high-velocity engineering workflows.</sub>
+<br>
+<sub><code>npx skills add OthmanAdi/APEX</code></sub>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -89,19 +86,13 @@
 | | |
 |:--|:--|
 | [**researchclaw-skill**](https://github.com/OthmanAdi/researchclaw-skill) | One-command autonomous research paper generator. Wraps AutoResearchClaw's 23-stage pipeline. |
-| | |
 | [**APEX**](https://github.com/OthmanAdi/APEX) | Cross-platform skill framework for AI-driven replatforming |
-| | |
+| [**openui-forge**](https://github.com/OthmanAdi/openui-forge) | Build generative UI with OpenUI. Any LLM, any backend, 9 skill variants. |
 | [**planning-with-teams**](https://github.com/OthmanAdi/planning-with-teams) | Context engineering for Claude Code Agent Teams |
-| | |
 | [**langsmith-fetch**](https://github.com/OthmanAdi/langsmith-fetch-skill) | AI observability skill. Debug LangChain/LangGraph agents from your terminal. |
-| | |
 | [**codebase-knowledge-builder**](https://github.com/OthmanAdi/codebase-knowledge-builder) | Produces structured knowledge artifacts from any codebase |
-| | |
 | [**open-responses-agent-skill**](https://github.com/OthmanAdi/open-responses-agent-skill) | Multi-provider agent dev via HuggingFace Inference Providers |
-| | |
 | [**pr-perfect**](https://github.com/OthmanAdi/pr-perfect) | One command to engineer PR descriptions. Forensic commit analysis, team-format output. |
-| | |
 | [**cowork-workflows**](https://github.com/OthmanAdi/cowork-workflows) | File-based planning workflows for Cowork |
 
 #### AI Systems
@@ -109,13 +100,9 @@
 | | |
 |:--|:--|
 | [**promptfusion**](https://github.com/OthmanAdi/promptfusion) · [promptsfusion.com](https://promptsfusion.com) | Three-layer prompt composition for AI agents. Semantic weighted priorities. |
-| | |
 | [**OpenMark**](https://github.com/OthmanAdi/OpenMark) | Personal knowledge graph. 8K+ bookmarks indexed with LangGraph + Neo4j. |
-| | |
 | [**langgraph-checkpoint-neo4j-js**](https://github.com/OthmanAdi/langgraph-checkpoint-neo4j-js) | Neo4j checkpoint saver for LangGraph.js. Persistent memory with time-travel. |
-| | |
 | [**AI-Docs-Copier**](https://github.com/OthmanAdi/AI-Docs-Copier) | Transform any documentation into AI-friendly formats |
-| | |
 | [**analyzeRepo**](https://github.com/OthmanAdi/analyzeRepo) | Go CLI that uses Claude to analyze repos and generate onboarding docs |
 
 #### Web & Apps
@@ -123,9 +110,7 @@
 | | |
 |:--|:--|
 | [**BarbersBuddies**](https://github.com/OthmanAdi/BarbersBuddies_Onlineshop_maker) · [barbersbuddies.com](https://barbersbuddies.com/) | Complete open-source booking platform for barbershops. React + Firebase + Stripe. |
-| | |
 | [**Mystic-Portfolio**](https://github.com/OthmanAdi/Mystic-Portfolio) · [othmanadi.com](https://othmanadi.com) | Multilingual developer portfolio. React 19, TypeScript, Tailwind, RTL support. |
-| | |
 | [**appwrite-keepalive**](https://github.com/OthmanAdi/appwrite-keepalive) | Keep your Appwrite free-tier projects alive. Automated. Zero infrastructure. |
 
 ---
