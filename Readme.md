@@ -2,29 +2,30 @@
   12+ years building production systems · 8,000+ teaching hours · 100+ tech careers launched
 </p>
 
-<p align="center">
-  <a href="https://skills.sh/othmanadi"><img src="https://img.shields.io/badge/skills.sh-~10K_weekly_downloads-black?style=flat-square" alt="skills.sh"></a>
-</p>
-
-<p align="center">
-  Looking for the best planning skill for coding agents?
-  <br>
-  <a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a> — 16K+ developers use it. Manus-style persistent markdown planning.
-  <br>
-  <code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/OthmanAdi/openui-forge">
-    <img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/logo.png" alt="OpenUI Forge" width="200">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/OthmanAdi/openui-forge"><strong>openui-forge</strong></a> — Build generative UI with OpenUI. Any LLM. Any backend. 9 skills, 12 platforms.
-  <br>
-  <code>npx skills add OthmanAdi/openui-forge --skill openui-forge -g</code>
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/OthmanAdi/planning-with-files">
+<strong>planning-with-files</strong>
+</a>
+<br>
+16K+ developers use it. Manus-style persistent markdown planning.
+<br><br>
+<code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/OthmanAdi/openui-forge">
+<img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/logo.png" alt="OpenUI Forge" width="160">
+</a>
+<br>
+<a href="https://github.com/OthmanAdi/openui-forge"><strong>openui-forge</strong></a>
+<br>
+Build generative UI with OpenUI. Any LLM. Any backend.
+<br><br>
+<code>npx skills add OthmanAdi/openui-forge --skill openui-forge -g</code>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
