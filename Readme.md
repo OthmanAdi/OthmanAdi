@@ -29,16 +29,20 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/OthmanAdi/researchclaw-skill"><strong>researchclaw-skill</strong></a>
+<a href="https://github.com/OthmanAdi/researchclaw-skill">
+<img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="320">
+</a>
 <br>
-<sub><strong>Topic to conference-grade paper</strong> · Autonomous 23-stage research pipeline. Real citations, sandbox experiments, peer review.</sub>
+<sub><strong>Topic to conference-grade paper</strong> · Autonomous 23-stage research pipeline.</sub>
 <br>
 <sub><code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code></sub>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/OthmanAdi/APEX"><strong>APEX</strong></a>
+<a href="https://github.com/OthmanAdi/APEX">
+<img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="320">
+</a>
 <br>
-<sub><strong>6-12 months to 4 weeks</strong> · AI-driven replatforming, migration, and high-velocity engineering workflows.</sub>
+<sub><strong>6-12 months to 4 weeks</strong> · AI-driven replatforming and migration workflows.</sub>
 <br>
 <sub><code>npx skills add OthmanAdi/APEX</code></sub>
 </td>
