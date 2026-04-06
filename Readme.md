@@ -41,6 +41,8 @@ Tools I built for coding agents — install in one line.
 <a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a>
 <br>
 <sub>Manus-style persistent markdown planning. Used by 16K+ developers.</sub>
+<br>
+<a href="https://skillsplayground.com/skills/othmanadi-planning-with-files-planning-with-files/"><img src="https://skillsplayground.com/badges/installs/othmanadi-planning-with-files-planning-with-files.svg" alt="Skills Playground"></a>
 <br><br>
 <sub><code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code></sub>
 </td>
@@ -324,22 +326,6 @@ Code I wrote that lives in other people's repos. Projects built on my work.
 
 *— References available on [LinkedIn](https://linkedin.com/in/codingwithadi).*
 
----
-
-### Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
@@ -347,4 +333,3 @@ Code I wrote that lives in other people's repos. Projects built on my work.
 <a href="https://linkedin.com/in/codingwithadi">LinkedIn</a> · <a href="https://othmanadi.com">othmanadi.com</a> · <a href="mailto:adiatwork@outlook.com">Email</a>
 </p>
 
-<sub>I make very good tiramisu</sub>
