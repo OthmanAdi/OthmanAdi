@@ -202,8 +202,6 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub>Three-layer prompt composition for AI agents. Semantic weighted priorities.</sub>
 </td>
-<td align="center" width="50%">
-</td>
 </tr>
 </table>
 
@@ -211,7 +209,6 @@ Tools I built for coding agents — install in one line.
 |:--|:--|
 | [**langgraph-checkpoint-neo4j-js**](https://github.com/OthmanAdi/langgraph-checkpoint-neo4j-js) | Neo4j checkpoint saver for LangGraph.js. Persistent memory with time-travel. |
 | [**AI-Docs-Copier**](https://github.com/OthmanAdi/AI-Docs-Copier) | Transform any documentation into AI-friendly formats |
-| [**analyzeRepo**](https://github.com/OthmanAdi/analyzeRepo) | Go CLI that uses Claude to analyze repos and generate onboarding docs |
 
 ---
 
