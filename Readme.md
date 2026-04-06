@@ -22,7 +22,7 @@ AI instructor · Team Lead · Builder
 | | |
 |:--|:--|
 | **migRaven AI** | Leading AI engine integration on migRaven — browser agent, LLM streaming, generative UI, Langfuse tracing. 35+ PRs merged. |
-| **skill-deck** | Desktop overlay for browsing and injecting skills into any coding agent. Tauri v2 · Rust · Svelte 5. Coming. |
+| **skill-deck** | Desktop overlay for browsing and injecting skills into any coding agent. Tauri v2 · Rust · Svelte 5. |
 | **OpenMark** | Personal knowledge graph. 8K+ bookmarks indexed with pplx-embed, ChromaDB, Neo4j, LangGraph. |
 
 ---
@@ -35,8 +35,10 @@ Tools I built for coding agents — install in one line.
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/OthmanAdi/planning-with-files">
-<strong>planning-with-files</strong>
+<img src="https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/media/banner.png" alt="planning-with-files" width="320">
 </a>
+<br>
+<a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a>
 <br>
 <sub>Manus-style persistent markdown planning. Used by 16K+ developers.</sub>
 <br><br>
@@ -63,6 +65,8 @@ Tools I built for coding agents — install in one line.
 <img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="320">
 </a>
 <br>
+<a href="https://github.com/OthmanAdi/researchclaw-skill"><strong>researchclaw-skill</strong></a>
+<br>
 <sub><strong>Topic to conference-grade paper.</strong> Autonomous 23-stage research pipeline.</sub>
 <br>
 <sub><code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code></sub>
@@ -72,9 +76,45 @@ Tools I built for coding agents — install in one line.
 <img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="320">
 </a>
 <br>
+<a href="https://github.com/OthmanAdi/APEX"><strong>APEX</strong></a>
+<br>
 <sub><strong>6-12 months to 4 weeks.</strong> AI-driven replatforming and migration workflows.</sub>
 <br>
 <sub><code>npx skills add OthmanAdi/APEX</code></sub>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/OthmanAdi/langsmith-fetch-skill">
+<img src="https://raw.githubusercontent.com/OthmanAdi/langsmith-fetch-skill/main/media/banner.png" alt="langsmith-fetch" width="280">
+</a>
+<br><br>
+<a href="https://github.com/OthmanAdi/langsmith-fetch-skill"><strong>langsmith-fetch</strong></a>
+<br>
+<sub>AI observability skill. Debug LangChain/LangGraph agents from your terminal.</sub>
+<br>
+<sub><code>npx skills add OthmanAdi/langsmith-fetch-skill</code></sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/OthmanAdi/agent-blueprint">
+<img src="https://raw.githubusercontent.com/OthmanAdi/agent-blueprint/master/media/banner.png" alt="agent-blueprint" width="280">
+</a>
+<br><br>
+<a href="https://github.com/OthmanAdi/agent-blueprint"><strong>agent-blueprint</strong></a>
+<br>
+<sub>Build production-grade AI agents from scratch. Patterns, templates, references.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/OthmanAdi/schema-architect">
+<img src="https://raw.githubusercontent.com/OthmanAdi/schema-architect/master/media/banner.png" alt="schema-architect" width="280">
+</a>
+<br><br>
+<a href="https://github.com/OthmanAdi/schema-architect"><strong>schema-architect</strong></a>
+<br>
+<sub>Production-ready DB schemas for SQLite + Redis + Neo4j with Rust/Go bindings.</sub>
 </td>
 </tr>
 </table>
@@ -115,26 +155,56 @@ Tools I built for coding agents — install in one line.
 
 | | |
 |:--|:--|
-| [**researchclaw-skill**](https://github.com/OthmanAdi/researchclaw-skill) | One-command autonomous research paper generator. Wraps AutoResearchClaw's 23-stage pipeline. |
-| [**APEX**](https://github.com/OthmanAdi/APEX) | Cross-platform skill framework for AI-driven replatforming |
-| [**openui-forge**](https://github.com/OthmanAdi/openui-forge) | Build generative UI with OpenUI. Any LLM, any backend, 9 skill variants. |
 | [**planning-with-teams**](https://github.com/OthmanAdi/planning-with-teams) | Context engineering for Claude Code Agent Teams |
-| [**langsmith-fetch**](https://github.com/OthmanAdi/langsmith-fetch-skill) | AI observability skill. Debug LangChain/LangGraph agents from your terminal. |
 | [**codebase-knowledge-builder**](https://github.com/OthmanAdi/codebase-knowledge-builder) | Produces structured knowledge artifacts from any codebase |
 | [**open-responses-agent-skill**](https://github.com/OthmanAdi/open-responses-agent-skill) | Multi-provider agent dev via HuggingFace Inference Providers |
-| [**schema-architect**](https://github.com/OthmanAdi/schema-architect) | Production-ready DB schemas for SQLite + Redis + Neo4j with Rust/Go bindings |
-| [**agent-blueprint**](https://github.com/OthmanAdi/agent-blueprint) | Build production-grade AI agents from scratch. Patterns, templates, references. |
-| [**pr-perfect**](https://github.com/OthmanAdi/pr-perfect) | One command to engineer PR descriptions. Forensic commit analysis, team-format output. |
 | [**cowork-workflows**](https://github.com/OthmanAdi/cowork-workflows) | File-based planning workflows for Cowork |
 
 ---
 
 ### AI Systems
 
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/OthmanAdi/skill-deck">
+<img src="https://raw.githubusercontent.com/OthmanAdi/skill-deck/master/media/banner.png" alt="skill-deck" width="320">
+</a>
+<br>
+<a href="https://github.com/OthmanAdi/skill-deck"><strong>skill-deck</strong></a>
+<br>
+<sub>Universal coding agent skill browser. Desktop overlay for 15+ agents. Tauri v2 · Rust · Svelte 5.</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/OthmanAdi/OpenMark">
+<img src="https://raw.githubusercontent.com/OthmanAdi/OpenMark/main/media/banner.png" alt="OpenMark" width="320">
+</a>
+<br>
+<a href="https://github.com/OthmanAdi/OpenMark"><strong>OpenMark</strong></a>
+<br>
+<sub>Personal knowledge graph. 8K+ bookmarks indexed with LangGraph + Neo4j.</sub>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/OthmanAdi/promptfusion">
+<img src="https://raw.githubusercontent.com/OthmanAdi/promptfusion/main/media/banner.png" alt="promptfusion" width="320">
+</a>
+<br>
+<a href="https://github.com/OthmanAdi/promptfusion"><strong>promptfusion</strong></a>
+<br>
+<sub>Three-layer prompt composition for AI agents. Semantic weighted priorities.</sub>
+</td>
+<td align="center" width="50%">
+</td>
+</tr>
+</table>
+
 | | |
 |:--|:--|
-| [**promptfusion**](https://github.com/OthmanAdi/promptfusion) · [promptsfusion.com](https://promptsfusion.com) | Three-layer prompt composition for AI agents. Semantic weighted priorities. |
-| [**OpenMark**](https://github.com/OthmanAdi/OpenMark) | Personal knowledge graph. 8K+ bookmarks indexed with LangGraph + Neo4j. |
 | [**langgraph-checkpoint-neo4j-js**](https://github.com/OthmanAdi/langgraph-checkpoint-neo4j-js) | Neo4j checkpoint saver for LangGraph.js. Persistent memory with time-travel. |
 | [**AI-Docs-Copier**](https://github.com/OthmanAdi/AI-Docs-Copier) | Transform any documentation into AI-friendly formats |
 | [**analyzeRepo**](https://github.com/OthmanAdi/analyzeRepo) | Go CLI that uses Claude to analyze repos and generate onboarding docs |
@@ -187,8 +257,6 @@ Code I wrote that lives in other people's repos.
 </table>
 
 #### Open PRs
-
-Contributions currently under review.
 
 | | |
 |:--|:--|
