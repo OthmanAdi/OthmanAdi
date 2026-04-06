@@ -46,7 +46,7 @@ Tools I built for coding agents — install in one line.
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/OthmanAdi/openui-forge">
-<img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/logo.png" alt="OpenUI Forge" width="160">
+<img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/banner.png" alt="OpenUI Forge" width="320">
 </a>
 <br>
 <a href="https://github.com/OthmanAdi/openui-forge"><strong>openui-forge</strong></a>
