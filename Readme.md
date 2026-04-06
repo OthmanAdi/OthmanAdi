@@ -276,6 +276,10 @@ Code I wrote that lives in other people's repos. Projects built on my work.
 
 | | |
 |:--|:--|
+| [santifer/career-ops#23](https://github.com/santifer/career-ops/pull/23) | Add German language modes for DACH market (de/) |
+| [santifer/career-ops#22](https://github.com/santifer/career-ops/pull/22) | Add dual-track engineer-instructor CV example |
+| [santifer/career-ops#21](https://github.com/santifer/career-ops/pull/21) | Add DACH/European AI companies to portal scanner |
+| [santifer/career-ops#20](https://github.com/santifer/career-ops/pull/20) | Reduce AI detection signals in generated CVs |
 | [rlnorthcutt/analyzeRepo#1](https://github.com/rlnorthcutt/analyzeRepo/pull/1) | Add multi-provider LLM support — Azure OpenAI, OpenAI, Ollama |
 | [divar-ir/ai-doc-gen#21](https://github.com/divar-ir/ai-doc-gen/pull/21) | Add Azure OpenAI Service support |
 
