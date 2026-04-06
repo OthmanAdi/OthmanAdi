@@ -212,48 +212,40 @@ Tools I built for coding agents — install in one line.
 
 ---
 
-### Web & Apps
-
-| | |
-|:--|:--|
-| [**BarbersBuddies**](https://github.com/OthmanAdi/BarbersBuddies_Onlineshop_maker) · [barbersbuddies.com](https://barbersbuddies.com/) | Complete open-source booking platform for barbershops. React + Firebase + Stripe. |
-| [**Mystic-Portfolio**](https://github.com/OthmanAdi/Mystic-Portfolio) · [othmanadi.com](https://othmanadi.com) | Multilingual developer portfolio. React 19, TypeScript, Tailwind, RTL support. |
-| [**appwrite-keepalive**](https://github.com/OthmanAdi/appwrite-keepalive) | Keep your Appwrite free-tier projects alive. Automated. Zero infrastructure. |
-
----
-
 ### Merged Into the Wild
 
 Code I wrote that lives in other people's repos.
 
 <table>
 <tr>
-<td width="60%">
+<td width="35%" align="center">
+<a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch">
+<img src="https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a" alt="awesome-claude-skills" width="260">
+</a>
+</td>
+<td width="65%">
 <a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch"><strong>ComposioHQ/awesome-claude-skills</strong></a>
+&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&labelColor=0f172a&color=f59e0b" />
 <br>
 <sub>Merged: <a href="https://github.com/ComposioHQ/awesome-claude-skills/pull/21">feat: Add LangSmith Fetch — first AI observability skill</a></sub>
 </td>
-<td width="40%" align="right">
-<img src="https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&labelColor=0f172a&color=f59e0b" />
-</td>
 </tr>
 <tr>
+<td></td>
 <td>
 <a href="https://github.com/uberskillsdev/uberSKILLS"><strong>uberskillsdev/uberSKILLS</strong></a>
+&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/uberskillsdev/uberSKILLS?style=flat-square&labelColor=0f172a&color=f59e0b" />
 <br>
-<sub>Merged: <a href="https://github.com/uberskillsdev/uberSKILLS/pull/65">#65 Windows compatibility for launcher script</a> · <a href="https://github.com/uberskillsdev/uberSKILLS/pull/67">#67 Claude Code skill format support</a></sub>
-</td>
-<td align="right">
-<img src="https://img.shields.io/github/stars/uberskillsdev/uberSKILLS?style=flat-square&labelColor=0f172a&color=f59e0b" />
+<sub>Merged: <a href="https://github.com/uberskillsdev/uberSKILLS/pull/65">#65 Windows compatibility</a> · <a href="https://github.com/uberskillsdev/uberSKILLS/pull/67">#67 Claude Code skill format support</a></sub>
 </td>
 </tr>
 <tr>
+<td></td>
 <td>
 <a href="https://github.com/buzhangsan/skill-manager"><strong>buzhangsan/skill-manager</strong></a>
 <br>
 <sub>Merged: <a href="https://github.com/buzhangsan/skill-manager/pull/1">#1 Add planning-with-files and langsmith-fetch skills</a></sub>
 </td>
-<td align="right"></td>
 </tr>
 </table>
 
@@ -263,6 +255,16 @@ Code I wrote that lives in other people's repos.
 |:--|:--|
 | [rlnorthcutt/analyzeRepo#1](https://github.com/rlnorthcutt/analyzeRepo/pull/1) | Add multi-provider LLM support — Azure OpenAI, OpenAI, Ollama |
 | [divar-ir/ai-doc-gen#21](https://github.com/divar-ir/ai-doc-gen/pull/21) | Add Azure OpenAI Service support |
+
+---
+
+### Web & Apps
+
+| | |
+|:--|:--|
+| [**BarbersBuddies**](https://github.com/OthmanAdi/BarbersBuddies_Onlineshop_maker) · [barbersbuddies.com](https://barbersbuddies.com/) | Complete open-source booking platform for barbershops. React + Firebase + Stripe. |
+| [**Mystic-Portfolio**](https://github.com/OthmanAdi/Mystic-Portfolio) · [othmanadi.com](https://othmanadi.com) | Multilingual developer portfolio. React 19, TypeScript, Tailwind, RTL support. |
+| [**appwrite-keepalive**](https://github.com/OthmanAdi/appwrite-keepalive) | Keep your Appwrite free-tier projects alive. Automated. Zero infrastructure. |
 
 ---
 
