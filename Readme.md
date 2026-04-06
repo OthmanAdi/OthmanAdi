@@ -214,38 +214,61 @@ Tools I built for coding agents — install in one line.
 
 ### Merged Into the Wild
 
-Code I wrote that lives in other people's repos.
+Code I wrote that lives in other people's repos. Projects built on my work.
 
 <table>
 <tr>
-<td width="35%" align="center">
-<a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch">
-<img src="https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a" alt="awesome-claude-skills" width="260">
+<td align="center" width="50%">
+<a href="https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/planning-with-files">
+<img src="https://github.com/user-attachments/assets/e3617410-9b1c-4731-87b7-a3858800b737" alt="claude-code-templates" width="320">
 </a>
+<br>
+<a href="https://github.com/davila7/claude-code-templates"><strong>davila7/claude-code-templates</strong></a>
+&nbsp;<img src="https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&labelColor=0f172a&color=f59e0b" />
+<br>
+<sub>planning-with-files included in the largest Claude Code template library. Listed on LobeHub.</sub>
 </td>
-<td width="65%">
+<td align="center" width="50%">
+<a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch">
+<img src="https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a" alt="awesome-claude-skills" width="320">
+</a>
+<br>
 <a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch"><strong>ComposioHQ/awesome-claude-skills</strong></a>
-&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&labelColor=0f172a&color=f59e0b" />
+&nbsp;<img src="https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&labelColor=0f172a&color=f59e0b" />
 <br>
 <sub>Merged: <a href="https://github.com/ComposioHQ/awesome-claude-skills/pull/21">feat: Add LangSmith Fetch — first AI observability skill</a></sub>
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td></td>
-<td>
-<a href="https://github.com/uberskillsdev/uberSKILLS"><strong>uberskillsdev/uberSKILLS</strong></a>
-&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/uberskillsdev/uberSKILLS?style=flat-square&labelColor=0f172a&color=f59e0b" />
+<td width="60%">
+<a href="https://github.com/obra/superpowers/pull/255/commits"><strong>obra/superpowers#255</strong></a>
 <br>
-<sub>Merged: <a href="https://github.com/uberskillsdev/uberSKILLS/pull/65">#65 Windows compatibility</a> · <a href="https://github.com/uberskillsdev/uberSKILLS/pull/67">#67 Claude Code skill format support</a></sub>
+<sub>Fork of superpowers rebuilt around planning-with-files. PR credits OthmanAdi by name.</sub>
+</td>
+<td width="40%" align="right">
+<img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&labelColor=0f172a&color=f59e0b" />
 </td>
 </tr>
 <tr>
-<td></td>
+<td>
+<a href="https://github.com/uberskillsdev/uberSKILLS"><strong>uberskillsdev/uberSKILLS</strong></a>
+<br>
+<sub>Merged: <a href="https://github.com/uberskillsdev/uberSKILLS/pull/65">#65 Windows compatibility</a> · <a href="https://github.com/uberskillsdev/uberSKILLS/pull/67">#67 Claude Code skill format support</a></sub>
+</td>
+<td align="right">
+<img src="https://img.shields.io/github/stars/uberskillsdev/uberSKILLS?style=flat-square&labelColor=0f172a&color=f59e0b" />
+</td>
+</tr>
+<tr>
 <td>
 <a href="https://github.com/buzhangsan/skill-manager"><strong>buzhangsan/skill-manager</strong></a>
 <br>
 <sub>Merged: <a href="https://github.com/buzhangsan/skill-manager/pull/1">#1 Add planning-with-files and langsmith-fetch skills</a></sub>
 </td>
+<td></td>
 </tr>
 </table>
 
@@ -260,10 +283,8 @@ Code I wrote that lives in other people's repos.
 
 | | |
 |:--|:--|
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/planning-with-files) | Full skill included in the largest Claude Code template library. Listed on LobeHub. |
-| [obra/superpowers#255](https://github.com/obra/superpowers/pull/255/commits) | Fork of superpowers built around planning-with-files. Explicitly credits OthmanAdi. |
 | [lincolnwan/Planning-with-files-copilot-agent](https://github.com/lincolnwan/Planning-with-files-copilot-agent) | Entire Copilot agent repo built around the skill |
-| [cooragent/ClarityFinance](https://github.com/cooragent/ClarityFinance) | AI finance agent framework adopting the Planning-with-Files approach — directly credited |
+| [cooragent/ClarityFinance](https://github.com/cooragent/ClarityFinance) | AI finance agent framework — Planning-with-Files approach directly credited |
 | [oeftimie/vv-claude-harness](https://github.com/oeftimie/vv-claude-harness) | Claude Code harness built on Manus-style persistent markdown planning with files |
 | [jessepwj/CCteam-creator](https://github.com/jessepwj/CCteam-creator) | Multi-agent team orchestration skill using file-based planning |
 
