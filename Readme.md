@@ -106,6 +106,8 @@ Tools I built for coding agents — install in one line.
 <a href="https://github.com/OthmanAdi/agent-blueprint"><strong>agent-blueprint</strong></a>
 <br>
 <sub>Build production-grade AI agents from scratch. Patterns, templates, references.</sub>
+<br>
+<sub><code>npx skills add OthmanAdi/agent-blueprint -g</code></sub>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/schema-architect">
@@ -115,6 +117,8 @@ Tools I built for coding agents — install in one line.
 <a href="https://github.com/OthmanAdi/schema-architect"><strong>schema-architect</strong></a>
 <br>
 <sub>Production-ready DB schemas for SQLite + Redis + Neo4j with Rust/Go bindings.</sub>
+<br>
+<sub><code>npx skills add OthmanAdi/schema-architect -g</code></sub>
 </td>
 </tr>
 </table>
