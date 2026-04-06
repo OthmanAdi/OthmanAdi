@@ -1,6 +1,35 @@
 <p align="center">
-  12+ years building production systems · 8,000+ teaching hours · 100+ tech careers launched
+  <strong>12 years building production systems. 8,000+ hours teaching. Still shipping every day.</strong>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Teaching_Hours-8%2C000%2B-0f172a?style=flat-square&labelColor=0f172a&color=6366f1" />
+  <img src="https://img.shields.io/badge/Careers_Launched-100%2B-0f172a?style=flat-square&labelColor=0f172a&color=6366f1" />
+  <img src="https://img.shields.io/badge/Production_LOC-97K%2B-0f172a?style=flat-square&labelColor=0f172a&color=6366f1" />
+  <img src="https://img.shields.io/badge/Years_Building-12%2B-0f172a?style=flat-square&labelColor=0f172a&color=6366f1" />
+</p>
+
+<p align="center">
+AI instructor · Team Lead · Builder
+</p>
+
+---
+
+### Now
+
+> What I'm actively shipping — updated as it happens.
+
+| | |
+|:--|:--|
+| **migRaven AI** | Leading AI engine integration on migRaven — browser agent, LLM streaming, generative UI, Langfuse tracing. 35+ PRs merged. |
+| **skill-deck** | Desktop overlay for browsing and injecting skills into any coding agent. Tauri v2 · Rust · Svelte 5. Coming. |
+| **OpenMark** | Personal knowledge graph. 8K+ bookmarks indexed with pplx-embed, ChromaDB, Neo4j, LangGraph. |
+
+---
+
+### Agent Skills
+
+Tools I built for coding agents — install in one line.
 
 <table>
 <tr>
@@ -9,9 +38,9 @@
 <strong>planning-with-files</strong>
 </a>
 <br>
-16K+ developers use it. Manus-style persistent markdown planning.
+<sub>Manus-style persistent markdown planning. Used by 16K+ developers.</sub>
 <br><br>
-<code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code>
+<sub><code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code></sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/OthmanAdi/openui-forge">
@@ -20,9 +49,9 @@
 <br>
 <a href="https://github.com/OthmanAdi/openui-forge"><strong>openui-forge</strong></a>
 <br>
-Build generative UI with OpenUI. Any LLM. Any backend.
+<sub>Generative UI with OpenUI. Any LLM. Any backend.</sub>
 <br><br>
-<code>npx skills add OthmanAdi/openui-forge --skill openui-forge -g</code>
+<sub><code>npx skills add OthmanAdi/openui-forge --skill openui-forge -g</code></sub>
 </td>
 </tr>
 </table>
@@ -34,7 +63,7 @@ Build generative UI with OpenUI. Any LLM. Any backend.
 <img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="320">
 </a>
 <br>
-<sub><strong>Topic to conference-grade paper</strong> · Autonomous 23-stage research pipeline.</sub>
+<sub><strong>Topic to conference-grade paper.</strong> Autonomous 23-stage research pipeline.</sub>
 <br>
 <sub><code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code></sub>
 </td>
@@ -43,7 +72,7 @@ Build generative UI with OpenUI. Any LLM. Any backend.
 <img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="320">
 </a>
 <br>
-<sub><strong>6-12 months to 4 weeks</strong> · AI-driven replatforming and migration workflows.</sub>
+<sub><strong>6-12 months to 4 weeks.</strong> AI-driven replatforming and migration workflows.</sub>
 <br>
 <sub><code>npx skills add OthmanAdi/APEX</code></sub>
 </td>
@@ -84,10 +113,6 @@ Build generative UI with OpenUI. Any LLM. Any backend.
 </tr>
 </table>
 
----
-
-#### Agent Skills
-
 | | |
 |:--|:--|
 | [**researchclaw-skill**](https://github.com/OthmanAdi/researchclaw-skill) | One-command autonomous research paper generator. Wraps AutoResearchClaw's 23-stage pipeline. |
@@ -97,10 +122,14 @@ Build generative UI with OpenUI. Any LLM. Any backend.
 | [**langsmith-fetch**](https://github.com/OthmanAdi/langsmith-fetch-skill) | AI observability skill. Debug LangChain/LangGraph agents from your terminal. |
 | [**codebase-knowledge-builder**](https://github.com/OthmanAdi/codebase-knowledge-builder) | Produces structured knowledge artifacts from any codebase |
 | [**open-responses-agent-skill**](https://github.com/OthmanAdi/open-responses-agent-skill) | Multi-provider agent dev via HuggingFace Inference Providers |
+| [**schema-architect**](https://github.com/OthmanAdi/schema-architect) | Production-ready DB schemas for SQLite + Redis + Neo4j with Rust/Go bindings |
+| [**agent-blueprint**](https://github.com/OthmanAdi/agent-blueprint) | Build production-grade AI agents from scratch. Patterns, templates, references. |
 | [**pr-perfect**](https://github.com/OthmanAdi/pr-perfect) | One command to engineer PR descriptions. Forensic commit analysis, team-format output. |
 | [**cowork-workflows**](https://github.com/OthmanAdi/cowork-workflows) | File-based planning workflows for Cowork |
 
-#### AI Systems
+---
+
+### AI Systems
 
 | | |
 |:--|:--|
@@ -110,7 +139,9 @@ Build generative UI with OpenUI. Any LLM. Any backend.
 | [**AI-Docs-Copier**](https://github.com/OthmanAdi/AI-Docs-Copier) | Transform any documentation into AI-friendly formats |
 | [**analyzeRepo**](https://github.com/OthmanAdi/analyzeRepo) | Go CLI that uses Claude to analyze repos and generate onboarding docs |
 
-#### Web & Apps
+---
+
+### Web & Apps
 
 | | |
 |:--|:--|
@@ -120,11 +151,71 @@ Build generative UI with OpenUI. Any LLM. Any backend.
 
 ---
 
-### Contributions
+### Merged Into the Wild
+
+Code I wrote that lives in other people's repos.
+
+<table>
+<tr>
+<td width="60%">
+<a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch"><strong>ComposioHQ/awesome-claude-skills</strong></a>
+<br>
+<sub>Merged: <a href="https://github.com/ComposioHQ/awesome-claude-skills/pull/21">feat: Add LangSmith Fetch — first AI observability skill</a></sub>
+</td>
+<td width="40%" align="right">
+<img src="https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&labelColor=0f172a&color=f59e0b" />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/uberskillsdev/uberSKILLS"><strong>uberskillsdev/uberSKILLS</strong></a>
+<br>
+<sub>Merged: <a href="https://github.com/uberskillsdev/uberSKILLS/pull/65">#65 Windows compatibility for launcher script</a> · <a href="https://github.com/uberskillsdev/uberSKILLS/pull/67">#67 Claude Code skill format support</a></sub>
+</td>
+<td align="right">
+<img src="https://img.shields.io/github/stars/uberskillsdev/uberSKILLS?style=flat-square&labelColor=0f172a&color=f59e0b" />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/buzhangsan/skill-manager"><strong>buzhangsan/skill-manager</strong></a>
+<br>
+<sub>Merged: <a href="https://github.com/buzhangsan/skill-manager/pull/1">#1 Add planning-with-files and langsmith-fetch skills</a></sub>
+</td>
+<td align="right"></td>
+</tr>
+</table>
+
+#### Open PRs
+
+Contributions currently under review.
 
 | | |
 |:--|:--|
-| [**langsmith-fetch**](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch) | Merged into [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) (43K+ stars) |
+| [rlnorthcutt/analyzeRepo#1](https://github.com/rlnorthcutt/analyzeRepo/pull/1) | Add multi-provider LLM support — Azure OpenAI, OpenAI, Ollama |
+| [divar-ir/ai-doc-gen#21](https://github.com/divar-ir/ai-doc-gen/pull/21) | Add Azure OpenAI Service support |
+
+---
+
+### In the Wild
+
+> Articles, threads, and coverage. Drop links here as they come in.
+
+<!-- ADD: tweet URLs, article links, HN threads, YouTube mentions, blog posts about your work -->
+<!-- FORMAT: | [Title or @handle](URL) | One line description | -->
+
+*— Building in public. Coverage added as it happens.*
+
+---
+
+### What People Say
+
+> LinkedIn recommendations and direct quotes from people I've worked with.
+
+<!-- ADD: LinkedIn recommendation text, name, title, company -->
+<!-- FORMAT: > "Quote here." — Name, Title @ Company -->
+
+*— References available on [LinkedIn](https://linkedin.com/in/codingwithadi).*
 
 ---
 
@@ -132,12 +223,15 @@ Build generative UI with OpenUI. Any LLM. Any backend.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/-Azure%20AI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
