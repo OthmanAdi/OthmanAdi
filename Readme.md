@@ -51,15 +51,11 @@ Tools I built for coding agents — install in one line.
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/OthmanAdi/researchclaw-skill">
-<img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="320">
-</a>
+<a href="https://github.com/OthmanAdi/career-ops"><strong>career-ops</strong></a>
 <br>
-<a href="https://github.com/OthmanAdi/researchclaw-skill"><strong>researchclaw-skill</strong></a>
-<br>
-<sub><strong>Topic to conference-grade paper.</strong> Autonomous 23-stage research pipeline.</sub>
-<br>
-<sub><code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code></sub>
+<sub><strong>AI-powered job search system.</strong> 14 skill modes, Go dashboard, CV generation, batch processing.</sub>
+<br><br>
+<sub><code>npx skills add OthmanAdi/career-ops -g</code></sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/OthmanAdi/APEX">
@@ -149,6 +145,7 @@ Tools I built for coding agents — install in one line.
 
 | | |
 |:--|:--|
+| [**researchclaw-skill**](https://github.com/OthmanAdi/researchclaw-skill) | Topic to conference-grade paper. Autonomous 23-stage research pipeline |
 | [**planning-with-teams**](https://github.com/OthmanAdi/planning-with-teams) | Context engineering for Claude Code Agent Teams |
 | [**codebase-knowledge-builder**](https://github.com/OthmanAdi/codebase-knowledge-builder) | Produces structured knowledge artifacts from any codebase |
 | [**open-responses-agent-skill**](https://github.com/OthmanAdi/open-responses-agent-skill) | Multi-provider agent dev via HuggingFace Inference Providers |
