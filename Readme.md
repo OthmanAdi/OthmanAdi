@@ -258,7 +258,9 @@ Code I wrote that lives in other people's repos. Projects built on my work.
 <br>
 <sub>Merged: <a href="https://github.com/buzhangsan/skill-manager/pull/1">#1 Add planning-with-files and langsmith-fetch skills</a></sub>
 </td>
-<td></td>
+<td align="right">
+<img src="https://img.shields.io/github/stars/buzhangsan/skill-manager?style=flat-square&labelColor=0f172a&color=f59e0b" />
+</td>
 </tr>
 <tr>
 <td>
