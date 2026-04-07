@@ -15,18 +15,6 @@ AI instructor · Team Lead · Builder
 
 ---
 
-### Now
-
-> What I'm actively shipping — updated as it happens.
-
-| | |
-|:--|:--|
-| **migRaven AI** | Leading AI engine integration on migRaven — browser agent, LLM streaming, generative UI, Langfuse tracing. 35+ PRs merged. |
-| **skill-deck** | Desktop overlay for browsing and injecting skills into any coding agent. Tauri v2 · Rust · Svelte 5. |
-| **OpenMark** | Personal knowledge graph. 8K+ bookmarks indexed with pplx-embed, ChromaDB, Neo4j, LangGraph. |
-
----
-
 ### Agent Skills
 
 Tools I built for coding agents — install in one line.
