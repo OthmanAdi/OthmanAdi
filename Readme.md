@@ -35,22 +35,6 @@ Tools I built for coding agents — install in one line.
 <sub><code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code></sub>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/OthmanAdi/openui-forge">
-<img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/logo.png" alt="OpenUI Forge" width="160">
-</a>
-<br>
-<a href="https://github.com/OthmanAdi/openui-forge"><strong>openui-forge</strong></a>
-<br>
-<sub>Generative UI with OpenUI. Any LLM. Any backend.</sub>
-<br><br>
-<sub><code>npx skills add OthmanAdi/openui-forge --skill openui-forge -g</code></sub>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="50%">
 <a href="https://github.com/OthmanAdi/researchclaw-skill">
 <img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="320">
 </a>
@@ -61,6 +45,36 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code></sub>
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/OthmanAdi/promptfusion">
+<img src="https://raw.githubusercontent.com/OthmanAdi/promptfusion/main/media/banner.png" alt="promptfusion" width="320">
+</a>
+<br>
+<a href="https://github.com/OthmanAdi/promptfusion"><strong>promptfusion</strong></a>
+<br>
+<sub>Three-layer prompt composition for AI agents. Semantic weighted priorities.</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/OthmanAdi/humanizer-semitic">
+<img src="https://raw.githubusercontent.com/OthmanAdi/humanizer-semitic/master/banner.png" alt="humanizer-semitic" width="320">
+</a>
+<br>
+<a href="https://github.com/OthmanAdi/humanizer-semitic"><strong>humanizer-semitic</strong></a>
+<br>
+<sub>AI text humanizer for Arabic and Hebrew. MSA · Egyptian · Levantine · Hebrew. Zero AI tells.</sub>
+<br><br>
+<sub><code>npx skills add OthmanAdi/humanizer-semitic --all</code></sub>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td align="center" width="50%">
 <a href="https://github.com/OthmanAdi/APEX">
 <img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="320">
@@ -72,21 +86,16 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/APEX</code></sub>
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/OthmanAdi/humanizer-semitic">
-<img src="https://raw.githubusercontent.com/OthmanAdi/humanizer-semitic/master/banner.png" alt="humanizer-semitic" width="680">
+<td align="center" width="50%">
+<a href="https://github.com/OthmanAdi/openui-forge">
+<img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/logo.png" alt="OpenUI Forge" width="160">
 </a>
 <br>
-<a href="https://github.com/OthmanAdi/humanizer-semitic"><strong>humanizer-semitic</strong></a>
+<a href="https://github.com/OthmanAdi/openui-forge"><strong>openui-forge</strong></a>
 <br>
-<sub>AI text humanizer for Arabic and Hebrew. 4 skills — MSA · Egyptian · Levantine · Hebrew. Zero AI tells.</sub>
+<sub>Generative UI with OpenUI. Any LLM. Any backend.</sub>
 <br><br>
-<sub><code>npx skills add OthmanAdi/humanizer-semitic --all</code></sub>
+<sub><code>npx skills add OthmanAdi/openui-forge --skill openui-forge -g</code></sub>
 </td>
 </tr>
 </table>
@@ -193,20 +202,6 @@ Tools I built for coding agents — install in one line.
 <a href="https://github.com/OthmanAdi/OpenMark"><strong>OpenMark</strong></a>
 <br>
 <sub>Personal knowledge graph. 8K+ bookmarks indexed with LangGraph + Neo4j.</sub>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/OthmanAdi/promptfusion">
-<img src="https://raw.githubusercontent.com/OthmanAdi/promptfusion/main/media/banner.png" alt="promptfusion" width="320">
-</a>
-<br>
-<a href="https://github.com/OthmanAdi/promptfusion"><strong>promptfusion</strong></a>
-<br>
-<sub>Three-layer prompt composition for AI agents. Semantic weighted priorities.</sub>
 </td>
 </tr>
 </table>
