@@ -77,6 +77,22 @@ Tools I built for coding agents — install in one line.
 
 <table>
 <tr>
+<td align="center">
+<a href="https://github.com/OthmanAdi/humanizer-semitic">
+<img src="https://raw.githubusercontent.com/OthmanAdi/humanizer-semitic/master/banner.png" alt="humanizer-semitic" width="680">
+</a>
+<br>
+<a href="https://github.com/OthmanAdi/humanizer-semitic"><strong>humanizer-semitic</strong></a>
+<br>
+<sub>AI text humanizer for Arabic and Hebrew. 4 skills — MSA · Egyptian · Levantine · Hebrew. Zero AI tells.</sub>
+<br><br>
+<sub><code>npx skills add OthmanAdi/humanizer-semitic --all</code></sub>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/langsmith-fetch-skill">
 <img src="https://raw.githubusercontent.com/OthmanAdi/langsmith-fetch-skill/main/media/banner.png" alt="langsmith-fetch" width="280">
