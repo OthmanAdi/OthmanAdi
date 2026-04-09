@@ -52,7 +52,7 @@ Tools I built for coding agents — install in one line.
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/OthmanAdi/promptfusion">
-<img src="https://raw.githubusercontent.com/OthmanAdi/promptfusion/main/media/banner.png" alt="promptfusion" width="320">
+<img src="https://raw.githubusercontent.com/OthmanAdi/promptfusion/main/media/banner.png" alt="promptfusion" width="100%">
 </a>
 <br>
 <a href="https://github.com/OthmanAdi/promptfusion"><strong>promptfusion</strong></a>
