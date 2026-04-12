@@ -240,6 +240,28 @@ Code I wrote that lives in other people's repos. Projects built on my work.
 <sub>Merged: <a href="https://github.com/ComposioHQ/awesome-claude-skills/pull/21">feat: Add LangSmith Fetch — first AI observability skill</a></sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/santifer/career-ops">
+<img src="https://raw.githubusercontent.com/santifer/career-ops/main/docs/hero-banner.jpg" alt="career-ops" width="320">
+</a>
+<br>
+<a href="https://github.com/santifer/career-ops"><strong>santifer/career-ops</strong></a>
+&nbsp;<img src="https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&labelColor=0f172a&color=f59e0b" />
+<br>
+<sub>Merged: <a href="https://github.com/santifer/career-ops/pull/21">#21 DACH job scanner</a> · <a href="https://github.com/santifer/career-ops/pull/22">#22 engineer-instructor example</a> · <a href="https://github.com/santifer/career-ops/pull/23">#23 German language modes</a></sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/MemPalace/mempalace">
+<img src="https://raw.githubusercontent.com/milla-jovovich/mempalace/main/assets/mempalace_logo.png" alt="mempalace" width="200">
+</a>
+<br>
+<a href="https://github.com/MemPalace/mempalace"><strong>MemPalace/mempalace</strong></a>
+&nbsp;<img src="https://img.shields.io/github/stars/milla-jovovich/mempalace?style=flat-square&labelColor=0f172a&color=f59e0b" />
+<br>
+<sub>Merged: <a href="https://github.com/MemPalace/mempalace/pull/558">#558 fix: skip unreachable reparse points on Windows (WinError 448)</a></sub>
+</td>
+</tr>
 </table>
 
 <table>
@@ -273,23 +295,13 @@ Code I wrote that lives in other people's repos. Projects built on my work.
 <img src="https://img.shields.io/github/stars/buzhangsan/skill-manager?style=flat-square&labelColor=0f172a&color=f59e0b" />
 </td>
 </tr>
-<tr>
-<td>
-<a href="https://github.com/santifer/career-ops"><strong>santifer/career-ops</strong></a>
-<br>
-<sub>Merged: <a href="https://github.com/santifer/career-ops/pull/21">#21 Add DACH/European AI companies to portal scanner</a> · <a href="https://github.com/santifer/career-ops/pull/22">#22 Add dual-track engineer-instructor example</a> · <a href="https://github.com/santifer/career-ops/pull/23">#23 Add German language modes (de/)</a></sub>
-</td>
-<td align="right">
-<img src="https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&labelColor=0f172a&color=f59e0b" />
-</td>
-</tr>
 </table>
 
 #### Open PRs
 
 | | |
 |:--|:--|
-| [santifer/career-ops#20](https://github.com/santifer/career-ops/pull/20) | Reduce AI detection signals in generated CVs |
+| [tobi/qmd#561](https://github.com/tobi/qmd/pull/561) | fix(windows): add qmd.cmd launcher that invokes node/bun directly — fixes MCP stdio spawn on Windows |
 | [rlnorthcutt/analyzeRepo#1](https://github.com/rlnorthcutt/analyzeRepo/pull/1) | Add multi-provider LLM support — Azure OpenAI, OpenAI, Ollama |
 | [divar-ir/ai-doc-gen#21](https://github.com/divar-ir/ai-doc-gen/pull/21) | Add Azure OpenAI Service support |
 
