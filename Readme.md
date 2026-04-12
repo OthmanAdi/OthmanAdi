@@ -1,17 +1,84 @@
-<p align="center">
-  <strong>12 years building production systems. 8,000+ hours teaching. Still shipping every day.</strong>
-</p>
+Code I wrote that lives in other Known and helpful repos.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Teaching_Hours-8%2C000%2B-0f172a?style=flat-square&labelColor=0f172a&color=6366f1" />
-  <img src="https://img.shields.io/badge/Careers_Launched-100%2B-0f172a?style=flat-square&labelColor=0f172a&color=6366f1" />
-  <img src="https://img.shields.io/badge/Production_LOC-97K%2B-0f172a?style=flat-square&labelColor=0f172a&color=6366f1" />
-  <img src="https://img.shields.io/badge/Years_Building-12%2B-0f172a?style=flat-square&labelColor=0f172a&color=6366f1" />
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/planning-with-files">
+<img src="https://github.com/user-attachments/assets/e3617410-9b1c-4731-87b7-a3858800b737" alt="claude-code-templates" width="320">
+</a>
+<br>
+<a href="https://github.com/davila7/claude-code-templates"><strong>davila7/claude-code-templates</strong></a>
+&nbsp;<img src="https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&labelColor=0f172a&color=f59e0b" />
+<br>
+<sub>planning-with-files included in the largest Claude Code template library. Listed on LobeHub.</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch">
+<img src="https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a" alt="awesome-claude-skills" width="320">
+</a>
+<br>
+<a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch"><strong>ComposioHQ/awesome-claude-skills</strong></a>
+&nbsp;<img src="https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&labelColor=0f172a&color=f59e0b" />
+<br>
+<sub>Merged: <a href="https://github.com/ComposioHQ/awesome-claude-skills/pull/21">feat: Add LangSmith Fetch — first AI observability skill</a></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/santifer/career-ops">
+<img src="https://raw.githubusercontent.com/santifer/career-ops/main/docs/hero-banner.jpg" alt="career-ops" width="320">
+</a>
+<br>
+<a href="https://github.com/santifer/career-ops"><strong>santifer/career-ops</strong></a>
+&nbsp;<img src="https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&labelColor=0f172a&color=f59e0b" />
+<br>
+<sub>Merged: <a href="https://github.com/santifer/career-ops/pull/21">#21 DACH job scanner</a> · <a href="https://github.com/santifer/career-ops/pull/22">#22 engineer-instructor example</a> · <a href="https://github.com/santifer/career-ops/pull/23">#23 German language modes</a></sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/MemPalace/mempalace">
+<img src="https://raw.githubusercontent.com/milla-jovovich/mempalace/main/assets/mempalace_logo.png" alt="mempalace" width="200">
+</a>
+<br>
+<a href="https://github.com/MemPalace/mempalace"><strong>MemPalace/mempalace</strong></a>
+&nbsp;<img src="https://img.shields.io/github/stars/milla-jovovich/mempalace?style=flat-square&labelColor=0f172a&color=f59e0b" />
+<br>
+<sub>Merged: <a href="https://github.com/MemPalace/mempalace/pull/558">#558 fix: skip unreachable reparse points on Windows (WinError 448)</a></sub>
+</td>
+</tr>
+</table>
 
-<p align="center">
-AI instructor · Team Lead · Builder
-</p>
+<table>
+<tr>
+<td width="60%">
+<a href="https://github.com/obra/superpowers/pull/255/commits"><strong>obra/superpowers#255</strong></a>
+<br>
+<sub>Fork of superpowers rebuilt around planning-with-files. PR credits OthmanAdi by name.</sub>
+</td>
+<td width="40%" align="right">
+<img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&labelColor=0f172a&color=f59e0b" />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/uberskillsdev/uberSKILLS"><strong>uberskillsdev/uberSKILLS</strong></a>
+<br>
+<sub>Merged: <a href="https://github.com/uberskillsdev/uberSKILLS/pull/65">#65 Windows compatibility</a> · <a href="https://github.com/uberskillsdev/uberSKILLS/pull/67">#67 Claude Code skill format support</a></sub>
+</td>
+<td align="right">
+<img src="https://img.shields.io/github/stars/uberskillsdev/uberSKILLS?style=flat-square&labelColor=0f172a&color=f59e0b" />
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/buzhangsan/skill-manager"><strong>buzhangsan/skill-manager</strong></a>
+<br>
+<sub>Merged: <a href="https://github.com/buzhangsan/skill-manager/pull/1">#1 Add planning-with-files and langsmith-fetch skills</a></sub>
+</td>
+<td align="right">
+<img src="https://img.shields.io/github/stars/buzhangsan/skill-manager?style=flat-square&labelColor=0f172a&color=f59e0b" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -212,92 +279,7 @@ Tools I built for coding agents — install in one line.
 | [**AI-Docs-Copier**](https://github.com/OthmanAdi/AI-Docs-Copier) | Transform any documentation into AI-friendly formats |
 
 ---
-
-### Merged Into the Wild
-
-Code I wrote that lives in other people's repos. Projects built on my work.
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/planning-with-files">
-<img src="https://github.com/user-attachments/assets/e3617410-9b1c-4731-87b7-a3858800b737" alt="claude-code-templates" width="320">
-</a>
-<br>
-<a href="https://github.com/davila7/claude-code-templates"><strong>davila7/claude-code-templates</strong></a>
-&nbsp;<img src="https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&labelColor=0f172a&color=f59e0b" />
-<br>
-<sub>planning-with-files included in the largest Claude Code template library. Listed on LobeHub.</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch">
-<img src="https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a" alt="awesome-claude-skills" width="320">
-</a>
-<br>
-<a href="https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch"><strong>ComposioHQ/awesome-claude-skills</strong></a>
-&nbsp;<img src="https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&labelColor=0f172a&color=f59e0b" />
-<br>
-<sub>Merged: <a href="https://github.com/ComposioHQ/awesome-claude-skills/pull/21">feat: Add LangSmith Fetch — first AI observability skill</a></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/santifer/career-ops">
-<img src="https://raw.githubusercontent.com/santifer/career-ops/main/docs/hero-banner.jpg" alt="career-ops" width="320">
-</a>
-<br>
-<a href="https://github.com/santifer/career-ops"><strong>santifer/career-ops</strong></a>
-&nbsp;<img src="https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&labelColor=0f172a&color=f59e0b" />
-<br>
-<sub>Merged: <a href="https://github.com/santifer/career-ops/pull/21">#21 DACH job scanner</a> · <a href="https://github.com/santifer/career-ops/pull/22">#22 engineer-instructor example</a> · <a href="https://github.com/santifer/career-ops/pull/23">#23 German language modes</a></sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/MemPalace/mempalace">
-<img src="https://raw.githubusercontent.com/milla-jovovich/mempalace/main/assets/mempalace_logo.png" alt="mempalace" width="200">
-</a>
-<br>
-<a href="https://github.com/MemPalace/mempalace"><strong>MemPalace/mempalace</strong></a>
-&nbsp;<img src="https://img.shields.io/github/stars/milla-jovovich/mempalace?style=flat-square&labelColor=0f172a&color=f59e0b" />
-<br>
-<sub>Merged: <a href="https://github.com/MemPalace/mempalace/pull/558">#558 fix: skip unreachable reparse points on Windows (WinError 448)</a></sub>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="60%">
-<a href="https://github.com/obra/superpowers/pull/255/commits"><strong>obra/superpowers#255</strong></a>
-<br>
-<sub>Fork of superpowers rebuilt around planning-with-files. PR credits OthmanAdi by name.</sub>
-</td>
-<td width="40%" align="right">
-<img src="https://img.shields.io/github/stars/obra/superpowers?style=flat-square&labelColor=0f172a&color=f59e0b" />
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/uberskillsdev/uberSKILLS"><strong>uberskillsdev/uberSKILLS</strong></a>
-<br>
-<sub>Merged: <a href="https://github.com/uberskillsdev/uberSKILLS/pull/65">#65 Windows compatibility</a> · <a href="https://github.com/uberskillsdev/uberSKILLS/pull/67">#67 Claude Code skill format support</a></sub>
-</td>
-<td align="right">
-<img src="https://img.shields.io/github/stars/uberskillsdev/uberSKILLS?style=flat-square&labelColor=0f172a&color=f59e0b" />
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/buzhangsan/skill-manager"><strong>buzhangsan/skill-manager</strong></a>
-<br>
-<sub>Merged: <a href="https://github.com/buzhangsan/skill-manager/pull/1">#1 Add planning-with-files and langsmith-fetch skills</a></sub>
-</td>
-<td align="right">
-<img src="https://img.shields.io/github/stars/buzhangsan/skill-manager?style=flat-square&labelColor=0f172a&color=f59e0b" />
-</td>
-</tr>
-</table>
-
-#### Open PRs
+#### Open PRs & Projects built on my work.
 
 | | |
 |:--|:--|
