@@ -1,3 +1,38 @@
+## ⭐ Highlights
+
+<table>
+<tr>
+<td align="center" width="50%">
+<strong>2026 Highlight</strong>
+<br><br>
+<a href="https://github.com/OthmanAdi/planning-with-files">
+<img src="https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/media/banner.png" alt="planning-with-files" width="320">
+</a>
+<br>
+<a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a>
+<br>
+<sub>Manus-style persistent markdown planning. Used by 16K+ developers.</sub>
+<br>
+<a href="https://skillsplayground.com/skills/othmanadi-planning-with-files-planning-with-files/"><img src="https://skillsplayground.com/badges/installs/othmanadi-planning-with-files-planning-with-files.svg" alt="Skills Playground"></a>
+<br><br>
+<sub><code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code></sub>
+</td>
+<td align="center" width="50%">
+<strong>2025 Highlight</strong>
+<br><br>
+<a href="https://github.com/OthmanAdi/promptfusion">
+<img src="https://raw.githubusercontent.com/OthmanAdi/promptfusion/main/media/banner.png" alt="promptfusion" width="320">
+</a>
+<br>
+<a href="https://github.com/OthmanAdi/promptfusion"><strong>promptfusion</strong></a>
+<br>
+<sub>Three-layer prompt composition for AI agents. Semantic weighted priorities.</sub>
+</td>
+</tr>
+</table>
+
+---
+
 Code I wrote that lives in other Known and helpful repos.
 
 <table>
@@ -89,19 +124,6 @@ Tools I built for coding agents — install in one line.
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/OthmanAdi/planning-with-files">
-<img src="https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/media/banner.png" alt="planning-with-files" width="320">
-</a>
-<br>
-<a href="https://github.com/OthmanAdi/planning-with-files"><strong>planning-with-files</strong></a>
-<br>
-<sub>Manus-style persistent markdown planning. Used by 16K+ developers.</sub>
-<br>
-<a href="https://skillsplayground.com/skills/othmanadi-planning-with-files-planning-with-files/"><img src="https://skillsplayground.com/badges/installs/othmanadi-planning-with-files-planning-with-files.svg" alt="Skills Playground"></a>
-<br><br>
-<sub><code>npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g</code></sub>
-</td>
-<td align="center" width="50%">
 <a href="https://github.com/OthmanAdi/researchclaw-skill">
 <img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="320">
 </a>
@@ -111,20 +133,6 @@ Tools I built for coding agents — install in one line.
 <sub><strong>Topic to conference-grade paper.</strong> Autonomous 23-stage research pipeline.</sub>
 <br>
 <sub><code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code></sub>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/OthmanAdi/promptfusion">
-<img src="https://raw.githubusercontent.com/OthmanAdi/promptfusion/main/media/banner.png" alt="promptfusion" width="320">
-</a>
-<br>
-<a href="https://github.com/OthmanAdi/promptfusion"><strong>promptfusion</strong></a>
-<br>
-<sub>Three-layer prompt composition for AI agents. Semantic weighted priorities.</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/OthmanAdi/humanizer-semitic">
