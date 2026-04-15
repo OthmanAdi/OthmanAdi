@@ -295,17 +295,14 @@ Tools I built for coding agents — install in one line.
 | [rlnorthcutt/analyzeRepo#1](https://github.com/rlnorthcutt/analyzeRepo/pull/1) | Add multi-provider LLM support — Azure OpenAI, OpenAI, Ollama |
 | [divar-ir/ai-doc-gen#21](https://github.com/divar-ir/ai-doc-gen/pull/21) | Add Azure OpenAI Service support |
 
-<details>
-<summary><strong>🔨 Real projects people built with planning-with-files → click to explore</strong></summary>
+#### planning-with-files — Used in the Wild
 
-| Project | What It Is |
+| | |
 |:--|:--|
 | [lincolnwan/Planning-with-files-copilot-agent](https://github.com/lincolnwan/Planning-with-files-copilot-agent) | Entire Copilot agent repo built around the skill |
 | [cooragent/ClarityFinance](https://github.com/cooragent/ClarityFinance) | AI finance agent framework — Planning-with-Files approach directly credited |
 | [oeftimie/vv-claude-harness](https://github.com/oeftimie/vv-claude-harness) | Claude Code harness built on Manus-style persistent markdown planning with files |
 | [jessepwj/CCteam-creator](https://github.com/jessepwj/CCteam-creator) | Multi-agent team orchestration skill using file-based planning |
-
-</details>
 
 ---
 
