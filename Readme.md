@@ -123,9 +123,9 @@ Tools I built for coding agents — install in one line.
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/researchclaw-skill">
-<img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="320">
+<img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="240">
 </a>
 <br>
 <a href="https://github.com/OthmanAdi/researchclaw-skill"><strong>researchclaw-skill</strong></a>
@@ -134,25 +134,20 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code></sub>
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/humanizer-semitic">
-<img src="https://raw.githubusercontent.com/OthmanAdi/humanizer-semitic/master/banner.png" alt="humanizer-semitic" width="320">
+<img src="https://raw.githubusercontent.com/OthmanAdi/humanizer-semitic/master/banner.png" alt="humanizer-semitic" width="240">
 </a>
 <br>
 <a href="https://github.com/OthmanAdi/humanizer-semitic"><strong>humanizer-semitic</strong></a>
 <br>
 <sub>AI text humanizer for Arabic and Hebrew. MSA · Egyptian · Levantine · Hebrew. Zero AI tells.</sub>
-<br><br>
+<br>
 <sub><code>npx skills add OthmanAdi/humanizer-semitic --all</code></sub>
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/APEX">
-<img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="320">
+<img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="240">
 </a>
 <br>
 <a href="https://github.com/OthmanAdi/APEX"><strong>APEX</strong></a>
@@ -161,7 +156,9 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/APEX</code></sub>
 </td>
-<td align="center" width="50%">
+</tr>
+<tr>
+<td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/openui-forge">
 <img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/logo.png" alt="OpenUI Forge" width="160">
 </a>
@@ -169,19 +166,14 @@ Tools I built for coding agents — install in one line.
 <a href="https://github.com/OthmanAdi/openui-forge"><strong>openui-forge</strong></a>
 <br>
 <sub>Generative UI with OpenUI. Any LLM. Any backend.</sub>
-<br><br>
+<br>
 <sub><code>npx skills add OthmanAdi/openui-forge --skill openui-forge -g</code></sub>
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/langsmith-fetch-skill">
-<img src="https://raw.githubusercontent.com/OthmanAdi/langsmith-fetch-skill/main/media/banner.png" alt="langsmith-fetch" width="280">
+<img src="https://raw.githubusercontent.com/OthmanAdi/langsmith-fetch-skill/main/media/banner.png" alt="langsmith-fetch" width="240">
 </a>
-<br><br>
+<br>
 <a href="https://github.com/OthmanAdi/langsmith-fetch-skill"><strong>langsmith-fetch</strong></a>
 <br>
 <sub>AI observability skill. Debug LangChain/LangGraph agents from your terminal.</sub>
@@ -190,69 +182,61 @@ Tools I built for coding agents — install in one line.
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/agent-blueprint">
-<img src="https://raw.githubusercontent.com/OthmanAdi/agent-blueprint/master/media/banner.png" alt="agent-blueprint" width="280">
+<img src="https://raw.githubusercontent.com/OthmanAdi/agent-blueprint/master/media/banner.png" alt="agent-blueprint" width="240">
 </a>
-<br><br>
+<br>
 <a href="https://github.com/OthmanAdi/agent-blueprint"><strong>agent-blueprint</strong></a>
 <br>
 <sub>Build production-grade AI agents from scratch. Patterns, templates, references.</sub>
 <br>
 <sub><code>npx skills add OthmanAdi/agent-blueprint -g</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/schema-architect">
-<img src="https://raw.githubusercontent.com/OthmanAdi/schema-architect/master/media/banner.png" alt="schema-architect" width="280">
+<img src="https://raw.githubusercontent.com/OthmanAdi/schema-architect/master/media/banner.png" alt="schema-architect" width="240">
 </a>
-<br><br>
+<br>
 <a href="https://github.com/OthmanAdi/schema-architect"><strong>schema-architect</strong></a>
 <br>
 <sub>Production-ready DB schemas for SQLite + Redis + Neo4j with Rust/Go bindings.</sub>
 <br>
 <sub><code>npx skills add OthmanAdi/schema-architect -g</code></sub>
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
+<td align="center" width="33%">
+<a href="https://github.com/OthmanAdi/code-memory-router">
+<img src="https://raw.githubusercontent.com/OthmanAdi/code-memory-router/main/banner.png" alt="code-memory-router" width="240">
+</a>
+<br>
+<a href="https://github.com/OthmanAdi/code-memory-router"><strong>code-memory-router</strong></a>
+<br>
+<sub>Routes memory tasks between MemPalace and QMD. 13/13 benchmark vs 4/13 without.</sub>
+<br>
+<sub><code>npx skills add OthmanAdi/code-memory-router</code></sub>
+</td>
 <td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/pr-perfect">
-<img src="https://raw.githubusercontent.com/OthmanAdi/pr-perfect/main/media/logo.png" width="120" alt="pr-perfect">
+<img src="https://raw.githubusercontent.com/OthmanAdi/pr-perfect/main/media/logo.png" alt="pr-perfect" width="120">
 </a>
-<br><br>
+<br>
 <a href="https://github.com/OthmanAdi/pr-perfect"><strong>pr-perfect</strong></a>
 <br>
 <sub>One command to engineer PR descriptions your boss's agent can verify.</sub>
 <br>
 <sub><code>npx skills add OthmanAdi/pr-perfect</code></sub>
 </td>
-<td align="center" width="33%">
-<a href="https://github.com/OthmanAdi/awesome-here-now">
-<img src="https://raw.githubusercontent.com/OthmanAdi/awesome-here-now/main/media/banner_v5.png" width="280" alt="awesome-here-now">
-</a>
-<br><br>
-<a href="https://github.com/OthmanAdi/awesome-here-now"><strong>awesome-here-now</strong></a>
-<br>
-<sub>Curated showcase of sites published with here.now</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/OthmanAdi/vibe-skills">
-<img src="https://raw.githubusercontent.com/OthmanAdi/vibe-skills/master/media/logo.png" width="100" alt="vibe-skills">
-</a>
-<br><br>
-<a href="https://github.com/OthmanAdi/vibe-skills"><strong>vibe-skills</strong></a>
-<br>
-<sub>Generate and deploy production-grade websites from natural language. No AI slop.</sub>
-</td>
 </tr>
 </table>
 
 | | |
 |:--|:--|
-| [**planning-with-teams**](https://github.com/OthmanAdi/planning-with-teams) | Context engineering for Claude Code Agent Teams |
-| [**codebase-knowledge-builder**](https://github.com/OthmanAdi/codebase-knowledge-builder) | Produces structured knowledge artifacts from any codebase |
-| [**open-responses-agent-skill**](https://github.com/OthmanAdi/open-responses-agent-skill) | Multi-provider agent dev via HuggingFace Inference Providers |
-| [**cowork-workflows**](https://github.com/OthmanAdi/cowork-workflows) | File-based planning workflows for Cowork |
+| 🎨 [**vibe-skills**](https://github.com/OthmanAdi/vibe-skills) | Generate and deploy production-grade websites from natural language. No AI slop. |
+| 🌍 [**awesome-here-now**](https://github.com/OthmanAdi/awesome-here-now) | Curated showcase of sites published with here.now |
+| 👥 [**planning-with-teams**](https://github.com/OthmanAdi/planning-with-teams) | Context engineering for Claude Code Agent Teams |
+| 🧠 [**codebase-knowledge-builder**](https://github.com/OthmanAdi/codebase-knowledge-builder) | Produces structured knowledge artifacts from any codebase |
+| 🔀 [**open-responses-agent-skill**](https://github.com/OthmanAdi/open-responses-agent-skill) | Multi-provider agent dev via HuggingFace Inference Providers |
+| 📋 [**cowork-workflows**](https://github.com/OthmanAdi/cowork-workflows) | File-based planning workflows for Cowork |
 
 ---
 
