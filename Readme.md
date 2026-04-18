@@ -206,7 +206,7 @@ Tools I built for coding agents — install in one line.
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/code-memory-router">
-<img src="https://raw.githubusercontent.com/OthmanAdi/code-memory-router/main/banner.png" alt="code-memory-router" width="240">
+<img src="https://raw.githubusercontent.com/OthmanAdi/code-memory-router/master/banner.png" alt="code-memory-router" width="240">
 </a>
 <br>
 <a href="https://github.com/OthmanAdi/code-memory-router"><strong>code-memory-router</strong></a>
