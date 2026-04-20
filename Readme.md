@@ -320,6 +320,8 @@ Tools I built for coding agents — install in one line.
 
 *— References available on [LinkedIn](https://linkedin.com/in/codingwithadi).*
 
+<a href="https://skill-history.com/othmanadi/planning-with-files"><img src="https://skill-history.com/chart/othmanadi/planning-with-files.svg" width="100%" alt="planning-with-files Download History"></a>
+
 
 ---
 
