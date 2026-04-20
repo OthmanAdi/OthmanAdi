@@ -300,14 +300,16 @@ Tools I built for coding agents — install in one line.
 
 ---
 
+<!--
 ### In the Wild
 
 > Articles, threads, and coverage. Drop links here as they come in.
 
-<!-- ADD: tweet URLs, article links, HN threads, YouTube mentions, blog posts about your work -->
-<!-- FORMAT: | [Title or @handle](URL) | One line description | -->
+ADD: tweet URLs, article links, HN threads, YouTube mentions, blog posts about your work
+FORMAT: | [Title or @handle](URL) | One line description |
 
 *— Building in public. Coverage added as it happens.*
+-->
 
 ---
 
