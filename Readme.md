@@ -298,8 +298,6 @@ Tools I built for coding agents — install in one line.
 | [**Mystic-Portfolio**](https://github.com/OthmanAdi/Mystic-Portfolio) · [othmanadi.com](https://othmanadi.com) | Multilingual developer portfolio. React 19, TypeScript, Tailwind, RTL support. |
 | [**appwrite-keepalive**](https://github.com/OthmanAdi/appwrite-keepalive) | Keep your Appwrite free-tier projects alive. Automated. Zero infrastructure. |
 
----
-
 <!--
 ### In the Wild
 
