@@ -229,73 +229,39 @@ Tools I built for coding agents — install in one line.
 </tr>
 
 <tr>
-
 <td align="center" width="33%">
-
 <a href="https://github.com/OthmanAdi/chronos">
-
 <img src="https://raw.githubusercontent.com/OthmanAdi/chronos/main/assets/profile-banner.png" alt="chronos" width="200">
-
 </a>
-
 <br>
-
 <a href="https://github.com/OthmanAdi/chronos"><strong>chronos</strong></a>
-
 <br>
-
 <sub>Time awareness for AI coding agents. Hook-backed ledger, 7 decision rules, 8 platforms.</sub>
-
 <br>
-
 <sub><code>npx skills add OthmanAdi/chronos --skill chronos -g</code></sub>
-
 </td>
-
 <td align="center" width="33%">
-
 <a href="https://github.com/OthmanAdi/planning-with-teams">
-
 <img src="https://raw.githubusercontent.com/OthmanAdi/planning-with-teams/master/media/banner.png" alt="planning-with-teams" width="200">
-
 </a>
-
 <br>
-
 <a href="https://github.com/OthmanAdi/planning-with-teams"><strong>planning-with-teams</strong></a>
-
 <br>
-
 <sub>Manus-style context engineering for Claude Code Agent Teams. Coordinate multiple Claude instances.</sub>
-
 <br>
-
 <sub><code>npx skills add OthmanAdi/planning-with-teams -g</code></sub>
-
 </td>
-
 <td align="center" width="33%">
-
 <a href="https://github.com/OthmanAdi/MDDesign">
-
 <img src="https://raw.githubusercontent.com/OthmanAdi/MDDesign/main/media/logo.png" alt="MDDesign" width="200">
-
 </a>
-
 <br>
-
 <a href="https://github.com/OthmanAdi/MDDesign"><strong>MDDesign</strong></a>
-
 <br>
-
 <sub>Orchestrator plugin: planning-with-files, DESIGN.md, memory routing, agent teams, session handoff. Cross-IDE.</sub>
-
 <br>
-
 <sub><code>npx skills add OthmanAdi/MDDesign -g</code></sub>
-
 </td>
-
 </tr>
 
 </table>
