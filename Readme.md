@@ -137,7 +137,7 @@ Tools I built for coding agents — install in one line.
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/researchclaw-skill">
 <img src="https://raw.githubusercontent.com/OthmanAdi/researchclaw-skill/main/media/banner.png" alt="ResearchClaw" width="240">
 </a>
@@ -148,7 +148,7 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code></sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/chronos">
 <img src="https://raw.githubusercontent.com/OthmanAdi/chronos/main/assets/profile-banner.png" alt="chronos" width="240">
 </a>
@@ -159,7 +159,7 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/chronos --skill chronos -g</code></sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/MDDesign">
 <img src="https://raw.githubusercontent.com/OthmanAdi/MDDesign/main/media/logo.png" alt="MDDesign" width="240">
 </a>
@@ -172,7 +172,7 @@ Tools I built for coding agents — install in one line.
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/planning-with-teams">
 <img src="https://raw.githubusercontent.com/OthmanAdi/planning-with-teams/master/media/banner.png" alt="planning-with-teams" width="240">
 </a>
@@ -183,7 +183,7 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/planning-with-teams -g</code></sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/langsmith-fetch-skill">
 <img src="https://raw.githubusercontent.com/OthmanAdi/langsmith-fetch-skill/main/media/banner.png" alt="langsmith-fetch" width="240">
 </a>
@@ -194,7 +194,7 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/langsmith-fetch-skill</code></sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/agent-blueprint">
 <img src="https://raw.githubusercontent.com/OthmanAdi/agent-blueprint/master/media/banner.png" alt="agent-blueprint" width="240">
 </a>
@@ -207,7 +207,7 @@ Tools I built for coding agents — install in one line.
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/schema-architect">
 <img src="https://raw.githubusercontent.com/OthmanAdi/schema-architect/master/media/banner.png" alt="schema-architect" width="240">
 </a>
@@ -218,7 +218,7 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/schema-architect -g</code></sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/code-memory-router">
 <img src="https://raw.githubusercontent.com/OthmanAdi/code-memory-router/master/banner.png" alt="code-memory-router" width="240">
 </a>
@@ -229,7 +229,7 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/code-memory-router</code></sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/pr-perfect">
 <img src="https://raw.githubusercontent.com/OthmanAdi/pr-perfect/main/media/logo.png" alt="pr-perfect" width="120">
 </a>
@@ -243,7 +243,7 @@ Tools I built for coding agents — install in one line.
 </tr>
 
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/humanizer-semitic">
 <img src="https://raw.githubusercontent.com/OthmanAdi/humanizer-semitic/master/banner.png" alt="humanizer-semitic" width="200">
 </a>
@@ -254,7 +254,7 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/humanizer-semitic --all</code></sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/APEX">
 <img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="200">
 </a>
@@ -265,7 +265,7 @@ Tools I built for coding agents — install in one line.
 <br>
 <sub><code>npx skills add OthmanAdi/APEX</code></sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/openui-forge">
 <img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/logo.png" alt="OpenUI Forge" width="200">
 </a>
