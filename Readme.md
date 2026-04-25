@@ -150,7 +150,7 @@ Tools I built for coding agents — install in one line.
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/chronos">
-<img src="https://raw.githubusercontent.com/OthmanAdi/chronos/main/assets/profile-banner.png" alt="chronos" width="240">
+<img src="https://raw.githubusercontent.com/OthmanAdi/chronos/main/assets/profile-banner.png" alt="chronos" width="240" height="160">
 </a>
 <br>
 <a href="https://github.com/OthmanAdi/chronos"><strong>chronos</strong></a>
@@ -161,7 +161,7 @@ Tools I built for coding agents — install in one line.
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/MDDesign">
-<img src="https://raw.githubusercontent.com/OthmanAdi/MDDesign/main/media/logo.png" alt="MDDesign" width="240">
+<img src="https://raw.githubusercontent.com/OthmanAdi/MDDesign/main/media/logo.png" alt="MDDesign" width="240" height="160">
 </a>
 <br>
 <a href="https://github.com/OthmanAdi/MDDesign"><strong>MDDesign</strong></a>
@@ -174,7 +174,7 @@ Tools I built for coding agents — install in one line.
 <tr>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/OthmanAdi/planning-with-teams">
-<img src="https://raw.githubusercontent.com/OthmanAdi/planning-with-teams/master/media/banner.png" alt="planning-with-teams" width="240">
+<img src="https://raw.githubusercontent.com/OthmanAdi/planning-with-teams/master/media/banner.png" alt="planning-with-teams" width="240" height="160">
 </a>
 <br>
 <a href="https://github.com/OthmanAdi/planning-with-teams"><strong>planning-with-teams</strong></a>
