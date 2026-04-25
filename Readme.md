@@ -149,39 +149,39 @@ Tools I built for coding agents — install in one line.
 <sub><code>npx skills add OthmanAdi/researchclaw-skill --skill researchclaw -g</code></sub>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/OthmanAdi/humanizer-semitic">
-<img src="https://raw.githubusercontent.com/OthmanAdi/humanizer-semitic/master/banner.png" alt="humanizer-semitic" width="240">
+<a href="https://github.com/OthmanAdi/chronos">
+<img src="https://raw.githubusercontent.com/OthmanAdi/chronos/main/assets/profile-banner.png" alt="chronos" width="240">
 </a>
 <br>
-<a href="https://github.com/OthmanAdi/humanizer-semitic"><strong>humanizer-semitic</strong></a>
+<a href="https://github.com/OthmanAdi/chronos"><strong>chronos</strong></a>
 <br>
-<sub>AI text humanizer for Arabic and Hebrew. MSA · Egyptian · Levantine · Hebrew. Zero AI tells.</sub>
+<sub>Time awareness for AI coding agents. Hook-backed ledger, 7 decision rules, 8 platforms.</sub>
 <br>
-<sub><code>npx skills add OthmanAdi/humanizer-semitic --all</code></sub>
+<sub><code>npx skills add OthmanAdi/chronos --skill chronos -g</code></sub>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/OthmanAdi/APEX">
-<img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="240">
+<a href="https://github.com/OthmanAdi/MDDesign">
+<img src="https://raw.githubusercontent.com/OthmanAdi/MDDesign/main/media/logo.png" alt="MDDesign" width="240">
 </a>
 <br>
-<a href="https://github.com/OthmanAdi/APEX"><strong>APEX</strong></a>
+<a href="https://github.com/OthmanAdi/MDDesign"><strong>MDDesign</strong></a>
 <br>
-<sub><strong>6-12 months to 4 weeks.</strong> AI-driven replatforming and migration workflows.</sub>
+<sub>Orchestrator plugin: planning-with-files, DESIGN.md, memory routing, agent teams, session handoff. Cross-IDE.</sub>
 <br>
-<sub><code>npx skills add OthmanAdi/APEX</code></sub>
+<sub><code>npx skills add OthmanAdi/MDDesign -g</code></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/OthmanAdi/openui-forge">
-<img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/logo.png" alt="OpenUI Forge" width="160">
+<a href="https://github.com/OthmanAdi/planning-with-teams">
+<img src="https://raw.githubusercontent.com/OthmanAdi/planning-with-teams/master/media/banner.png" alt="planning-with-teams" width="240">
 </a>
 <br>
-<a href="https://github.com/OthmanAdi/openui-forge"><strong>openui-forge</strong></a>
+<a href="https://github.com/OthmanAdi/planning-with-teams"><strong>planning-with-teams</strong></a>
 <br>
-<sub>Generative UI with OpenUI. Any LLM. Any backend.</sub>
+<sub>Manus-style context engineering for Claude Code Agent Teams. Coordinate multiple Claude instances.</sub>
 <br>
-<sub><code>npx skills add OthmanAdi/openui-forge --skill openui-forge -g</code></sub>
+<sub><code>npx skills add OthmanAdi/planning-with-teams -g</code></sub>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/OthmanAdi/langsmith-fetch-skill">
@@ -244,37 +244,37 @@ Tools I built for coding agents — install in one line.
 
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/OthmanAdi/chronos">
-<img src="https://raw.githubusercontent.com/OthmanAdi/chronos/main/assets/profile-banner.png" alt="chronos" width="200">
+<a href="https://github.com/OthmanAdi/humanizer-semitic">
+<img src="https://raw.githubusercontent.com/OthmanAdi/humanizer-semitic/master/banner.png" alt="humanizer-semitic" width="200">
 </a>
 <br>
-<a href="https://github.com/OthmanAdi/chronos"><strong>chronos</strong></a>
+<a href="https://github.com/OthmanAdi/humanizer-semitic"><strong>humanizer-semitic</strong></a>
 <br>
-<sub>Time awareness for AI coding agents. Hook-backed ledger, 7 decision rules, 8 platforms.</sub>
+<sub>AI text humanizer for Arabic and Hebrew. MSA · Egyptian · Levantine · Hebrew. Zero AI tells.</sub>
 <br>
-<sub><code>npx skills add OthmanAdi/chronos --skill chronos -g</code></sub>
+<sub><code>npx skills add OthmanAdi/humanizer-semitic --all</code></sub>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/OthmanAdi/planning-with-teams">
-<img src="https://raw.githubusercontent.com/OthmanAdi/planning-with-teams/master/media/banner.png" alt="planning-with-teams" width="200">
+<a href="https://github.com/OthmanAdi/APEX">
+<img src="https://raw.githubusercontent.com/OthmanAdi/APEX/main/assets/banner.png" alt="APEX" width="200">
 </a>
 <br>
-<a href="https://github.com/OthmanAdi/planning-with-teams"><strong>planning-with-teams</strong></a>
+<a href="https://github.com/OthmanAdi/APEX"><strong>APEX</strong></a>
 <br>
-<sub>Manus-style context engineering for Claude Code Agent Teams. Coordinate multiple Claude instances.</sub>
+<sub><strong>6-12 months to 4 weeks.</strong> AI-driven replatforming and migration workflows.</sub>
 <br>
-<sub><code>npx skills add OthmanAdi/planning-with-teams -g</code></sub>
+<sub><code>npx skills add OthmanAdi/APEX</code></sub>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/OthmanAdi/MDDesign">
-<img src="https://raw.githubusercontent.com/OthmanAdi/MDDesign/main/media/logo.png" alt="MDDesign" width="200">
+<a href="https://github.com/OthmanAdi/openui-forge">
+<img src="https://raw.githubusercontent.com/OthmanAdi/openui-forge/main/media/logo.png" alt="OpenUI Forge" width="200">
 </a>
 <br>
-<a href="https://github.com/OthmanAdi/MDDesign"><strong>MDDesign</strong></a>
+<a href="https://github.com/OthmanAdi/openui-forge"><strong>openui-forge</strong></a>
 <br>
-<sub>Orchestrator plugin: planning-with-files, DESIGN.md, memory routing, agent teams, session handoff. Cross-IDE.</sub>
+<sub>Generative UI with OpenUI. Any LLM. Any backend.</sub>
 <br>
-<sub><code>npx skills add OthmanAdi/MDDesign -g</code></sub>
+<sub><code>npx skills add OthmanAdi/openui-forge --skill openui-forge -g</code></sub>
 </td>
 </tr>
 
@@ -283,7 +283,6 @@ Tools I built for coding agents — install in one line.
 | | |
 |:--|:--|
 | 🎨 [**vibe-skills**](https://github.com/OthmanAdi/vibe-skills) | Generate and deploy production-grade websites from natural language. No AI slop. |
-| 👥 [**planning-with-teams**](https://github.com/OthmanAdi/planning-with-teams) | Context engineering for Claude Code Agent Teams |
 | 🧠 [**codebase-knowledge-builder**](https://github.com/OthmanAdi/codebase-knowledge-builder) | Produces structured knowledge artifacts from any codebase |
 | 🔀 [**open-responses-agent-skill**](https://github.com/OthmanAdi/open-responses-agent-skill) | Multi-provider agent dev via HuggingFace Inference Providers |
 | 📋 [**cowork-workflows**](https://github.com/OthmanAdi/cowork-workflows) | File-based planning workflows for Cowork |
