@@ -80,6 +80,20 @@ Code I wrote that lives in other Known and helpful repos.
 <sub>Merged: <a href="https://github.com/MemPalace/mempalace/pull/558">#558 fix: skip unreachable reparse points on Windows (WinError 448)</a></sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/op7418/guizang-ppt-skill">
+<img src="https://opengraph.githubassets.com/1/op7418/guizang-ppt-skill" alt="guizang-ppt-skill" width="320">
+</a>
+<br>
+<a href="https://github.com/op7418/guizang-ppt-skill"><strong>op7418/guizang-ppt-skill</strong></a>
+&nbsp;<img src="https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=flat-square&labelColor=0f172a&color=f59e0b" />
+<br>
+<sub>Merged: <a href="https://github.com/op7418/guizang-ppt-skill/pull/5">#5 fix: grid-4 stat overflow + frame overflow:hidden — two CSS bugs, non-breaking</a></sub>
+</td>
+<td align="center" width="50%">
+</td>
+</tr>
 </table>
 
 <table>
