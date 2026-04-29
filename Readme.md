@@ -324,6 +324,9 @@ Tools I built for coding agents — install in one line.
 
 | | |
 |:--|:--|
+| [warpdotdev/warp#9306](https://github.com/warpdotdev/warp/pull/9306) | fix(windows): resolve ERROR_UNTRUSTED_MOUNT_POINT (448) for junction and symlink |
+| [warpdotdev/warp#9307](https://github.com/warpdotdev/warp/pull/9307) | fix(windows): convert WSL paths to host-native format in /open-file command |
+| [warpdotdev/warp#9308](https://github.com/warpdotdev/warp/pull/9308) | fix(mcp): add size-based log rotation to prevent unbounded MCP log growth |
 | [tobi/qmd#561](https://github.com/tobi/qmd/pull/561) | fix(windows): add qmd.cmd launcher that invokes node/bun directly — fixes MCP stdio spawn on Windows |
 | [rlnorthcutt/analyzeRepo#1](https://github.com/rlnorthcutt/analyzeRepo/pull/1) | Add multi-provider LLM support — Azure OpenAI, OpenAI, Ollama |
 | [divar-ir/ai-doc-gen#21](https://github.com/divar-ir/ai-doc-gen/pull/21) | Add Azure OpenAI Service support |
@@ -347,16 +350,12 @@ Tools I built for coding agents — install in one line.
 | [**Mystic-Portfolio**](https://github.com/OthmanAdi/Mystic-Portfolio) · [othmanadi.com](https://othmanadi.com) | Multilingual developer portfolio. React 19, TypeScript, Tailwind, RTL support. |
 | [**appwrite-keepalive**](https://github.com/OthmanAdi/appwrite-keepalive) | Keep your Appwrite free-tier projects alive. Automated. Zero infrastructure. |
 
-<!--
 ### In the Wild
 
-> Articles, threads, and coverage. Drop links here as they come in.
-
-ADD: tweet URLs, article links, HN threads, YouTube mentions, blog posts about your work
-FORMAT: | [Title or @handle](URL) | One line description |
-
-*— Building in public. Coverage added as it happens.*
--->
+| | |
+|:--|:--|
+| [Top 8 Claude Skills for Developers — Snyk](https://snyk.io/articles/top-claude-skills-developers/) | Ranked #1: "the most starred Claude Skill in the entire ecosystem" |
+| [The Next Step After Karpathy's Wiki Idea — Avi Chawla](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki) | OpenMark featured as a local, open-source personal knowledge graph |
 
 ---
 
