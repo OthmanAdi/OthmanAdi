@@ -31,6 +31,10 @@
 </tr>
 </table>
 
+| | |
+|:--|:--|
+| [Top 8 Claude Skills for Developers — Snyk](https://snyk.io/articles/top-claude-skills-developers/) | Ranked #1: "the most starred Claude Skill in the entire ecosystem" |
+| [The Next Step After Karpathy's Wiki Idea — Avi Chawla](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki) | OpenMark featured as a local, open-source personal knowledge graph |
 ---
 
 Code I wrote that lives in other Known and helpful repos.
@@ -320,6 +324,16 @@ Tools I built for coding agents — install in one line.
 | [**AI-Docs-Copier**](https://github.com/OthmanAdi/AI-Docs-Copier) | Transform any documentation into AI-friendly formats |
 
 ---
+
+### Web & Apps
+
+| | |
+|:--|:--|
+| [**BarbersBuddies**](https://github.com/OthmanAdi/BarbersBuddies_Onlineshop_maker) · [barbersbuddies.com](https://barbersbuddies.com/) | Complete open-source booking platform for barbershops. React + Firebase + Stripe. |
+| [**Mystic-Portfolio**](https://github.com/OthmanAdi/Mystic-Portfolio) · [othmanadi.com](https://othmanadi.com) | Multilingual developer portfolio. React 19, TypeScript, Tailwind, RTL support. |
+| [**appwrite-keepalive**](https://github.com/OthmanAdi/appwrite-keepalive) | Keep your Appwrite free-tier projects alive. Automated. Zero infrastructure. |
+
+---
 #### Open PRs & Projects built on my work.
 
 | | |
@@ -342,27 +356,7 @@ Tools I built for coding agents — install in one line.
 
 ---
 
-### Web & Apps
-
-| | |
-|:--|:--|
-| [**BarbersBuddies**](https://github.com/OthmanAdi/BarbersBuddies_Onlineshop_maker) · [barbersbuddies.com](https://barbersbuddies.com/) | Complete open-source booking platform for barbershops. React + Firebase + Stripe. |
-| [**Mystic-Portfolio**](https://github.com/OthmanAdi/Mystic-Portfolio) · [othmanadi.com](https://othmanadi.com) | Multilingual developer portfolio. React 19, TypeScript, Tailwind, RTL support. |
-| [**appwrite-keepalive**](https://github.com/OthmanAdi/appwrite-keepalive) | Keep your Appwrite free-tier projects alive. Automated. Zero infrastructure. |
-
-### In the Wild
-
-| | |
-|:--|:--|
-| [Top 8 Claude Skills for Developers — Snyk](https://snyk.io/articles/top-claude-skills-developers/) | Ranked #1: "the most starred Claude Skill in the entire ecosystem" |
-| [The Next Step After Karpathy's Wiki Idea — Avi Chawla](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki) | OpenMark featured as a local, open-source personal knowledge graph |
-
----
-
 ### What People Say
-
-> LinkedIn recommendations and direct quotes from people I've worked with.
-
 <!-- ADD: LinkedIn recommendation text, name, title, company -->
 <!-- FORMAT: > "Quote here." — Name, Title @ Company -->
 
