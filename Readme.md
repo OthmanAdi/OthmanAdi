@@ -33,8 +33,8 @@
 
 | | |
 |:--|:--|
-| [Top 8 Claude Skills for Developers — Snyk](https://snyk.io/articles/top-claude-skills-developers/) | Ranked #1: "the most starred Claude Skill in the entire ecosystem" |
-| [The Next Step After Karpathy's Wiki Idea — Avi Chawla](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki) | OpenMark featured as a local, open-source personal knowledge graph |
+| [Top 8 Claude Skills for Developers — Snyk](https://snyk.io/articles/top-claude-skills-developers/) | Ranked #1: "the most starred Claude Skill in the planning ecosystem" |
+| [The Next Step After Karpathy's Wiki Idea — Avi Chawla](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki) | 16 AI Agent Skills for AI Engineers |
 ---
 
 Code I wrote that lives in other Known and helpful repos.
