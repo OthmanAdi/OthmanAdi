@@ -338,6 +338,7 @@ Tools I built for coding agents — install in one line.
 
 | | |
 |:--|:--|
+| [mattpocock/sandcastle#519](https://github.com/mattpocock/sandcastle/pull/519) | feat: Add `ports` option to `docker()` sandbox provider — expose agent web servers to the host |
 | [warpdotdev/warp#9306](https://github.com/warpdotdev/warp/pull/9306) | fix(windows): resolve ERROR_UNTRUSTED_MOUNT_POINT (448) for junction and symlink |
 | [warpdotdev/warp#9307](https://github.com/warpdotdev/warp/pull/9307) | fix(windows): convert WSL paths to host-native format in /open-file command |
 | [warpdotdev/warp#9308](https://github.com/warpdotdev/warp/pull/9308) | fix(mcp): add size-based log rotation to prevent unbounded MCP log growth |
