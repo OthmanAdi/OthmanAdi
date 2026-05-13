@@ -1,4 +1,4 @@
-# Hi, I'm Adi 👋
+# Hi, I'm Ahmad-Othman 👋
 
 📍 Berlin · 🦀 Senior Applied AI Engineer @ MAX · 🚀 [planning-with-files](https://github.com/OthmanAdi/planning-with-files) (21,132★)
 
