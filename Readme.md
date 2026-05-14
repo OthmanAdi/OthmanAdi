@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad-Othman 👋
 
-📍 Berlin · 🦀 Senior Applied AI Engineer @ migRaven · 🚀 [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
+📍 Berlin · 🦀 Senior Applied AI Engineer [@migRaven](https://github.com/migRaven) · 🚀 [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 
 > Senior Applied AI Engineer at migRaven Berlin, building Rust runtimes and agent infrastructure. Open-source: 16K+ developers install my skills (planning-with-files, MDDesign, chronos, OpenMark). Eight thousand teaching hours taught me complexity isn't a property of problems; it's a measure of how badly we've drawn the system. So I draw them: in markdown, in skills, in 21k-star repos.
 
