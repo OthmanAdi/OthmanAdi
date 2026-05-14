@@ -98,6 +98,18 @@ Production Rust. Tauri. Native runtimes. The MAX-stack credibility tier.
 
 ---
 
+## 🏢 Built at migRaven (Berlin)
+
+Commercial enterprise products I've led or contributed to at **[migRaven GmbH](https://www.migraven.com)** — Identity, Data & Access Management for the DACH market. All four shipped within the last 18 months.
+
+- 🛡️ **[migRaven.MAX](https://max.migraven.com/)** · *flagship, building now* — Identity, Data & Access Management platform. Neo4j knowledge graph with 90+ connectors (AD, Entra ID, SharePoint, Teams, Exchange, file servers). LLM natural-language query layer (Azure OpenAI / AWS Bedrock, EU servers only). Reporting against BSI, ISO 27001, NIS2, DORA, TISAX, DSGVO. Public since Sep 2025 · [Launch coverage](https://www.itiko.de/artikel/2195831/migraven-gmbh-lanciert-migraven-max.html)
+- 📨 **[migRaven.Archiver for Teams](https://www.migraven.com/en/webinar-migraven-archiver-for-teams/)** *(internally: TeamsArchiver)* — Microsoft Teams archiving + compliance. Returns channel data to file servers, detects external permissions, selective channel archiving. Launched Jan 2025 · [Press release](https://www.itiko.de/artikel/2145291/migraven-stellt-neuen-archiver-f-r-teams-vor.html)
+- 🧠 **[aikux.Brain](https://www.aikux.ai/)** *(sister company aikux Service GmbH)* — Enterprise Knowledge Graph platform. Neo4j + GraphRAG + semantic / LLM layer. Multi-tenant, on-prem or EU cloud, LLM-agnostic. Powers migRaven.MAX. Public since Nov 2025 · [Launch coverage](https://www.itiko.de/artikel/2209107/aikux-service-gmbh-pr-sentiert-aikux-brain-den-enterprise-knowledge-graph.html)
+
+*Also leading **Nexus** internally — the workflow and script-orchestration engine inside migRaven.MAX (not publicly branded).*
+
+---
+
 ## 🌐 Web & Apps
 
 | | Repo | What it does | ★ |
