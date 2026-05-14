@@ -12,7 +12,7 @@
 
 The eight projects that explain the rest of this page. Each one ships, each one solves a system, each one is one `npx` away.
 
-- 📋 **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** `(21,132★ · 1,877 forks · 101 watchers)` — Manus-style file-based planning that survives `/clear` across Claude Code, Codex, Cursor, OpenCode. The skill behind a $2B acquisition pattern.
+- 📋 **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** `21,132★ · 1,877 forks` — Manus-style file-based planning that survives `/clear` across Claude Code, Codex, Cursor, OpenCode. The skill behind a $2B acquisition pattern.
 - 🧩 **[promptfusion](https://github.com/OthmanAdi/promptfusion)** `(27★)` — Three-layer prompt composition for AI agents. Semantic weighted priorities.
 - 🔭 **[langsmith-fetch](https://github.com/OthmanAdi/langsmith-fetch-skill)** `(25★)` — First AI observability skill. Debug LangChain / LangGraph agents from your terminal.
 - 👥 **[planning-with-teams](https://github.com/OthmanAdi/planning-with-teams)** `(23★)` — Context engineering for Claude Code agent teams. Coordinate multiple Claude instances on shared planning files.
@@ -27,28 +27,26 @@ The eight projects that explain the rest of this page. Each one ships, each one 
 
 The skill catalog. Built for coding agents (Claude Code, Codex, Cursor, OpenCode, Hermes, ADAL, OpenClaw, Warp, +). Install one-line: `npx skills add OthmanAdi/<name> -g`.
 
-> Columns: ⭐ stars · 🍴 forks · 👁 watchers.
-
-| | Repo | What it does | ⭐ · 🍴 · 👁 |
-|:-:|---|---|---|
-| 🗂️ | **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** | Manus-style persistent markdown planning. The workflow pattern behind the $2B acquisition. | `21,132 · 1,877 · 101` |
-| 🔭 | **[langsmith-fetch-skill](https://github.com/OthmanAdi/langsmith-fetch-skill)** | AI observability. Pull LangSmith traces, debug LangChain / LangGraph agents from terminal. | `25 · 2 · 0` |
-| 👥 | **[planning-with-teams](https://github.com/OthmanAdi/planning-with-teams)** | Multi-Claude coordination on shared planning files. Context engineering for agent teams. | `23 · 4 · 0` |
-| 🦞 | **[researchclaw-skill](https://github.com/OthmanAdi/researchclaw-skill)** | Topic to conference-grade paper. 23-stage autonomous research pipeline. | `13 · 3 · 0` |
-| 🎨 | **[MDDesign](https://github.com/OthmanAdi/MDDesign)** | Orchestrator: planning + DESIGN.md + memory routing + agent teams + handoff. Cross-IDE. | `8 · 2 · 0` |
-| 🧠 | **[codebase-knowledge-builder](https://github.com/OthmanAdi/codebase-knowledge-builder)** | Produces structured knowledge artifacts from any codebase. Turns any agent into a 10x dev. | `8 · 1 · 0` |
-| 📋 | **[cowork-workflows](https://github.com/OthmanAdi/cowork-workflows)** | File-based planning workflows tuned for Cowork. | `8 · 1 · 0` |
-| 🔀 | **[code-memory-router](https://github.com/OthmanAdi/code-memory-router)** | Routes memory/retrieval tasks between MemPalace and QMD. 13/13 benchmark vs 4/13 without. | `3 · 0 · 0` |
-| 🎛️ | **[openui-forge](https://github.com/OthmanAdi/openui-forge)** | Generative UI with OpenUI. Any LLM, any backend. Scaffold + integrate + validate. | `3 · 0 · 0` |
-| 📦 | **[agent-blueprint](https://github.com/OthmanAdi/agent-blueprint)** | Production-grade AI agent scaffold. Workflow builders + app embedders. Apache-2.0. | `2 · 0 · 0` |
-| 🚀 | **[APEX](https://github.com/OthmanAdi/APEX)** | 6-12 months to 4 weeks. AI-driven replatforming workflows: decompose → replatform → tier1-3 → learn. | `2 · 0 · 0` |
-| 🌉 | **[open-responses-agent-skill](https://github.com/OthmanAdi/open-responses-agent-skill)** | Multi-provider agent development via HuggingFace Inference Providers. | `2 · 0 · 0` |
-| ⏱️ | **[chronos](https://github.com/OthmanAdi/chronos)** | Temporal awareness for AI coding agents. Hook ledger, 7 rules, 8 platforms. | `1 · 0 · 0` |
-| 📝 | **[pr-perfect](https://github.com/OthmanAdi/pr-perfect)** | One command to engineer PR descriptions a reviewer-agent can verify. | `1 · 0 · 0` |
-| 🌍 | **[humanizer-semitic](https://github.com/OthmanAdi/humanizer-semitic)** | AI text humanizer for Arabic + Hebrew. MSA, Egyptian, Levantine, Hebrew. Zero AI tells. | `1 · 0 · 0` |
-| 🎯 | **[vibe-skills](https://github.com/OthmanAdi/vibe-skills)** | Production websites from natural language. Deploy via here.now. No AI slop. | `1 · 0 · 0` |
-| 🔗 | **[awesome-here-now](https://github.com/OthmanAdi/awesome-here-now)** | Curated catalog for the here.now publishing ecosystem. | `1 · 0 · 0` |
-| 🗄️ | **[schema-architect](https://github.com/OthmanAdi/schema-architect)** | Production DB schemas for SQLite + Redis + Neo4j. Typed Rust + Go bindings. Multi-DB architectures. | `—` |
+| | Repo | What it does | ★ |
+|:-:|---|---|---:|
+| 🗂️ | **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** | Manus-style persistent markdown planning. The workflow pattern behind the $2B acquisition. | 21,132 |
+| 🔭 | **[langsmith-fetch-skill](https://github.com/OthmanAdi/langsmith-fetch-skill)** | AI observability. Pull LangSmith traces, debug LangChain / LangGraph agents from terminal. | 25 |
+| 👥 | **[planning-with-teams](https://github.com/OthmanAdi/planning-with-teams)** | Multi-Claude coordination on shared planning files. Context engineering for agent teams. | 23 |
+| 🦞 | **[researchclaw-skill](https://github.com/OthmanAdi/researchclaw-skill)** | Topic to conference-grade paper. 23-stage autonomous research pipeline. | 13 |
+| 🎨 | **[MDDesign](https://github.com/OthmanAdi/MDDesign)** | Orchestrator: planning + DESIGN.md + memory routing + agent teams + handoff. Cross-IDE. | 8 |
+| 🧠 | **[codebase-knowledge-builder](https://github.com/OthmanAdi/codebase-knowledge-builder)** | Produces structured knowledge artifacts from any codebase. Turns any agent into a 10x dev. | 8 |
+| 📋 | **[cowork-workflows](https://github.com/OthmanAdi/cowork-workflows)** | File-based planning workflows tuned for Cowork. | 8 |
+| 🔀 | **[code-memory-router](https://github.com/OthmanAdi/code-memory-router)** | Routes memory/retrieval tasks between MemPalace and QMD. 13/13 benchmark vs 4/13 without. | 3 |
+| 🎛️ | **[openui-forge](https://github.com/OthmanAdi/openui-forge)** | Generative UI with OpenUI. Any LLM, any backend. Scaffold + integrate + validate. | 3 |
+| 📦 | **[agent-blueprint](https://github.com/OthmanAdi/agent-blueprint)** | Production-grade AI agent scaffold. Workflow builders + app embedders. Apache-2.0. | 2 |
+| 🚀 | **[APEX](https://github.com/OthmanAdi/APEX)** | 6-12 months to 4 weeks. AI-driven replatforming workflows: decompose → replatform → tier1-3 → learn. | 2 |
+| 🌉 | **[open-responses-agent-skill](https://github.com/OthmanAdi/open-responses-agent-skill)** | Multi-provider agent development via HuggingFace Inference Providers. | 2 |
+| ⏱️ | **[chronos](https://github.com/OthmanAdi/chronos)** | Temporal awareness for AI coding agents. Hook ledger, 7 rules, 8 platforms. | 1 |
+| 📝 | **[pr-perfect](https://github.com/OthmanAdi/pr-perfect)** | One command to engineer PR descriptions a reviewer-agent can verify. | 1 |
+| 🌍 | **[humanizer-semitic](https://github.com/OthmanAdi/humanizer-semitic)** | AI text humanizer for Arabic + Hebrew. MSA, Egyptian, Levantine, Hebrew. Zero AI tells. | 1 |
+| 🎯 | **[vibe-skills](https://github.com/OthmanAdi/vibe-skills)** | Production websites from natural language. Deploy via here.now. No AI slop. | 1 |
+| 🔗 | **[awesome-here-now](https://github.com/OthmanAdi/awesome-here-now)** | Curated catalog for the here.now publishing ecosystem. | 1 |
+| 🗄️ | **[schema-architect](https://github.com/OthmanAdi/schema-architect)** | Production DB schemas for SQLite + Redis + Neo4j. Typed Rust + Go bindings. Multi-DB architectures. | — |
 
 ---
 
@@ -56,12 +54,25 @@ The skill catalog. Built for coding agents (Claude Code, Codex, Cursor, OpenCode
 
 Larger software, not skills. Production-grade systems built around agentic stacks.
 
-| | Repo | What it does | ⭐ · 🍴 · 👁 |
-|:-:|---|---|---|
-| 📄 | **[AI-Docs-Copier](https://github.com/OthmanAdi/AI-Docs-Copier)** | Transform any documentation into AI-friendly formats. One CLI. | `17 · 2 · 0` |
-| 🖥️ | **[skill-deck](https://github.com/OthmanAdi/skill-deck)** | Universal coding agent skill browser. Desktop overlay for 15+ AI agents. Tauri v2 + Rust + Svelte 5. | `4 · 1 · 0` |
-| 🧭 | **[OpenMark](https://github.com/OthmanAdi/OpenMark)** | Personal knowledge graph. 8K+ bookmarks + LinkedIn + YouTube indexed with pplx-embed, ChromaDB, Neo4j. LangGraph agent + Gradio UI. | `4 · 0 · 1` |
-| 🕸️ | **[langgraph-checkpoint-neo4j-js](https://github.com/OthmanAdi/langgraph-checkpoint-neo4j-js)** | Neo4j checkpoint saver for LangGraph.js. Persistent memory with time-travel. | `1 · 0 · 0` |
+| | Repo | What it does | ★ |
+|:-:|---|---|---:|
+| 📄 | **[AI-Docs-Copier](https://github.com/OthmanAdi/AI-Docs-Copier)** | Transform any documentation into AI-friendly formats. One CLI. | 17 |
+| 🖥️ | **[skill-deck](https://github.com/OthmanAdi/skill-deck)** | Universal coding agent skill browser. Desktop overlay for 15+ AI agents. Tauri v2 + Rust + Svelte 5. | 4 |
+| 🧭 | **[OpenMark](https://github.com/OthmanAdi/OpenMark)** | Personal knowledge graph. 8K+ bookmarks + LinkedIn + YouTube indexed with pplx-embed, ChromaDB, Neo4j. LangGraph agent + Gradio UI. | 4 |
+
+---
+
+## 🕸️ Neo4j × AI Agents
+
+Production-grade work where Neo4j is the spine — graph-as-memory, graph-as-permission-model, graph-as-checkpoint. Built for the Neo4j + agentic-AI intersection.
+
+| | Repo | What it does | ★ |
+|:-:|---|---|---:|
+| 🔓 | **[migraven-openfang-mvp](https://github.com/OthmanAdi/migraven-openfang-mvp)** | OpenFang-style Active Directory + permission + security audit agent. Rust runtime, Node + Zod skill, Neo4j graph DB, Azure AI Foundry (gpt-5.5 + claude-opus-4-5). | new |
+| 🛡️ | **[migraven-max-thclaws](https://github.com/OthmanAdi/migraven-max-thclaws)** | Framework-built AD + Berechtigung audit agent. Neo4j + thClaws + MCP. Replicates a 25K-line bespoke monolith in ~2,700 lines of Rust. | new |
+| 🧠 | **[langgraph-checkpoint-neo4j-js](https://github.com/OthmanAdi/langgraph-checkpoint-neo4j-js)** | Neo4j checkpoint saver for LangGraph.js. Persistent memory with time-travel. | 1 |
+
+*Neo4j also powers [OpenMark](https://github.com/OthmanAdi/OpenMark) (knowledge graph) and [schema-architect](https://github.com/OthmanAdi/schema-architect) (multi-DB schema generator) — see sections above.*
 
 ---
 
@@ -69,11 +80,11 @@ Larger software, not skills. Production-grade systems built around agentic stack
 
 Production Rust. Tauri. Native runtimes. The MAX-stack credibility tier.
 
-| | Repo | What it does | ⭐ · 🍴 · 👁 |
-|:-:|---|---|---|
-| 🦀 | **[ai-model-directory-router-rs](https://github.com/OthmanAdi/ai-model-directory-router-rs)** | Routing, cost calculation, fallback chains, and context window management for 7000+ AI models. Rust library. | `—` |
-| 📚 | **[ai-model-directory](https://github.com/OthmanAdi/ai-model-directory)** | The most comprehensive, automatically updated directory of 7000+ AI models and their metadata. | `—` |
-| 🛠️ | **[migRaven-AD-CleanUP](https://github.com/OthmanAdi/migRaven-AD-CleanUP)** | Active Directory cleanup tooling in Rust. Production at migRaven. | `—` |
+| | Repo | What it does | ★ |
+|:-:|---|---|---:|
+| 🦀 | **[ai-model-directory-router-rs](https://github.com/OthmanAdi/ai-model-directory-router-rs)** | Routing, cost calculation, fallback chains, and context window management for 7000+ AI models. Rust library. | — |
+| 📚 | **[ai-model-directory](https://github.com/OthmanAdi/ai-model-directory)** | The most comprehensive, automatically updated directory of 7000+ AI models and their metadata. | — |
+| 🛠️ | **[migRaven-AD-CleanUP](https://github.com/OthmanAdi/migRaven-AD-CleanUP)** | Active Directory cleanup tooling in Rust. Production at migRaven. | — |
 
 *skill-deck (Tauri v2 + Rust) is listed under AI Systems above for product-tier framing.*
 
@@ -81,19 +92,19 @@ Production Rust. Tauri. Native runtimes. The MAX-stack credibility tier.
 
 ## 📐 Frameworks & Methodology
 
-| | Repo | What it does | ⭐ · 🍴 · 👁 |
-|:-:|---|---|---|
-| 🧩 | **[promptfusion](https://github.com/OthmanAdi/promptfusion)** | Three-layer prompt composition for AI agents. Semantic weighted priorities. A methodology, not just a tool. | `27 · 12 · 0` |
+| | Repo | What it does | ★ |
+|:-:|---|---|---:|
+| 🧩 | **[promptfusion](https://github.com/OthmanAdi/promptfusion)** | Three-layer prompt composition for AI agents. Semantic weighted priorities. A methodology, not just a tool. `12 forks`. | 27 |
 
 ---
 
 ## 🌐 Web & Apps
 
-| | Repo | What it does | ⭐ · 🍴 · 👁 |
-|:-:|---|---|---|
-| ✂️ | **[BarbersBuddies](https://github.com/OthmanAdi/BarbersBuddies_Onlineshop_maker)** · [barbersbuddies.com](https://barbersbuddies.com) | Complete open-source booking platform for barbershops. React + Firebase + Stripe. | `16 · 3 · 0` |
-| 🪞 | **[Mystic-Portfolio](https://github.com/OthmanAdi/Mystic-Portfolio)** · [othmanadi.com](https://othmanadi.com) | Multilingual developer portfolio. React 19 + TypeScript + Tailwind + RTL. | `1 · 0 · 0` |
-| 🔁 | **[appwrite-keepalive](https://github.com/OthmanAdi/appwrite-keepalive)** | Keeps Appwrite free-tier projects alive. Zero infrastructure. | `1 · 1 · 0` |
+| | Repo | What it does | ★ |
+|:-:|---|---|---:|
+| ✂️ | **[BarbersBuddies](https://github.com/OthmanAdi/BarbersBuddies_Onlineshop_maker)** · [barbersbuddies.com](https://barbersbuddies.com) | Complete open-source booking platform for barbershops. React + Firebase + Stripe. | 16 |
+| 🪞 | **[Mystic-Portfolio](https://github.com/OthmanAdi/Mystic-Portfolio)** · [othmanadi.com](https://othmanadi.com) | Multilingual developer portfolio. React 19 + TypeScript + Tailwind + RTL. | 1 |
+| 🔁 | **[appwrite-keepalive](https://github.com/OthmanAdi/appwrite-keepalive)** | Keeps Appwrite free-tier projects alive. Zero infrastructure. | 1 |
 
 ---
 
