@@ -1,10 +1,10 @@
 # Hi, I'm Ahmad-Othman 👋
 
-📍 Berlin · 🦀 Senior Applied AI Engineer @ MAX · 🚀 [planning-with-files](https://github.com/OthmanAdi/planning-with-files) (21,132★)
+📍 Berlin · 🦀 Senior Applied AI Engineer @ migRaven · 🚀 [planning-with-files](https://github.com/OthmanAdi/planning-with-files) (21,132★)
 
-> Senior Applied AI Engineer at MAX Berlin, building Rust runtimes and agent infrastructure. Open-source: 16K+ developers install my skills (planning-with-files, MDDesign, chronos, OpenMark). Eight thousand teaching hours taught me complexity isn't a property of problems; it's a measure of how badly we've drawn the system. So I draw them: in markdown, in skills, in 21k-star repos.
+> Senior Applied AI Engineer at migRaven Berlin, building Rust runtimes and agent infrastructure. Open-source: 16K+ developers install my skills (planning-with-files, MDDesign, chronos, OpenMark). Eight thousand teaching hours taught me complexity isn't a property of problems; it's a measure of how badly we've drawn the system. So I draw them: in markdown, in skills, in 21k-star repos.
 
-**Currently:** shipping Rust agent infrastructure at MAX · maintaining `planning-with-files`, `MDDesign`, `chronos` · publishing skills weekly under `npx skills add OthmanAdi/<skill>`.
+**Currently:** shipping Rust agent infrastructure at migRaven · maintaining `planning-with-files`, `MDDesign`, `chronos` · publishing skills weekly under `npx skills add OthmanAdi/<skill>`.
 
 ---
 
@@ -207,7 +207,7 @@ Code I wrote that lives in known and helpful repos.
 
 - **Teaching:** 8,000+ hours since 2023 across Morphos, Aikux.Brain, MAX. KI Python module, AI Engineering 12-Factor curriculum.
 - **Outcomes:** 100+ students transitioned into developer roles. References on LinkedIn.
-- **Production code:** 97K+ LOC at migRaven.MAX (Rust + Node + .NET, Neo4j + Redis + Pinecone + Anthropic).
+- **Production code:** 97K+ LOC across migRaven products (Rust + Node + .NET, Neo4j + Redis + Pinecone + Anthropic).
 - **Open source reach:** 21K+ stars · 16K+ developers installing skills · 11 merged PRs into other public repos.
 - **Currently learning:** Rust async runtimes, Tauri v2 internals, formal methods for agent reliability.
 - **Personal stack:** Claude Code + planning-with-files + chronos + MDDesign, locally. Rust on Windows. Berlin-based since 2021, German citizen since 2026.
