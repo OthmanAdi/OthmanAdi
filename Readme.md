@@ -83,10 +83,8 @@ Production Rust. Tauri. Native runtimes. The MAX-stack credibility tier.
 | | Repo | What it does | ★ |
 |:-:|---|---|---:|
 | 🦀 | **[ai-model-directory-router-rs](https://github.com/OthmanAdi/ai-model-directory-router-rs)** | Routing, cost calculation, fallback chains, and context window management for 7000+ AI models. Rust library. | — |
-| 📚 | **[ai-model-directory](https://github.com/OthmanAdi/ai-model-directory)** | The most comprehensive, automatically updated directory of 7000+ AI models and their metadata. | — |
-| 🛠️ | **[migRaven-AD-CleanUP](https://github.com/OthmanAdi/migRaven-AD-CleanUP)** | Active Directory cleanup tooling in Rust. Production at migRaven. | — |
 
-*skill-deck (Tauri v2 + Rust) is listed under AI Systems above for product-tier framing.*
+*[skill-deck](https://github.com/OthmanAdi/skill-deck) (Tauri v2 + Rust) is listed under AI Systems above for product-tier framing.*
 
 ---
 
