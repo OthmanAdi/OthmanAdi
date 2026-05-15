@@ -84,7 +84,6 @@ Production Rust. Tauri. Native runtimes. The MAX-stack credibility tier.
 | | Repo | What it does | ★ |
 |:-:|---|---|---:|
 | 🦀 | **[ai-model-directory-router-rs](https://github.com/OthmanAdi/ai-model-directory-router-rs)** | Route 7000+ AI models by cost, context, and fallback. Decimal math, no pricing drift. | — |
-| 🖥️ | **[skill-deck](https://github.com/OthmanAdi/skill-deck)** | Tauri v2 + Rust + Svelte desktop overlay. Find any skill across 15+ AI agents instantly. | 4 |
 
 ---
 
