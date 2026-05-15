@@ -216,6 +216,10 @@ Code I wrote that lives in known and helpful repos.
 
 ---
 
+<a href="https://skill-history.com/othmanadi/planning-with-files"><img src="https://skill-history.com/chart/othmanadi/planning-with-files.svg" width="100%" alt="planning-with-files ClawHub Download History"></a>
+
+---
+
 > *Draw the system. Ship the markdown. Repeat until obvious.*
 
 <p align="center">
