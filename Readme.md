@@ -21,6 +21,7 @@ The nine projects that explain the rest of this page. Each one ships, each one s
 - 🎨 **[MDDesign](https://github.com/OthmanAdi/MDDesign)** `(8★)` — Glue layer between planning, design tokens, memory, and agent teams. No tool replacement.
 - 🖥️ **[skill-deck](https://github.com/OthmanAdi/skill-deck)** `(4★)` — Browse skills across 15+ AI agents from one keypress desktop overlay.
 - ⏱️ **[chronos](https://github.com/OthmanAdi/chronos)** `(1★ · new)` — Stop agents guessing "just now". Hook ledger, 7 decision rules, 8 platforms.
+- ▶️ **[YouTube-Clipper](https://github.com/OthmanAdi/YouTube-Clipper)** `(new)` — Hear a great moment in YouTube. Alt+drag the seekbar. Verbatim audio + Whisper transcript + AI bullets + a publishable web page land in one folder. Six-stage pipeline, only stage 5 is AI.
 
 ---
 
@@ -60,6 +61,7 @@ Larger software, not skills. Production-grade systems built around agentic stack
 | 📄 | **[AI-Docs-Copier](https://github.com/OthmanAdi/AI-Docs-Copier)** | One click turns any doc site into Markdown your AI tool actually reads. | 17 |
 | 🖥️ | **[skill-deck](https://github.com/OthmanAdi/skill-deck)** | Search skills across 15+ AI coding agents from one desktop overlay keypress. Tauri v2 + Rust. | 4 |
 | 🧭 | **[OpenMark](https://github.com/OthmanAdi/OpenMark)** | Turn 8K+ bookmarks into a searchable knowledge graph. ChromaDB and Neo4j in one query. | 4 |
+| ▶️ | **[YouTube-Clipper](https://github.com/OthmanAdi/YouTube-Clipper)** | Alt+drag a YouTube seekbar → folder with verbatim audio, Whisper transcript, AI summary + bullets, and a publishable `index.html`. Chrome MV3 extension + local FastAPI daemon, six-stage pipeline, only stage 5 calls an LLM. | new |
 
 ---
 
