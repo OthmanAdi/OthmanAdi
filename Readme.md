@@ -13,6 +13,7 @@
 The nine projects that explain the rest of this page. Each one ships, each one solves a system, each one is one `npx` away.
 
 - 📋 **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** `21,132★ · 1,877 forks` — Your agent forgets every `/clear`. Files fix it. The planning pattern Meta paid $2B for.
+- 🪟 **[plan-it](https://github.com/OthmanAdi/plan-it)** `(new)` — Stop reading walls of markdown. Start *seeing* your plan. HTML-first sibling of planning-with-files: single plan.html, survives `/clear`, SHA-256 attested, 10 templates, 17 IDEs day 1.
 - 🧩 **[promptfusion](https://github.com/OthmanAdi/promptfusion)** `(27★)` — Three weighted prompt layers. LLMs follow your priorities, not their guesses.
 - 🔭 **[langsmith-fetch](https://github.com/OthmanAdi/langsmith-fetch-skill)** `(25★)` — Skip tab-switching to LangSmith Studio. LangChain traces land in your terminal.
 - 👥 **[planning-with-teams](https://github.com/OthmanAdi/planning-with-teams)** `(23★)` — Run parallel Claude agents on one shared plan. No drift, no duplicated work.
