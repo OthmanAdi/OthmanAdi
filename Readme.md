@@ -55,7 +55,7 @@ The skill catalog. Built for coding agents (Claude Code, Codex, Cursor, OpenCode
 | 🌉 | **[open-responses-agent-skill](https://github.com/OthmanAdi/open-responses-agent-skill)** | OpenAI Responses API, but multi-provider. Switch Groq, Together, Nebius without rewrites. | 2 |
 | ⏱️ | **[chronos](https://github.com/OthmanAdi/chronos)** | Stop agents guessing "just now". Wall-clock, idle detection, retry windows in one ledger. | 1 |
 | 📝 | **[pr-perfect](https://github.com/OthmanAdi/pr-perfect)** | PR descriptions your reviewer-agent verifies. Reads commits, learns your team's format. | 1 |
-| 🌍 | **[humanizer-semitic](https://github.com/OthmanAdi/humanizer-semitic)** | Turn AI Arabic and Hebrew into text that reads human. 113 patterns, four dialects. | 1 |
+| 🌍 | **[humanizer-semitic](https://github.com/OthmanAdi/humanizer-semitic)** | Turn AI Arabic and Hebrew into text that reads human. 113 patterns, four dialects. | 3 |
 | 🎯 | **[vibe-skills](https://github.com/OthmanAdi/vibe-skills)** | Website from one prompt. Lives on here.now in seconds. No purple gradients. | 1 |
 | 🔗 | **[awesome-here-now](https://github.com/OthmanAdi/awesome-here-now)** | Catalog of live sites shipped with here.now. Discover patterns, get yours listed. | 1 |
 | 🗄️ | **[schema-architect](https://github.com/OthmanAdi/schema-architect)** | SQLite, Redis, Neo4j schemas with typed Rust and Go bindings, ready to ship. | — |
