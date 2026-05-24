@@ -8,11 +8,20 @@
 
 ---
 
+## 📰 Press & Articles About My Work
+
+- 🎛️ **[OpenUI by thesys — Official Projects](https://www.openui.com/projects)** → `openui-forge` featured as a community project on the official OpenUI projects page, listed alongside the maintainers' own plugins. Also added to [ADOPTERS.md](https://github.com/thesysdev/openui/blob/main/ADOPTERS.md). Picked up because it filled four gaps the official tooling didn't cover: existing-project integration, non-JS backends (Python / Go / Rust), provider-agnostic LLM wiring, and 11 agent platforms beyond Claude Code.
+- **[Snyk — Top 8 Claude Skills for Developers](https://snyk.io/articles/top-claude-skills-developers/)** → Ranked **#1**: *"the most starred Claude Skill in the planning ecosystem."*
+- **[Avi Chawla — The Next Step After Karpathy's Wiki Idea](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki)** → 16 AI Agent Skills for AI Engineers.
+
+---
+
 ## ⭐ Start Here
 
 The nine projects that explain the rest of this page. Each one ships, each one solves a system, each one is one `npx` away.
 
 - 📋 **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** `21,132★ · 1,877 forks` — Your agent forgets every `/clear`. Files fix it. The planning pattern Meta paid $2B for.
+- 🎛️ **[openui-forge](https://github.com/OthmanAdi/openui-forge)** `featured by OpenUI` — Generative UI for OpenUI Lang. Adds OpenUI to existing codebases, any LLM provider (OpenAI / Anthropic / LangChain / Vercel AI SDK), Python / Go / Rust backends. Listed on [openui.com/projects](https://www.openui.com/projects).
 - 🪟 **[plan-it](https://github.com/OthmanAdi/plan-it)** `(new)` — Stop reading walls of markdown. Start *seeing* your plan. HTML-first sibling of planning-with-files: single plan.html, survives `/clear`, SHA-256 attested, 10 templates, 17 IDEs day 1.
 - 🧩 **[promptfusion](https://github.com/OthmanAdi/promptfusion)** `(27★)` — Three weighted prompt layers. LLMs follow your priorities, not their guesses.
 - 🔭 **[langsmith-fetch](https://github.com/OthmanAdi/langsmith-fetch-skill)** `(25★)` — Skip tab-switching to LangSmith Studio. LangChain traces land in your terminal.
@@ -33,6 +42,7 @@ The skill catalog. Built for coding agents (Claude Code, Codex, Cursor, OpenCode
 | | Repo | What it does | ★ |
 |:-:|---|---|---:|
 | 🗂️ | **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** | Markdown as persistent memory. Task plan, findings, progress survive every reset. | 21,132 |
+| 🎛️ | **[openui-forge](https://github.com/OthmanAdi/openui-forge)** `featured by OpenUI` | Generative UI scaffolds wired to any LLM provider and any backend language. [Listed on openui.com/projects](https://www.openui.com/projects). | 5 |
 | 🔭 | **[langsmith-fetch-skill](https://github.com/OthmanAdi/langsmith-fetch-skill)** | LangChain and LangGraph traces pulled into Claude. Debug without leaving the terminal. | 25 |
 | 👥 | **[planning-with-teams](https://github.com/OthmanAdi/planning-with-teams)** | Parallel Claude agents coordinated on shared planning files. No siloed context. | 23 |
 | 🦞 | **[researchclaw-skill](https://github.com/OthmanAdi/researchclaw-skill)** | Conference-grade research paper from one topic. 23 stages, self-healing pipeline. | 13 |
@@ -40,7 +50,6 @@ The skill catalog. Built for coding agents (Claude Code, Codex, Cursor, OpenCode
 | 🧠 | **[codebase-knowledge-builder](https://github.com/OthmanAdi/codebase-knowledge-builder)** | Turn any codebase into structured Markdown artifacts your agent reads cold. | 8 |
 | 📋 | **[cowork-workflows](https://github.com/OthmanAdi/cowork-workflows)** | Cowork tasks that survive context resets. Markdown checkpoints replay on reconnect. | 8 |
 | 🔀 | **[code-memory-router](https://github.com/OthmanAdi/code-memory-router)** | Cut memory-task token burn 61%. Routes WHY to MemPalace, WHERE to QMD. | 3 |
-| 🎛️ | **[openui-forge](https://github.com/OthmanAdi/openui-forge)** | Generative UI scaffolds wired to any LLM provider and any backend language. | 3 |
 | 📦 | **[agent-blueprint](https://github.com/OthmanAdi/agent-blueprint)** | Stop building agents from zero. Patterns for tool registries, HITL, streaming, serving. | 2 |
 | 🚀 | **[APEX](https://github.com/OthmanAdi/APEX)** | Replatforms in 4 weeks instead of 6-12 months. Six skills, three autonomy tiers. | 2 |
 | 🌉 | **[open-responses-agent-skill](https://github.com/OthmanAdi/open-responses-agent-skill)** | OpenAI Responses API, but multi-provider. Switch Groq, Together, Nebius without rewrites. | 2 |
@@ -120,13 +129,6 @@ Commercial enterprise products I've led or contributed to at **[migRaven GmbH](h
 
 ---
 
-## 📰 Press & Articles About My Work
-
-- **[Snyk — Top 8 Claude Skills for Developers](https://snyk.io/articles/top-claude-skills-developers/)** → Ranked **#1**: *"the most starred Claude Skill in the planning ecosystem."*
-- **[Avi Chawla — The Next Step After Karpathy's Wiki Idea](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki)** → 16 AI Agent Skills for AI Engineers.
-
----
-
 ## ✍️ Where I Publish
 
 - 💼 **LinkedIn** → [linkedin.com/in/codingwithadi](https://linkedin.com/in/codingwithadi)
@@ -186,6 +188,7 @@ Code I wrote that lives in known and helpful repos.
 | **[tobi/qmd](https://github.com/tobi/qmd)** ![](https://img.shields.io/github/stars/tobi/qmd?style=flat-square&label=★) | [#561](https://github.com/tobi/qmd/pull/561) → fix(windows): qmd.cmd launcher for MCP stdio spawn. |
 | **[rlnorthcutt/analyzeRepo](https://github.com/rlnorthcutt/analyzeRepo)** ![](https://img.shields.io/github/stars/rlnorthcutt/analyzeRepo?style=flat-square&label=★) | [#1](https://github.com/rlnorthcutt/analyzeRepo/pull/1) → multi-provider LLM support (Azure OpenAI, OpenAI, Ollama). |
 | **[divar-ir/ai-doc-gen](https://github.com/divar-ir/ai-doc-gen)** ![](https://img.shields.io/github/stars/divar-ir/ai-doc-gen?style=flat-square&label=★) | [#21](https://github.com/divar-ir/ai-doc-gen/pull/21) → Azure OpenAI Service support. |
+| **[thesysdev/openui](https://github.com/thesysdev/openui)** ![](https://img.shields.io/github/stars/thesysdev/openui?style=flat-square&label=★) | Added to [ADOPTERS.md](https://github.com/thesysdev/openui/blob/main/ADOPTERS.md) and the official [openui.com/projects](https://www.openui.com/projects) page via `openui-forge`. |
 
 ---
 
