@@ -13,6 +13,7 @@
 - 🎛️ **[OpenUI by thesys — Official Projects](https://www.openui.com/projects)** → `openui-forge` featured as a community project on the official OpenUI projects page, listed alongside the maintainers' own plugins. Also added to [ADOPTERS.md](https://github.com/thesysdev/openui/blob/main/ADOPTERS.md). Picked up because it filled four gaps the official tooling didn't cover: existing-project integration, non-JS backends (Python / Go / Rust), provider-agnostic LLM wiring, and 11 agent platforms beyond Claude Code.
 - **[Snyk — Top 8 Claude Skills for Developers](https://snyk.io/articles/top-claude-skills-developers/)** → Ranked **#1**: *"the most starred Claude Skill in the planning ecosystem."*
 - **[Avi Chawla — The Next Step After Karpathy's Wiki Idea](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki)** → 16 AI Agent Skills for AI Engineers.
+- **[Google AntiGravity Awesome Skills list - Added at 2026-02-27](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/planning-with-files)** Planning skill for short and long term long running agentic sessions.
 
 ---
 
