@@ -25,6 +25,7 @@ The projects that explain the rest of this page. Each one ships, each one solves
 - 🎛️ **[openui-forge](https://github.com/OthmanAdi/openui-forge)** `20★ · featured by OpenUI` — Generative UI for OpenUI Lang. Adds OpenUI to existing codebases, any LLM provider (OpenAI / Anthropic / LangChain / Vercel AI SDK), Python / Go / Rust backends. Listed on [openui.com/projects](https://www.openui.com/projects).
 - 🪟 **[plan-it](https://github.com/OthmanAdi/plan-it)** `(7★)` — Stop reading walls of markdown. Start *seeing* your plan. HTML-first sibling of planning-with-files: single plan.html, survives `/clear`, SHA-256 attested, 10 templates, 17 IDEs day 1.
 - 🗃️ **[plandeck](https://github.com/OthmanAdi/plandeck)** `61★ · new` — Flat markdown plans can't tell you what's blocked. The dependency-graph sibling of planning-with-files: reads your plan.yaml, auto-promotes cards to Ready when their dependencies clear, lights the critical path gold, surfaces one next move, and leaves a `/clear`-proof NEXT.md breadcrumb.
+- 🦀 **[ai-model-directory-router-rs](https://github.com/OthmanAdi/ai-model-directory-router-rs)** `published on crates.io` — Production Rust library that picks the right model out of 7,000+ by cost, context window, and capability. Decimal-exact pricing (no float drift on billing math), automatic fallback chains, models.dev overlay enrichment. `cargo add ai-model-directory-router` and your router is done: [crates.io](https://crates.io/crates/ai-model-directory-router).
 - 🧩 **[promptfusion](https://github.com/OthmanAdi/promptfusion)** `(29★)` — Three weighted prompt layers. LLMs follow your priorities, not their guesses.
 - 🔭 **[langsmith-fetch](https://github.com/OthmanAdi/langsmith-fetch-skill)** `(27★)` — Skip tab-switching to LangSmith Studio. LangChain traces land in your terminal.
 - 👥 **[planning-with-teams](https://github.com/OthmanAdi/planning-with-teams)** `(26★)` — Run parallel Claude agents on one shared plan. No drift, no duplicated work.
@@ -42,7 +43,7 @@ The projects that explain the rest of this page. Each one ships, each one solves
 
 ## 🛠️ Agent Skills & Tools
 
-The skill catalog. Built for coding agents (Claude Code, Codex, Cursor, OpenCode, Hermes, ADAL, OpenClaw, Warp, +). Install one-line: `npx skills add OthmanAdi/<name> -g`.
+The skill catalog. Built for coding agents (Claude Code, Codex, Cursor, OpenCode, Hermes, ADAL, OpenClaw, Warp, +). Install one-line: `npx skills add OthmanAdi/<name> -g` — flagships also ship on npm (`pi install npm:<name>`).
 
 | | Repo | What it does | ★ |
 |:-:|---|---|---:|
@@ -103,7 +104,7 @@ Production Rust. Tauri. Native runtimes. The MAX-stack credibility tier.
 | | Repo | What it does | ★ |
 |:-:|---|---|---:|
 | 🗄️ | **[kickbacks-kit](https://github.com/OthmanAdi/kickbacks-kit)** | Your kickbacks.ai extension forgets every ad it shows. `kb` archives them to SQLite, renders a Rust TUI, read-only, never bills. | 5 |
-| 🦀 | **[ai-model-directory-router-rs](https://github.com/OthmanAdi/ai-model-directory-router-rs)** | Route 7000+ AI models by cost, context, and fallback. Decimal math, no pricing drift. | — |
+| 🦀 | **[ai-model-directory-router-rs](https://github.com/OthmanAdi/ai-model-directory-router-rs)** `crates.io` | Route 7,000+ AI models by cost, context, and fallback chains. Decimal-exact math, no pricing drift. Published: [`cargo add ai-model-directory-router`](https://crates.io/crates/ai-model-directory-router). | — |
 
 ---
 
