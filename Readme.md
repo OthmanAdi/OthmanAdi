@@ -42,6 +42,22 @@
 
 ### [Open the source-linked evidence record →](./PROOF.md)
 
+<h2 align="center">Impact beyond my repositories</h2>
+
+<p align="center">Work credited downstream and merged into external projects.</p>
+
+<p align="center">
+<a href="./PROOF.md#verified-downstream-credit" title="Inspect the verified downstream credit"><img src="./media/v2/impact-direct-credit.jpg" width="410" alt="CCteam-creator explicitly credits Planning with Files as a source for its three-file planning model"></a>
+<a href="./PROOF.md#nine-merged-upstream-contributions" title="Inspect nine merged upstream contributions"><img src="./media/v2/impact-upstream.jpg" width="410" alt="Nine merged upstream pull requests across six repositories, including Windows safety, agent observability, and platform compatibility"></a>
+</p>
+
+- **[Verified source credit · CCteam Creator](https://github.com/jessepwj/CCteam-creator):** credits and links `planning-with-files` for its persistent three-file planning pattern.
+- **[Windows filesystem safety · MemPalace #558](https://github.com/MemPalace/mempalace/pull/558):** merged handling for unreachable Windows reparse points, so scans skip inaccessible entries instead of aborting.
+- **[Agent observability · awesome-claude-skills #21](https://github.com/ComposioHQ/awesome-claude-skills/pull/21):** merged LangSmith trace retrieval for debugging LangChain and LangGraph agents.
+- **[Skill-format compatibility · uberSKILLS #67](https://github.com/uberskillsdev/uberSKILLS/pull/67):** merged support for importing Claude Code skills without a required `trigger` field.
+
+### [Inspect all source-linked contributions →](./PROOF.md#nine-merged-upstream-contributions)
+
 ## Professional work
 
 At [migRaven](https://www.migraven.com) in Berlin, I work on agent
@@ -68,7 +84,16 @@ agent-system design, and production engineering practices. That work has shaped
 how I document complex systems, explain tradeoffs, and collaborate across
 different levels of technical experience.
 
-[Read four teaching references](./PROOF.md#teaching-references)
+<h2 align="center">What people say</h2>
+
+<p align="center">Technical depth, clear explanations, and communication across different experience levels.</p>
+
+<p align="center">
+<a href="./PROOF.md#teaching-references" title="Read João Teixeira's full reference"><img src="./media/v2/testimonial-joao.jpg" width="410" alt="João Teixeira says Adi manages different levels of technical experience in the same class"></a>
+<a href="./PROOF.md#teaching-references" title="Read Ivan Curmi's full reference"><img src="./media/v2/testimonial-ivan.jpg" width="410" alt="Ivan Curmi says Adi makes complex coding concepts engaging and easy to understand"></a>
+</p>
+
+### [Read all four teaching references →](./PROOF.md#teaching-references)
 
 <h2 align="center">More systems worth opening</h2>
 
