@@ -1,8 +1,14 @@
-# Project index
+# Projects built for real workflows
 
-This catalogue expands on the selected projects in my GitHub profile.
+A curated map of 35 public projects across local-first products, agent
+reliability, Rust desktop software, graph systems, and developer tooling.
 
-## Flagship products
+**35 selected projects** · **4 flagship products** · **26K+ stars on
+planning-with-files** · **1 published Rust crate**
+
+![Projects built for real workflows: 35 selected projects, four flagships, 26K+ stars, and one published Rust crate](./media/v2/projects-hero.jpg)
+
+## Four flagship products
 
 | Project | What it does | Core stack |
 |---|---|---|
@@ -11,7 +17,27 @@ This catalogue expands on the selected projects in my GitHub profile.
 | [Skill Deck](https://github.com/OthmanAdi/skill-deck) | Discovers and catalogs AI-agent artifacts for search and manual review. | Rust, Tauri, Svelte |
 | [INDEX](https://github.com/OthmanAdi/index) | Local governance and risk classification for supported agent artifacts. | Rust, Tauri, Svelte |
 
+## Open-source systems with traction
+
+<p align="center">
+<a href="https://github.com/OthmanAdi/planning-with-files" title="Open the Planning with Files repository"><img src="./media/v2/planning-with-files.jpg" width="410" alt="Planning with Files, persistent file-based planning for AI coding agents"></a>
+<a href="https://github.com/OthmanAdi/plandeck" title="Open the Plandeck repository"><img src="./media/v2/plandeck.jpg" width="410" alt="Plandeck, a live visual board for dependencies, critical paths, and the next action"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/OthmanAdi/loophole" title="Open the Loophole repository"><img src="./media/v2/loophole.jpg" width="410" alt="Loophole, an Ableton Live extension kit and MCP server"></a>
+<a href="https://github.com/OthmanAdi/openui-forge" title="Open the OpenUI Forge repository"><img src="./media/v2/openui-forge.jpg" width="410" alt="OpenUI Forge, a cross-IDE and multi-stack agent skill for OpenUI"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/OthmanAdi/ai-model-directory-router-rs" title="Open the AI Model Directory Router repository"><img src="./media/v2/ai-model-directory-router-rs.jpg" width="410" alt="AI Model Directory Router, a Rust crate for model cost, context, capability, and fallback routing"></a>
+<a href="https://github.com/OthmanAdi/OpenMark" title="Open the OpenMark repository"><img src="./media/v2/openmark.jpg" width="410" alt="OpenMark, a personal knowledge graph and multi-agent orchestration system"></a>
+</p>
+
 ## Agent reliability and orchestration
+
+Persistent state, visual control, attested output, team coordination, and
+recoverable workflows.
 
 | Project | Focus |
 |---|---|
@@ -25,7 +51,7 @@ This catalogue expands on the selected projects in my GitHub profile.
 | [codebase-knowledge-builder](https://github.com/OthmanAdi/codebase-knowledge-builder) | Structured codebase knowledge for cold-start agent sessions. |
 | [code-memory-router](https://github.com/OthmanAdi/code-memory-router) | Routes different memory questions to the right retrieval system. |
 
-## AI developer tools
+## AI developer infrastructure
 
 | Project | Focus |
 |---|---|
@@ -41,7 +67,7 @@ This catalogue expands on the selected projects in my GitHub profile.
 | [vibe-skills](https://github.com/OthmanAdi/vibe-skills) | Website-building skills with explicit design constraints. |
 | [awesome-here-now](https://github.com/OthmanAdi/awesome-here-now) | Catalogue of sites and patterns published with here.now. |
 
-## AI systems, desktop apps, and media tools
+## Rust, desktop, and media systems
 
 | Project | Focus |
 |---|---|
@@ -75,3 +101,8 @@ describe product scope, not my individual contributions.
 - **[migRaven.MAX](https://max.migraven.com/):** Graph-backed identity, data, and access management with enterprise connectors and LLM-assisted querying.
 - **[aikux.Brain](https://www.aikux.ai/):** Enterprise knowledge graphs, GraphRAG, and semantic access to organizational knowledge.
 - **[migRaven.Archiver for Teams](https://www.migraven.com/en/webinar-migraven-archiver-for-teams/):** Microsoft Teams archiving with visibility into external permissions.
+
+## Continue exploring
+
+- **[Return to the profile](./Readme.md)** for the recruiter-facing overview
+- **[Inspect the evidence record](./PROOF.md)** for recognition, merged contributions, downstream credit, launch coverage, and teaching references
