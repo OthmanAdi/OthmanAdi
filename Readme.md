@@ -1,32 +1,24 @@
-<h1 align="center">Ahmad Othman Ammar Adi</h1>
+<samp>SENIOR APPLIED AI ENGINEER / BERLIN</samp>
 
-<p align="center"><strong>Senior Applied AI Engineer · Berlin</strong></p>
+# [`planning-with-files`](https://github.com/OthmanAdi/planning-with-files)
 
-<h2 align="center">Context windows reset. The work should not.</h2>
+> **A practical open-source skill for long-running coding agents.**
+>
+> It keeps `task_plan.md`, `findings.md`, and `progress.md` on disk so work can continue after context loss, crashes, or compaction.
 
-<p align="center"><strong>I study failure modes in agent systems, then build local-first tools that make their work persistent, inspectable, and recoverable.</strong></p>
+[**26K+ stars**](https://github.com/OthmanAdi/planning-with-files) · [**2.1K+ forks**](https://github.com/OthmanAdi/planning-with-files/network/members)<br>
+[**18+ documented platforms**](https://github.com/OthmanAdi/planning-with-files/blob/master/README.md#works-across-18-platforms)
 
-<h3 align="center">Creator of <a href="https://github.com/OthmanAdi/planning-with-files">planning-with-files</a></h3>
+`RUST / TAURI` · `TYPESCRIPT / BUN`<br>
+`NEO4J / GRAPHRAG`
 
-<p align="center">My most popular open-source skill keeps plans, findings, and progress on disk so long-running coding agents can recover after context loss, crashes, and compaction.</p>
+[**LinkedIn**](https://www.linkedin.com/in/codingwithadi) · [**Email**](mailto:adiatwork@outlook.com) · [**Writing**](https://dev.to/othmanadi)
 
-<p align="center">
-<a href="https://github.com/OthmanAdi/planning-with-files"><strong>26K+ stars on planning-with-files</strong></a> ·
-<a href="https://github.com/OthmanAdi/planning-with-files/network/members"><strong>2.1K+ forks</strong></a> ·
-<a href="https://github.com/OthmanAdi/planning-with-files/blob/master/README.md#works-across-18-platforms"><strong>18+ documented platforms</strong></a>
-</p>
+---
 
-<p align="center">Local-first products · Agent infrastructure · Rust/Tauri · TypeScript/Bun · Neo4j/GraphRAG</p>
+## Four products. Four repositories.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/codingwithadi">LinkedIn</a> ·
-<a href="mailto:adiatwork@outlook.com">Email</a> ·
-<a href="https://dev.to/othmanadi">Writing</a>
-</p>
-
-<h2 align="center">Four products. Four repositories.</h2>
-
-<p align="center">Click any visual to open its source.</p>
+<samp>CLICK ANY VISUAL TO OPEN ITS SOURCE</samp>
 
 <p align="center">
 <a href="https://github.com/OthmanAdi/bunbite" title="Open the BunBite repository"><img src="./media/v2/bunbite.jpg" width="410" alt="BunBite, local-first WebP, JPEG, and PNG optimization in the browser"></a>
