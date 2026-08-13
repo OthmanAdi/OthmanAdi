@@ -1,244 +1,68 @@
-# Hi, I'm Ahmad-Othman 👋
+# Ahmad Othman Ammar Adi
 
-📍 Berlin · 🦀 Senior Applied AI Engineer [@migRaven](https://github.com/migRaven) · 🚀 [planning-with-files](https://github.com/OthmanAdi/planning-with-files) · 🌐 [othmanadi.com](https://rapid-shrine-9wct.here.now/)
+**Senior Applied AI Engineer in Berlin.**
 
-> Senior Applied AI Engineer at migRaven Berlin, building Rust runtimes and agent infrastructure. Open-source: 16K+ developers install my skills (planning-with-files, MDDesign, chronos, OpenMark). Eight thousand teaching hours taught me complexity isn't a property of problems; it's a measure of how badly we've drawn the system. So I draw them: in markdown, in skills, in 25k-star repos.
+I build local-first developer products, AI-agent infrastructure, and
+graph-backed enterprise systems with Rust, Tauri, Svelte, Bun, TypeScript, and
+Neo4j.
 
-**Currently:** shipping Rust agent infrastructure at migRaven · maintaining `planning-with-files`, `MDDesign`, `chronos` · publishing skills weekly under `npx skills add OthmanAdi/<skill>`.
+[LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Email](mailto:adiatwork@outlook.com) · [Writing](https://dev.to/othmanadi) · [X](https://x.com/OthmanAmmarAdi)
 
----
+> **Open-source traction:** [planning-with-files](https://github.com/OthmanAdi/planning-with-files) has 26K+ stars on GitHub.<br>
+> **External coverage:** Snyk listed it first in its Top 8 Claude Skills for Developers, and OpenUI Lab lists [openui-forge](https://github.com/OthmanAdi/openui-forge) as a community-built tool.<br>
+> **Enterprise AI engineering:** At [migRaven](https://www.migraven.com), I work across agent infrastructure, Rust runtimes, and graph systems.
 
-## 📰 Press & Articles About My Work
+## Selected products
 
-- 🎛️ **[OpenUI by thesys — Official Projects](https://www.openui.com/projects)** → `openui-forge` featured as a community project on the official OpenUI projects page, listed alongside the maintainers' own plugins. Also added to [ADOPTERS.md](https://github.com/thesysdev/openui/blob/main/ADOPTERS.md). Picked up because it filled four gaps the official tooling didn't cover: existing-project integration, non-JS backends (Python / Go / Rust), provider-agnostic LLM wiring, and 11 agent platforms beyond Claude Code.
-- **[Snyk — Top 8 Claude Skills for Developers](https://snyk.io/articles/top-claude-skills-developers/)** → Ranked **#1**: *"the most starred Claude Skill in the planning ecosystem."*
-- **[Avi Chawla — The Next Step After Karpathy's Wiki Idea](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki)** → 16 AI Agent Skills for AI Engineers.
-- **[Google AntiGravity Awesome Skills list - Added at 2026-02-27](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/planning-with-files)** Planning skill for short and long term long running agentic sessions.
+![BunBite, BunBite Studio, Skill Deck, and INDEX shown in a four-panel product grid](./media/product-grid.jpg)
 
----
+- **[BunBite](https://github.com/OthmanAdi/bunbite):** Free, local-first WebP, JPEG, and PNG optimization in the browser. Built with Bun, TypeScript, SQLite, and the Canvas API. [Architecture](https://github.com/OthmanAdi/bunbite#architektur)
+- **[BunBite Studio](https://github.com/OthmanAdi/bunbite-extension):** Chromium Manifest V3 extension for local image optimization, with no access to page content and no extension analytics. [v1.0.0 prerelease](https://github.com/OthmanAdi/bunbite-extension/releases/tag/v1.0.0)
+- **[Skill Deck](https://github.com/OthmanAdi/skill-deck):** Windows desktop workbench that discovers and catalogs AI-agent artifacts for search and manual review. Built with Rust, Tauri, and Svelte. [English overview](https://github.com/OthmanAdi/skill-deck/blob/master/README.en.md)
+- **[INDEX](https://github.com/OthmanAdi/index):** Local governance and risk classification for supported skills, rules, hooks, commands, and configuration, with CLEAR, REVIEW, BLOCK, and NOT SCANNED outcomes. [English overview](https://github.com/OthmanAdi/index/blob/main/README.en.md)
 
-## ⭐ Start Here
+## Recognition and open-source contributions
 
-The projects that explain the rest of this page. Each one ships, each one solves a system, each one is one `npx` away.
+- **[Snyk, Top 8 Claude Skills for Developers](https://snyk.io/articles/top-claude-skills-developers/):** lists `planning-with-files` first in its selection.
+- **[OpenUI Lab](https://www.openui.com/lab):** lists `openui-forge` as a community-built tool for wiring OpenUI integrations across common AI stacks.
+- **[Daily Dose of Data Science](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki):** includes `planning-with-files` among 16 AI Agent Skills for AI engineers.
+- **Merged upstream contributions:** include safe Windows reparse-point handling for [MemPalace](https://github.com/MemPalace/mempalace/pull/558), AI-observability tooling for [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills/pull/21), and DACH and German-language features for [career-ops](https://github.com/santifer/career-ops/pull/21).
 
-- 📋 **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** `25,922★ · 2,170 forks` — Your agent forgets every `/clear`. Files fix it. The planning pattern Meta paid $2B for.
-- 🎛️ **[openui-forge](https://github.com/OthmanAdi/openui-forge)** `20★ · featured by OpenUI` — Generative UI for OpenUI Lang. Adds OpenUI to existing codebases, any LLM provider (OpenAI / Anthropic / LangChain / Vercel AI SDK), Python / Go / Rust backends. Listed on [openui.com/projects](https://www.openui.com/projects).
-- 🪟 **[plan-it](https://github.com/OthmanAdi/plan-it)** `(7★)` — Stop reading walls of markdown. Start *seeing* your plan. HTML-first sibling of planning-with-files: single plan.html, survives `/clear`, SHA-256 attested, 10 templates, 17 IDEs day 1.
-- 🗃️ **[plandeck](https://github.com/OthmanAdi/plandeck)** `61★ · new` — Flat markdown plans can't tell you what's blocked. The dependency-graph sibling of planning-with-files: reads your plan.yaml, auto-promotes cards to Ready when their dependencies clear, lights the critical path gold, surfaces one next move, and leaves a `/clear`-proof NEXT.md breadcrumb.
-- 🦀 **[ai-model-directory-router-rs](https://github.com/OthmanAdi/ai-model-directory-router-rs)** `published on crates.io` — Production Rust library that picks the right model out of 7,000+ by cost, context window, and capability. Decimal-exact pricing (no float drift on billing math), automatic fallback chains, models.dev overlay enrichment. `cargo add ai-model-directory-router` and your router is done: [crates.io](https://crates.io/crates/ai-model-directory-router).
-- 🧩 **[promptfusion](https://github.com/OthmanAdi/promptfusion)** `(29★)` — Three weighted prompt layers. LLMs follow your priorities, not their guesses.
-- 🔭 **[langsmith-fetch](https://github.com/OthmanAdi/langsmith-fetch-skill)** `(27★)` — Skip tab-switching to LangSmith Studio. LangChain traces land in your terminal.
-- 👥 **[planning-with-teams](https://github.com/OthmanAdi/planning-with-teams)** `(26★)` — Run parallel Claude agents on one shared plan. No drift, no duplicated work.
-- 📑 **[AI-Docs-Copier](https://github.com/OthmanAdi/AI-Docs-Copier)** `(20★)` — One click turns any doc site into clean Markdown for your AI tool.
-- 🦞 **[researchclaw](https://github.com/OthmanAdi/researchclaw-skill)** `(14★)` — Turn a topic into a conference-grade paper. 23-stage pipeline, one command.
-- 🎨 **[MDDesign](https://github.com/OthmanAdi/MDDesign)** `(13★)` — Glue layer between planning, design tokens, memory, and agent teams. No tool replacement.
-- 🖥️ **[skill-deck](https://github.com/OthmanAdi/skill-deck)** `(11★)` — Browse skills across 15+ AI agents from one keypress desktop overlay.
-- ▶️ **[YouTube-Clipper](https://github.com/OthmanAdi/YouTube-Clipper)** `(4★)` — Hear a great moment in YouTube. Alt+drag the seekbar. Verbatim audio + Whisper transcript + AI bullets + a publishable web page land in one folder. Six-stage pipeline, only stage 5 is AI.
-- ⏱️ **[chronos](https://github.com/OthmanAdi/chronos)** `(2★)` — Stop agents guessing "just now". Hook ledger, 7 decision rules, 8 platforms.
-- 🎸 **[loophole](https://github.com/OthmanAdi/loophole)** `(14★)` — Drive Ableton Live from Claude, Cursor, or any LLM. First MCP server built on Ableton's official Extensions SDK. One `.ablx`, no Remote Script, no Max for Live.
-- 🔍 **[index](https://github.com/OthmanAdi/index)** `(1★)` — Your AI coding agent loads skills, hooks, and rules without telling you. INDEX scans all of them. CLEAR, REVIEW, or BLOCK per artifact. Nothing leaves your machine.
-- 🍩 **[bunbite](https://github.com/OthmanAdi/bunbite)** `(new)` — Take a bite out of your image sizes. Bun-powered image optimization SaaS.
+[See supporting public evidence and contribution records](./PROOF.md)
 
----
+## Professional work
 
-## 🛠️ Agent Skills & Tools
+At [migRaven](https://www.migraven.com) in Berlin, I work on agent
+infrastructure and graph-backed identity, data, and access systems. These public
+products show the domain and systems context of that work:
 
-The skill catalog. Built for coding agents (Claude Code, Codex, Cursor, OpenCode, Hermes, ADAL, OpenClaw, Warp, +). Install one-line: `npx skills add OthmanAdi/<name> -g` — flagships also ship on npm (`pi install npm:<name>`).
+- **[migRaven.MAX](https://max.migraven.com/):** Identity, data, and access management with a Neo4j knowledge graph, enterprise connectors, and LLM-assisted querying.
+- **[aikux.Brain](https://www.aikux.ai/):** Enterprise knowledge graphs, GraphRAG, and semantic access to organizational knowledge.
+- **[migRaven.Archiver for Teams](https://www.migraven.com/en/webinar-migraven-archiver-for-teams/):** Microsoft Teams archiving and visibility into external permissions.
 
-| | Repo | What it does | ★ |
-|:-:|---|---|---:|
-| 🗂️ | **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** | Markdown as persistent memory. Task plan, findings, progress survive every reset. | 25,922 |
-| 🎛️ | **[openui-forge](https://github.com/OthmanAdi/openui-forge)** `featured by OpenUI` | Generative UI scaffolds wired to any LLM provider and any backend language. [Listed on openui.com/projects](https://www.openui.com/projects). | 20 |
-| 🔭 | **[langsmith-fetch-skill](https://github.com/OthmanAdi/langsmith-fetch-skill)** | LangChain and LangGraph traces pulled into Claude. Debug without leaving the terminal. | 27 |
-| 👥 | **[planning-with-teams](https://github.com/OthmanAdi/planning-with-teams)** | Parallel Claude agents coordinated on shared planning files. No siloed context. | 26 |
-| 🗃️ | **[plandeck](https://github.com/OthmanAdi/plandeck)** `new` | Flat markdown plans can't say what's blocked. Turn them into a live Kanban: ready-queue, critical path, one next move. | 61 |
-| 🦞 | **[researchclaw-skill](https://github.com/OthmanAdi/researchclaw-skill)** | Conference-grade research paper from one topic. 23 stages, self-healing pipeline. | 14 |
-| 🎨 | **[MDDesign](https://github.com/OthmanAdi/MDDesign)** | Wire planning, DESIGN.md, memory routing, agent teams, and session handoff in one contract. | 13 |
-| 🧠 | **[codebase-knowledge-builder](https://github.com/OthmanAdi/codebase-knowledge-builder)** | Turn any codebase into structured Markdown artifacts your agent reads cold. | 17 |
-| 📋 | **[cowork-workflows](https://github.com/OthmanAdi/cowork-workflows)** | Cowork tasks that survive context resets. Markdown checkpoints replay on reconnect. | 9 |
-| 🔀 | **[code-memory-router](https://github.com/OthmanAdi/code-memory-router)** | Cut memory-task token burn 61%. Routes WHY to MemPalace, WHERE to QMD. | 5 |
-| 📦 | **[agent-blueprint](https://github.com/OthmanAdi/agent-blueprint)** | Stop building agents from zero. Patterns for tool registries, HITL, streaming, serving. | 3 |
-| 🚀 | **[APEX](https://github.com/OthmanAdi/APEX)** | Replatforms in 4 weeks instead of 6-12 months. Six skills, three autonomy tiers. | 2 |
-| 🌉 | **[open-responses-agent-skill](https://github.com/OthmanAdi/open-responses-agent-skill)** | OpenAI Responses API, but multi-provider. Switch Groq, Together, Nebius without rewrites. | 3 |
-| ⏱️ | **[chronos](https://github.com/OthmanAdi/chronos)** | Stop agents guessing "just now". Wall-clock, idle detection, retry windows in one ledger. | 2 |
-| 🧭 | **[wakeup](https://github.com/OthmanAdi/wakeup)** | You re-ask what changed at every session start. One script answers: dirty files, stale binaries, open PRs, five lines when clean. | — |
-| 📝 | **[pr-perfect](https://github.com/OthmanAdi/pr-perfect)** | PR descriptions your reviewer-agent verifies. Reads commits, learns your team's format. | 2 |
-| 🌍 | **[humanizer-semitic](https://github.com/OthmanAdi/humanizer-semitic)** | Turn AI Arabic and Hebrew into text that reads human. 113 patterns, four dialects. | 4 |
-| 🎯 | **[vibe-skills](https://github.com/OthmanAdi/vibe-skills)** | Website from one prompt. Lives on here.now in seconds. No purple gradients. | 1 |
-| 🔗 | **[awesome-here-now](https://github.com/OthmanAdi/awesome-here-now)** | Catalog of live sites shipped with here.now. Discover patterns, get yours listed. | 2 |
-| 🗄️ | **[schema-architect](https://github.com/OthmanAdi/schema-architect)** | SQLite, Redis, Neo4j schemas with typed Rust and Go bindings, ready to ship. | 1 |
+My role also includes internal workflow and script-orchestration systems within
+migRaven.MAX.
 
----
+## Engineering focus
 
-## 🤖 AI Systems & Apps
+- **Agent reliability:** persistent state, context recovery, orchestration, audit trails, and release gates that stop on failed checks.
+- **Local-first product engineering:** Rust, Tauri, Svelte, Bun, browser extensions, privacy boundaries, and reproducible packaging.
+- **Graph systems:** Neo4j, GraphRAG, identity and access graphs, checkpoints, permissions, and enterprise retrieval.
 
-Larger software, not skills. Production-grade systems built around agentic stacks.
+## Teaching and communication
 
-| | Repo | What it does | ★ |
-|:-:|---|---|---:|
-| 📄 | **[AI-Docs-Copier](https://github.com/OthmanAdi/AI-Docs-Copier)** | One click turns any doc site into Markdown your AI tool actually reads. | 20 |
-| 🖥️ | **[skill-deck](https://github.com/OthmanAdi/skill-deck)** | Search skills across 15+ AI coding agents from one desktop overlay keypress. Tauri v2 + Rust. | 11 |
-| 🧭 | **[OpenMark](https://github.com/OthmanAdi/OpenMark)** | Turn 8K+ bookmarks into a searchable knowledge graph. ChromaDB and Neo4j in one query. | 8 |
-| 🎸 | **[loophole](https://github.com/OthmanAdi/loophole)** | Drive Ableton Live from Claude or any LLM. First MCP server on Ableton's official Extensions SDK. TypeScript, Live 12.4.5. | 14 |
-| ▶️ | **[YouTube-Clipper](https://github.com/OthmanAdi/YouTube-Clipper)** | Alt+drag a YouTube seekbar → folder with verbatim audio, Whisper transcript, AI summary + bullets, and a publishable `index.html`. Chrome MV3 extension + local FastAPI daemon, six-stage pipeline, only stage 5 calls an LLM. | 4 |
-| 🔍 | **[index](https://github.com/OthmanAdi/index)** | Security scanner for AI coding agent configs. Scans every skill, hook, rule, and command your agents auto-load. CLEAR / REVIEW / BLOCK per artifact. Rust + Svelte 5, nothing leaves your machine. | 1 |
+I also teach software development and AI engineering, including Python,
+agent-system design, and production engineering practices. That work has shaped
+how I document complex systems, explain tradeoffs, and collaborate across
+different levels of technical experience.
 
----
+[Selected teaching references](./PROOF.md#teaching-and-communication)
 
-## 🕸️ Neo4j × AI Agents
+## More work and evidence
 
-Production-grade work where Neo4j is the spine — graph-as-memory, graph-as-permission-model, graph-as-checkpoint. Built for the Neo4j + agentic-AI intersection.
+- **[Project catalogue](./PROJECTS.md):** selected agent tooling, desktop apps, Rust systems, graph infrastructure, and web products
+- **[Evidence and contributions](./PROOF.md):** external coverage, direct downstream credit, related implementations, merged upstream work, and teaching references
 
-| | Repo | What it does | ★ |
-|:-:|---|---|---:|
-| 🧠 | **[langgraph-checkpoint-neo4j-js](https://github.com/OthmanAdi/langgraph-checkpoint-neo4j-js)** | Store LangGraph agent state in Neo4j. Branch checkpoints, time-travel, visual debugging. | 1 |
+## Contact
 
-*Neo4j also powers [OpenMark](https://github.com/OthmanAdi/OpenMark) (knowledge graph) and [schema-architect](https://github.com/OthmanAdi/schema-architect) (multi-DB schema generator) — see sections above.*
-
----
-
-## 🦀 Rust & Systems
-
-Production Rust. Tauri. Native runtimes. The MAX-stack credibility tier.
-
-| | Repo | What it does | ★ |
-|:-:|---|---|---:|
-| 🗄️ | **[kickbacks-kit](https://github.com/OthmanAdi/kickbacks-kit)** | Your kickbacks.ai extension forgets every ad it shows. `kb` archives them to SQLite, renders a Rust TUI, read-only, never bills. | 5 |
-| 🦀 | **[ai-model-directory-router-rs](https://github.com/OthmanAdi/ai-model-directory-router-rs)** `crates.io` | Route 7,000+ AI models by cost, context, and fallback chains. Decimal-exact math, no pricing drift. Published: [`cargo add ai-model-directory-router`](https://crates.io/crates/ai-model-directory-router). | — |
-
----
-
-## 📐 Frameworks & Methodology
-
-| | Repo | What it does | ★ |
-|:-:|---|---|---:|
-| 🧩 | **[promptfusion](https://github.com/OthmanAdi/promptfusion)** | Three weighted prompt layers. LLMs respect your priorities every turn. A methodology, not a tool. | 29 |
-
----
-
-## 🏢 Built at migRaven (Berlin)
-
-Commercial enterprise products I've led or contributed to at **[migRaven GmbH](https://www.migraven.com)** — Identity, Data & Access Management for the DACH market. All four shipped within the last 18 months.
-
-- 🛡️ **[migRaven.MAX](https://max.migraven.com/)** · *flagship, building now* — Identity, Data & Access Management platform. Neo4j knowledge graph with 90+ connectors (AD, Entra ID, SharePoint, Teams, Exchange, file servers). LLM natural-language query layer (Azure OpenAI / AWS Bedrock, EU servers only). Reporting against BSI, ISO 27001, NIS2, DORA, TISAX, DSGVO. Public since Sep 2025 · [Launch coverage](https://www.itiko.de/artikel/2195831/migraven-gmbh-lanciert-migraven-max.html)
-- 📨 **[migRaven.Archiver for Teams](https://www.migraven.com/en/webinar-migraven-archiver-for-teams/)** *(internally: TeamsArchiver)* — Microsoft Teams archiving + compliance. Returns channel data to file servers, detects external permissions, selective channel archiving. Launched Jan 2025 · [Press release](https://www.itiko.de/artikel/2145291/migraven-stellt-neuen-archiver-f-r-teams-vor.html)
-- 🧠 **[aikux.Brain](https://www.aikux.ai/)** *(sister company aikux Service GmbH)* — Enterprise Knowledge Graph platform. Neo4j + GraphRAG + semantic / LLM layer. Multi-tenant, on-prem or EU cloud, LLM-agnostic. Powers migRaven.MAX. Public since Nov 2025 · [Launch coverage](https://www.itiko.de/artikel/2209107/aikux-service-gmbh-pr-sentiert-aikux-brain-den-enterprise-knowledge-graph.html)
-
-*Also leading **Nexus** internally — the workflow and script-orchestration engine inside migRaven.MAX (not publicly branded).*
-
----
-
-## 🌐 Web & Apps
-
-| | Repo | What it does | ★ |
-|:-:|---|---|---:|
-| ✂️ | **[BarbersBuddies](https://github.com/OthmanAdi/BarbersBuddies_Onlineshop_maker)** · [barbersbuddies.com](https://barbersbuddies.com) | Launch a barbershop with bookings, payments, and staff scheduling. React + Firebase + Stripe. | 19 |
-| 🪞 | **[Mystic-Portfolio](https://github.com/OthmanAdi/Mystic-Portfolio)** · [othmanadi.com](https://rapid-shrine-9wct.here.now/) | Portfolio site live in four languages with RTL and dark mode ready out of the box. | 2 |
-| 🍩 | **[bunbite](https://github.com/OthmanAdi/bunbite)** | Take a bite out of your image sizes. Bun 1.3.14-powered image optimization SaaS. | — |
-| 🔁 | **[appwrite-keepalive](https://github.com/OthmanAdi/appwrite-keepalive)** | Never let an Appwrite free-tier project pause again. GitHub Actions heartbeat every 5 days. | 3 |
-
----
-
-## ✍️ Where I Publish
-
-- 💼 **LinkedIn** → [linkedin.com/in/codingwithadi](https://linkedin.com/in/codingwithadi)
-- 🐦 **X / Twitter** → [@OthmanAmmarAdi](https://x.com/OthmanAmmarAdi)
-- ✍️ **dev.to** → [dev.to/othmanadi](https://dev.to/othmanadi) · 8 posts, latest 2026-03-06
-- 🌐 **Personal site** → [othmanadi.com](https://rapid-shrine-9wct.here.now/)
-- ✉️ **Newsletter** → *Coming soon. Curated AI / agent engineering, weekly.*
-
----
-
-## 💬 What People Say
-
-> *"Adi has an exceptional talent for breaking down complex coding concepts into easy-to-understand lessons that were both engaging and interactive. His passion for web development is infectious, and it was clear that he genuinely cared about the success of his students."*
-> — **Ivan Curmi** · Finance Professional, MBA · ex-student
-
-> *"Adi possesses full technical proficiency in the subjects he teaches. What most impressed me was how well Adi managed the different levels of technical experience that coexisted in the same class. Adi is mindful of the needs of his students and often brings the best out of them."*
-> — **João Teixeira** · Software Engineer, Backend & Distributed Systems (Java/Kotlin/TypeScript)
-
-> *"The greatest instructors do more than show, or even demonstrate; they inspire. Should I ever go into teaching, the impact his lectures have made on my development journey have the energy I would hope to be able to channel into my future students."*
-> — **Vernell Clark** · Full Stack Software Engineer + Cloud Engineer
-
-> *"Bis jetzt einer der besten Coding Lehrer die ich je hatte. Jeder der bei ihm lernen kann lernt von einem der Besten."*
-> *(One of the best coding teachers I've ever had. Anyone who learns from him is learning from one of the best.)*
-> — **Romano Mantek** · Junior Full Stack Developer
-
-*More references on [LinkedIn](https://linkedin.com/in/codingwithadi).*
-
----
-
-## 🌍 planning-with-files — In the Wild
-
-Repos other developers built on top of the skill.
-
-| Repo | What it is |
-|---|---|
-| **[lincolnwan/Planning-with-files-copilot-agent](https://github.com/lincolnwan/Planning-with-files-copilot-agent)** | Entire Copilot agent built around the skill. |
-| **[cooragent/ClarityFinance](https://github.com/cooragent/ClarityFinance)** | AI finance agent framework. Planning-with-Files approach directly credited. |
-| **[oeftimie/vv-claude-harness](https://github.com/oeftimie/vv-claude-harness)** | Claude Code harness built on Manus-style persistent markdown planning. |
-| **[jessepwj/CCteam-creator](https://github.com/jessepwj/CCteam-creator)** | Multi-agent team orchestration skill using file-based planning. |
-
----
-
-## 🧩 Merged Contributions to Other Repos
-
-Code I wrote that lives in known and helpful repos.
-
-| Upstream | Contribution |
-|---|---|
-| **[davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)** ![](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&label=★) | planning-with-files included in the largest Claude Code template library. Listed on LobeHub. |
-| **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** ![](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&label=★) | [#21](https://github.com/ComposioHQ/awesome-claude-skills/pull/21) → first AI observability skill (LangSmith Fetch). |
-| **[santifer/career-ops](https://github.com/santifer/career-ops)** ![](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square&label=★) | [#21](https://github.com/santifer/career-ops/pull/21) DACH job scanner · [#22](https://github.com/santifer/career-ops/pull/22) engineer-instructor example · [#23](https://github.com/santifer/career-ops/pull/23) German language modes. |
-| **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** ![](https://img.shields.io/github/stars/milla-jovovich/mempalace?style=flat-square&label=★) | [#558](https://github.com/MemPalace/mempalace/pull/558) → fix: skip unreachable reparse points on Windows (WinError 448). |
-| **[op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)** ![](https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=flat-square&label=★) | [#5](https://github.com/op7418/guizang-ppt-skill/pull/5) → fix: grid-4 stat overflow + frame overflow:hidden. |
-| **[obra/superpowers](https://github.com/obra/superpowers)** ![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=★) | [#255](https://github.com/obra/superpowers/pull/255/commits) → fork rebuilt around planning-with-files. PR credits OthmanAdi. |
-| **[uberskillsdev/uberSKILLS](https://github.com/uberskillsdev/uberSKILLS)** ![](https://img.shields.io/github/stars/uberskillsdev/uberSKILLS?style=flat-square&label=★) | [#65](https://github.com/uberskillsdev/uberSKILLS/pull/65) Windows compatibility · [#67](https://github.com/uberskillsdev/uberSKILLS/pull/67) Claude Code skill format support. |
-| **[buzhangsan/skill-manager](https://github.com/buzhangsan/skill-manager)** ![](https://img.shields.io/github/stars/buzhangsan/skill-manager?style=flat-square&label=★) | [#1](https://github.com/buzhangsan/skill-manager/pull/1) → add planning-with-files and langsmith-fetch skills. |
-| **[tobi/qmd](https://github.com/tobi/qmd)** ![](https://img.shields.io/github/stars/tobi/qmd?style=flat-square&label=★) | [#561](https://github.com/tobi/qmd/pull/561) → fix(windows): qmd.cmd launcher for MCP stdio spawn. |
-| **[rlnorthcutt/analyzeRepo](https://github.com/rlnorthcutt/analyzeRepo)** ![](https://img.shields.io/github/stars/rlnorthcutt/analyzeRepo?style=flat-square&label=★) | [#1](https://github.com/rlnorthcutt/analyzeRepo/pull/1) → multi-provider LLM support (Azure OpenAI, OpenAI, Ollama). |
-| **[divar-ir/ai-doc-gen](https://github.com/divar-ir/ai-doc-gen)** ![](https://img.shields.io/github/stars/divar-ir/ai-doc-gen?style=flat-square&label=★) | [#21](https://github.com/divar-ir/ai-doc-gen/pull/21) → Azure OpenAI Service support. |
-| **[thesysdev/openui](https://github.com/thesysdev/openui)** ![](https://img.shields.io/github/stars/thesysdev/openui?style=flat-square&label=★) | Added to [ADOPTERS.md](https://github.com/thesysdev/openui/blob/main/ADOPTERS.md) and the official [openui.com/projects](https://www.openui.com/projects) page via `openui-forge`. |
-
----
-
-## 🔧 Open PRs in Other Repos
-
-| Upstream | PR |
-|---|---|
-| **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle/pull/519)** | [#519](https://github.com/mattpocock/sandcastle/pull/519) → feat: `ports` option for `docker()` sandbox provider. Expose agent web servers to host. |
-| **[warpdotdev/warp](https://github.com/warpdotdev/warp/pull/9306)** | [#9306](https://github.com/warpdotdev/warp/pull/9306) → fix(windows): resolve ERROR_UNTRUSTED_MOUNT_POINT (448) for junction + symlink. |
-| **[warpdotdev/warp](https://github.com/warpdotdev/warp/pull/9307)** | [#9307](https://github.com/warpdotdev/warp/pull/9307) → fix(windows): convert WSL paths to host-native format in `/open-file`. |
-| **[warpdotdev/warp](https://github.com/warpdotdev/warp/pull/9308)** | [#9308](https://github.com/warpdotdev/warp/pull/9308) → fix(mcp): size-based log rotation to prevent unbounded MCP log growth. |
-
----
-
-<details>
-<summary><strong>Behind the Work</strong> · 8,000+ teaching hours · 100+ careers launched · 97K+ LOC in production</summary>
-
-<br>
-
-- **Teaching:** 8,000+ hours since 2023 across Morphos, Aikux.Brain, MAX. KI Python module, AI Engineering 12-Factor curriculum.
-- **Outcomes:** 100+ students transitioned into developer roles. References on LinkedIn.
-- **Production code:** 97K+ LOC across migRaven products (Rust + Node + .NET, Neo4j + Redis + Pinecone + Anthropic).
-- **Open source reach:** 26K+ stars · 16K+ developers installing skills · 11 merged PRs into other public repos.
-- **Currently learning:** Rust async runtimes, Tauri v2 internals, formal methods for agent reliability.
-- **Personal stack:** Claude Code + planning-with-files + chronos + MDDesign, locally. Rust on Windows. Berlin-based since 2021, German citizen since 2026.
-
-</details>
-
----
-
-<a href="https://skill-history.com/othmanadi/planning-with-files"><img src="https://skill-history.com/chart/othmanadi/planning-with-files.svg" width="100%" alt="planning-with-files ClawHub Download History"></a>
-
----
-
-> *Draw the system. Ship the markdown. Repeat until obvious.*
-
-<p align="center">
-  <a href="https://linkedin.com/in/codingwithadi">LinkedIn</a> ·
-  <a href="https://x.com/OthmanAmmarAdi">X</a> ·
-  <a href="https://dev.to/othmanadi">dev.to</a> ·
-  <a href="https://rapid-shrine-9wct.here.now/">othmanadi.com</a> ·
-  <a href="mailto:adiatwork@outlook.com">Email</a>
-</p>
+Berlin · [LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Email](mailto:adiatwork@outlook.com) · [dev.to](https://dev.to/othmanadi) · [X](https://x.com/OthmanAmmarAdi)
