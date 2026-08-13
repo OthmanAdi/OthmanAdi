@@ -1,10 +1,22 @@
 <h1 align="center">Ahmad Othman Ammar Adi</h1>
 
-<h2 align="center">Senior Applied AI Engineer · Berlin</h2>
+<p align="center"><strong>Senior Applied AI Engineer · Berlin</strong></p>
 
-<p align="center"><strong>I build local-first products, AI-agent infrastructure, Rust desktop systems, and graph-backed enterprise software.</strong></p>
+<h2 align="center">Context windows reset. The work should not.</h2>
 
-<p align="center">Rust · Tauri · Svelte · Bun · TypeScript · Neo4j · GraphRAG</p>
+<p align="center"><strong>I study failure modes in agent systems, then build local-first tools that make their work persistent, inspectable, and recoverable.</strong></p>
+
+<h3 align="center">Creator of <a href="https://github.com/OthmanAdi/planning-with-files">planning-with-files</a></h3>
+
+<p align="center">My most popular open-source skill keeps plans, findings, and progress on disk so long-running coding agents can recover after context loss, crashes, and compaction.</p>
+
+<p align="center">
+<a href="https://github.com/OthmanAdi/planning-with-files"><strong>26K+ stars on planning-with-files</strong></a> ·
+<a href="https://github.com/OthmanAdi/planning-with-files/network/members"><strong>2.1K+ forks</strong></a> ·
+<a href="https://github.com/OthmanAdi/planning-with-files/blob/master/README.md#works-across-18-platforms"><strong>18+ documented platforms</strong></a>
+</p>
+
+<p align="center">Local-first products · Agent infrastructure · Rust/Tauri · TypeScript/Bun · Neo4j/GraphRAG</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/codingwithadi">LinkedIn</a> ·
@@ -12,19 +24,12 @@
 <a href="https://dev.to/othmanadi">Writing</a>
 </p>
 
-<p align="center">
-<a href="https://github.com/OthmanAdi/planning-with-files"><strong>26K+ stars</strong></a> ·
-<a href="https://github.com/OthmanAdi/planning-with-files/network/members"><strong>2.1K+ forks</strong></a> ·
-<a href="./PROOF.md#nine-merged-upstream-contributions"><strong>9 merged PRs / 6 upstreams</strong></a> ·
-<a href="./PROJECTS.md"><strong>35 selected projects</strong></a>
-</p>
-
 <h2 align="center">Four products. Four repositories.</h2>
 
 <p align="center">Click any visual to open its source.</p>
 
 <p align="center">
-<a href="https://github.com/OthmanAdi/bunbite" title="Open the BunBite repository"><img src="./media/v2/bunbite.jpg" width="410" alt="BunBite, private local-first image optimization in the browser"></a>
+<a href="https://github.com/OthmanAdi/bunbite" title="Open the BunBite repository"><img src="./media/v2/bunbite.jpg" width="410" alt="BunBite, local-first WebP, JPEG, and PNG optimization in the browser"></a>
 <a href="https://github.com/OthmanAdi/bunbite-extension" title="Open the BunBite Studio repository"><img src="./media/v2/bunbite-studio.jpg" width="410" alt="BunBite Studio, a Chromium extension for local image optimization"></a>
 </p>
 
