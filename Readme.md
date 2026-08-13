@@ -6,7 +6,7 @@ I build local-first developer products, AI-agent infrastructure, and
 graph-backed enterprise systems with Rust, Tauri, Svelte, Bun, TypeScript, and
 Neo4j.
 
-[LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Email](mailto:adiatwork@outlook.com) · [Writing](https://dev.to/othmanadi) · [X](https://x.com/OthmanAmmarAdi)
+[LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Email](mailto:adiatwork@outlook.com) · [Writing](https://dev.to/othmanadi)
 
 > **Open-source traction:** [planning-with-files](https://github.com/OthmanAdi/planning-with-files) has 26K+ stars on GitHub.<br>
 > **External coverage:** Snyk listed it first in its Top 8 Claude Skills for Developers, and OpenUI Lab lists [openui-forge](https://github.com/OthmanAdi/openui-forge) as a community-built tool.<br>
@@ -65,4 +65,4 @@ different levels of technical experience.
 
 ## Contact
 
-Berlin · [LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Email](mailto:adiatwork@outlook.com) · [dev.to](https://dev.to/othmanadi) · [X](https://x.com/OthmanAmmarAdi)
+Berlin · [LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Email](mailto:adiatwork@outlook.com) · [dev.to](https://dev.to/othmanadi)
