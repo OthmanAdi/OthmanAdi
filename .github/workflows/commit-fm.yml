@@ -52,10 +52,7 @@ jobs:
       # expires when the run ends. Without it the tool still works, just
       # against GitHub's lower, unauthenticated rate limit.
       - name: Render the banner
-        # Resolved straight from the repository rather than from npm,
-        # because commit-fm is not published to npm yet. Switch this to
-        # "npx --yes commit-fm" once it is.
-        run: npx --yes github:OthmanAdi/commit-fm render --out commit-fm.svg
+        run: npx --yes commit-fm render --out commit-fm.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
