@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OthmanAdi/commit-fm/main/schema/commitfm.schema.json",
+  "user": "OthmanAdi",
+  "style": "terminal",
+  "theme": "dark",
+  "exclude": [],
+  "pin": []
+}

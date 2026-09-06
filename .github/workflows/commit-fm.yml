@@ -1,0 +1,79 @@
+# Commit FM: renders your now playing banner and commits it back to this
+# repository.
+#
+# Copy this whole file into <your-github-username>/<your-github-username>,
+# the special repository GitHub reads for your profile README, at
+# .github/workflows/commit-fm.yml. Commit a commitfm.json next to your
+# README (see the main README for the minimal example) and nothing else is
+# required.
+#
+# Before you install this, read SECURITY.md in the commit-fm repository.
+# The short version is the four lines directly below: that is the entire
+# permission this workflow has, and the entire blast radius of installing it.
+name: Commit FM
+
+on:
+  # Redraws the banner on a timer even when nothing else triggers a run, so
+  # "minutes since last push" and the hourly activity graph stay current.
+  schedule:
+    - cron: "*/30 * * * *"
+  # A manual "Run workflow" button in the Actions tab, useful right after
+  # installing this or whenever you want a render without waiting for the
+  # next scheduled tick.
+  workflow_dispatch:
+  # An edit to commitfm.json, from you or from an agent, is a request for an
+  # immediate re-render rather than a wait for the next scheduled tick.
+  push:
+    paths:
+      - "commitfm.json"
+
+# This is the entire permission this workflow asks for: write access to the
+# contents of this one repository, so it can commit the rendered SVG back
+# into it. Nothing else is requested, and nothing else is granted.
+permissions:
+  contents: write
+
+jobs:
+  broadcast:
+    runs-on: ubuntu-latest
+    steps:
+      # Pinned by full commit SHA, not by tag, so nobody can change what
+      # this step runs by moving a tag out from under you later. The
+      # comment names the version that SHA points to today.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: "20"
+
+      # commit-fm reads GITHUB_TOKEN from the environment only: never from a
+      # flag, never from commitfm.json, so a token can never end up
+      # committed by accident. The token above is minted for this run and
+      # expires when the run ends. Without it the tool still works, just
+      # against GitHub's lower, unauthenticated rate limit.
+      - name: Render the banner
+        # Resolved straight from the repository rather than from npm,
+        # because commit-fm is not published to npm yet. Switch this to
+        # "npx --yes commit-fm" once it is.
+        run: npx --yes github:OthmanAdi/commit-fm render --out commit-fm.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Style modules are pure functions of the collected state, so the same
+      # underlying GitHub activity always renders to the exact same bytes.
+      # That is what makes "git diff --staged --quiet ||" a real guard and
+      # not a guess: a quiet week produces zero commits here, not 48 empty
+      # ones every day.
+      - name: Commit if the banner changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # A run that hit a rate limit or a network failure exits 0 without
+          # writing a file (see SECURITY.md), so on a brand new repository
+          # that run could leave commit-fm.svg missing entirely. Guard the
+          # add with this check instead of assuming the file is always there.
+          if [ -f commit-fm.svg ]; then
+            git add commit-fm.svg
+            git diff --staged --quiet || git commit -m "Commit FM: update banner"
+            git push
+          fi

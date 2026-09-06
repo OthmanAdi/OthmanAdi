@@ -16,6 +16,14 @@
 
 ---
 
+<h2 align="center">Currently in rotation</h2>
+
+<p align="center">What I am building this week, read from my own push history and redrawn every thirty minutes.</p>
+
+<p align="center">
+<a href="https://github.com/OthmanAdi/commit-fm" title="Open the Commit FM repository"><img src="https://raw.githubusercontent.com/OthmanAdi/OthmanAdi/main/commit-fm.svg" width="820" alt="Commit FM, a now playing banner showing the repository currently in rotation and the queue behind it"></a>
+</p>
+
 ## Four products. Four repositories.
 
 <samp>CLICK ANY VISUAL TO OPEN ITS SOURCE</samp>
