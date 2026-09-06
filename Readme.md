@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/OthmanAdi/commit-fm" title="Put a Commit FM banner on your own profile"><img src="https://raw.githubusercontent.com/OthmanAdi/commit-fm/main/media/on-air.svg" width="372" alt="On air. Commit FM. Start your own station."></a>
+<a href="https://github.com/OthmanAdi/commit-fm" title="Put a Commit FM banner on your own profile"><img src="https://raw.githubusercontent.com/OthmanAdi/commit-fm/main/media/on-air.svg" width="392" alt="On air. Commit FM. Start your own station."></a>
 </p>
 
 ## Four products. Four repositories.
