@@ -24,6 +24,10 @@
 <a href="https://github.com/OthmanAdi/commit-fm" title="Open the Commit FM repository"><img src="https://raw.githubusercontent.com/OthmanAdi/OthmanAdi/main/commit-fm.svg" width="820" alt="Commit FM, a now playing banner showing the repository currently in rotation and the queue behind it"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/OthmanAdi/commit-fm" title="Put a Commit FM banner on your own profile"><img src="https://raw.githubusercontent.com/OthmanAdi/commit-fm/main/media/on-air.svg" width="372" alt="On air. Commit FM. Start your own station."></a>
+</p>
+
 ## Four products. Four repositories.
 
 <samp>CLICK ANY VISUAL TO OPEN ITS SOURCE</samp>
