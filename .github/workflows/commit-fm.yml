@@ -14,7 +14,7 @@ name: Commit FM
 
 on:
   # Redraws the banner on a timer even when nothing else triggers a run, so
-  # "minutes since last push" and the hourly activity graph stay current.
+  # "minutes since last push" and the activity graph stay current.
   schedule:
     - cron: "*/30 * * * *"
   # A manual "Run workflow" button in the Actions tab, useful right after
@@ -51,8 +51,14 @@ jobs:
       # committed by accident. The token above is minted for this run and
       # expires when the run ends. Without it the tool still works, just
       # against GitHub's lower, unauthenticated rate limit.
+      #
+      # Temporarily pinned to a commit-fm.git commit instead of the npm
+      # package: 5031f17 fixes the activity graph counting pushes per
+      # literal hour, which read as one bar out of twenty four for any
+      # account that pushes in daily bursts rather than every hour. Move
+      # this back to `npx --yes commit-fm` once that fix is on npm.
       - name: Render the banner
-        run: npx --yes commit-fm render --out commit-fm.svg
+        run: npx --yes github:OthmanAdi/commit-fm#5031f17 render --out commit-fm.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
