@@ -24,18 +24,6 @@
   <a href="https://trendshift.io/repositories/17191" title="Trendshift: #17 monthly across all languages, January 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/monthly" alt="Trendshift: #17 Repository of the Month across all languages" width="250" height="55"></a>
 </p>
 
-<p align="center">
-  <sub>Historical rankings: daily on January 6, 2026, weekly in Week 2, 2026, monthly in January 2026, and GitHub Trending on April 21, 2026. <a href="https://trendshift.io/repositories/17191">View the achievement record.</a></sub>
-</p>
-
-[**26K+ stars**](https://github.com/OthmanAdi/planning-with-files) · [**2.1K+ forks**](https://github.com/OthmanAdi/planning-with-files/network/members)<br>
-[**18+ documented platforms**](https://github.com/OthmanAdi/planning-with-files/blob/master/README.md#works-across-18-platforms)
-
-`RUST / TAURI` · `TYPESCRIPT / BUN`<br>
-`NEO4J / GRAPHRAG`
-
-[**LinkedIn**](https://www.linkedin.com/in/codingwithadi) · [**Email**](mailto:adiatwork@outlook.com) · [**Writing**](https://dev.to/othmanadi)
-
 ---
 
 <h2 align="center">Currently in rotation</h2>
