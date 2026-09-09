@@ -19,10 +19,33 @@
   <a href="https://trendshift.io/repositories/17191" title="Trendshift: #1 weekly for Python, Week 2, 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/weekly?language=Python" alt="Trendshift: #1 Python Repository of the Week" width="250" height="55"></a>
 </p>
 
-<p align="center">
-  <a href="https://trendshift.io/repositories/17191" title="Trendshift: #5 monthly for Python, January 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/monthly?language=Python" alt="Trendshift: #5 Python Repository of the Month" width="250" height="55"></a>
-  <a href="https://trendshift.io/repositories/17191" title="Trendshift: #17 monthly across all languages, January 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/monthly" alt="Trendshift: #17 Repository of the Month across all languages" width="250" height="55"></a>
-</p>
+## Recognition and public proof
+
+- **[Snyk, Top 8 Claude Skills for Developers](https://snyk.io/articles/top-claude-skills-developers/):** lists `planning-with-files` first and marks its `SKILL.md` verified.
+- **[OpenUI Lab](https://www.openui.com/lab):** labels OpenUI Forge a **Tool by Community**.
+- **[Daily Dose of Data Science](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki):** includes `planning-with-files` among **16 AI Agent Skills** for AI engineers.
+- **[Merged upstream work](./PROOF.md#nine-merged-upstream-contributions):** 9 pull requests across 6 external repositories, including safe Windows reparse-point handling, agent observability, and German-language career tooling.
+
+### [Open the source-linked evidence record →](./PROOF.md)
+
+## Professional work
+
+At [migRaven](https://www.migraven.com) in Berlin, I work on agent
+infrastructure and graph-backed identity, data, and access systems. These public
+products show the domain and systems context of that work:
+
+- **[migRaven.MAX](https://max.migraven.com/):** identity, data, and access management with a Neo4j knowledge graph, enterprise connectors, and LLM-assisted querying
+- **[aikux.Brain](https://www.aikux.ai/):** enterprise knowledge graphs, GraphRAG, and semantic access to organizational knowledge
+- **[migRaven.Archiver for Teams](https://www.migraven.com/en/webinar-migraven-archiver-for-teams/):** Microsoft Teams archiving and visibility into external permissions
+
+My role also includes internal workflow and script-orchestration systems within
+migRaven.MAX.
+
+## Engineering focus
+
+- **Agent reliability:** persistent state, context recovery, orchestration, audit trails, and release gates that stop on failed checks
+- **Local-first product engineering:** Rust, Tauri, Svelte, Bun, browser extensions, privacy boundaries, and reproducible packaging
+- **Graph systems:** Neo4j, GraphRAG, identity and access graphs, checkpoints, permissions, and enterprise retrieval
 
 ---
 
@@ -31,7 +54,7 @@
 <p align="center">What I am building this week, read from my own push history and redrawn every thirty minutes.</p>
 
 <p align="center">
-<a href="https://github.com/OthmanAdi/commit-fm" title="Open the Commit FM repository"><img src="https://raw.githubusercontent.com/OthmanAdi/OthmanAdi/main/commit-fm.svg" width="820" alt="Commit FM, a now playing banner showing the repository currently in rotation and the queue behind it"></a>
+<a href="https://github.com/OthmanAdi/commit-fm" title="Open the Commit FM repository"><img src="https://raw.githubusercontent.com/OthmanAdi/OthmanAdi/main/commit-fm.svg" width="820" alt="Commit FM splitflap board showing the repository currently in rotation and the projects queued behind it"></a>
 </p>
 
 <p align="center">
@@ -52,15 +75,6 @@
 <a href="https://github.com/OthmanAdi/index" title="Open the INDEX repository"><img src="./media/v2/index.jpg" width="410" alt="INDEX, local governance and risk classification for AI-agent artifacts"></a>
 </p>
 
-## Recognition and public proof
-
-- **[Snyk, Top 8 Claude Skills for Developers](https://snyk.io/articles/top-claude-skills-developers/):** lists `planning-with-files` first and marks its `SKILL.md` verified.
-- **[OpenUI Lab](https://www.openui.com/lab):** labels OpenUI Forge a **Tool by Community**.
-- **[Daily Dose of Data Science](https://blog.dailydoseofds.com/p/the-next-step-after-karpathys-wiki):** includes `planning-with-files` among **16 AI Agent Skills** for AI engineers.
-- **[Merged upstream work](./PROOF.md#nine-merged-upstream-contributions):** 9 pull requests across 6 external repositories, including safe Windows reparse-point handling, agent observability, and German-language career tooling.
-
-### [Open the source-linked evidence record →](./PROOF.md)
-
 <h2 align="center">Impact beyond my repositories</h2>
 
 <p align="center">Work credited downstream and merged into external projects.</p>
@@ -76,25 +90,6 @@
 - **[Skill-format compatibility · uberSKILLS #67](https://github.com/uberskillsdev/uberSKILLS/pull/67):** merged support for importing Claude Code skills without a required `trigger` field.
 
 ### [Inspect all source-linked contributions →](./PROOF.md#nine-merged-upstream-contributions)
-
-## Professional work
-
-At [migRaven](https://www.migraven.com) in Berlin, I work on agent
-infrastructure and graph-backed identity, data, and access systems. These public
-products show the domain and systems context of that work:
-
-- **[migRaven.MAX](https://max.migraven.com/):** identity, data, and access management with a Neo4j knowledge graph, enterprise connectors, and LLM-assisted querying
-- **[aikux.Brain](https://www.aikux.ai/):** enterprise knowledge graphs, GraphRAG, and semantic access to organizational knowledge
-- **[migRaven.Archiver for Teams](https://www.migraven.com/en/webinar-migraven-archiver-for-teams/):** Microsoft Teams archiving and visibility into external permissions
-
-My role also includes internal workflow and script-orchestration systems within
-migRaven.MAX.
-
-## Engineering focus
-
-- **Agent reliability:** persistent state, context recovery, orchestration, audit trails, and release gates that stop on failed checks
-- **Local-first product engineering:** Rust, Tauri, Svelte, Bun, browser extensions, privacy boundaries, and reproducible packaging
-- **Graph systems:** Neo4j, GraphRAG, identity and access graphs, checkpoints, permissions, and enterprise retrieval
 
 ## Teaching and communication
 
