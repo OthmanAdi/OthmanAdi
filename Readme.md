@@ -54,7 +54,7 @@ migRaven.MAX.
 <p align="center">What I am building this week, read from my own push history and redrawn every thirty minutes.</p>
 
 <p align="center">
-<a href="https://github.com/OthmanAdi/commit-fm" title="Open the Commit FM repository"><img src="https://raw.githubusercontent.com/OthmanAdi/OthmanAdi/main/commit-fm.svg" width="820" alt="Commit FM splitflap board showing the repository currently in rotation and the projects queued behind it"></a>
+<a href="https://github.com/OthmanAdi/commit-fm" title="Open the Commit FM repository"><img src="https://raw.githubusercontent.com/OthmanAdi/OthmanAdi/main/commit-fm.svg" width="820" alt="Commit FM, a now playing banner showing the repository currently in rotation and the queue behind it"></a>
 </p>
 
 <p align="center">
