@@ -6,6 +6,28 @@
 >
 > It keeps `task_plan.md`, `findings.md`, and `progress.md` on disk so work can continue after context loss, crashes, or compaction.
 
+<p align="center"><strong>Trending achievements for <a href="https://github.com/OthmanAdi/planning-with-files">planning-with-files</a></strong></p>
+
+<p align="center">
+  <a href="https://trendshift.io/repositories/17191" title="Trendshift: #1 daily across all languages, January 6, 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/daily" alt="Trendshift: #1 Repository of the Day across all languages" width="250" height="55"></a>
+  <a href="https://trendshift.io/repositories/17191" title="Trendshift: #2 weekly across all languages, Week 2, 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/weekly" alt="Trendshift: #2 Repository of the Week across all languages" width="250" height="55"></a>
+  <a href="https://trendshift.io/repositories/17191" title="GitHub Trending: #4 repository of the day, April 21, 2026"><img src="https://trendshift.io/api/badge/repositories/17191" alt="GitHub Trending: #4 Repository of the Day" width="250" height="55"></a>
+</p>
+
+<p align="center">
+  <a href="https://trendshift.io/repositories/17191" title="Trendshift: #1 daily for Python, January 6, 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/daily?language=Python" alt="Trendshift: #1 Python Repository of the Day" width="250" height="55"></a>
+  <a href="https://trendshift.io/repositories/17191" title="Trendshift: #1 weekly for Python, Week 2, 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/weekly?language=Python" alt="Trendshift: #1 Python Repository of the Week" width="250" height="55"></a>
+</p>
+
+<p align="center">
+  <a href="https://trendshift.io/repositories/17191" title="Trendshift: #5 monthly for Python, January 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/monthly?language=Python" alt="Trendshift: #5 Python Repository of the Month" width="250" height="55"></a>
+  <a href="https://trendshift.io/repositories/17191" title="Trendshift: #17 monthly across all languages, January 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/monthly" alt="Trendshift: #17 Repository of the Month across all languages" width="250" height="55"></a>
+</p>
+
+<p align="center">
+  <sub>Historical rankings: daily on January 6, 2026, weekly in Week 2, 2026, monthly in January 2026, and GitHub Trending on April 21, 2026. <a href="https://trendshift.io/repositories/17191">View the achievement record.</a></sub>
+</p>
+
 [**26K+ stars**](https://github.com/OthmanAdi/planning-with-files) · [**2.1K+ forks**](https://github.com/OthmanAdi/planning-with-files/network/members)<br>
 [**18+ documented platforms**](https://github.com/OthmanAdi/planning-with-files/blob/master/README.md#works-across-18-platforms)
 
