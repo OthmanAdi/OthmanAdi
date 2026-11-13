@@ -3,7 +3,7 @@
 This is a source record, not a wall of adjectives. Every claim below links to a
 public source or is explicitly labeled as context.
 
-**3 external listings** · **9 merged pull requests across 6 repositories** ·
+**3 external listings** · **9 selected merged pull requests across 6 repositories** ·
 **1 direct downstream credit** · **4 teaching references**
 
 ![Evidence, not adjectives: three external listings, nine merged pull requests across six repositories, one direct credit, and four teaching references](./media/v2/proof-hero.jpg)
@@ -25,13 +25,16 @@ public source or is explicitly labeled as context.
 
 ## Nine merged upstream contributions
 
+These are selected examples, not a complete count of my upstream work. Their
+authorship and merged status were rechecked on 13 November 2026.
+
 | Upstream | Contribution |
 |---|---|
 | [MemPalace/mempalace #558](https://github.com/MemPalace/mempalace/pull/558) | Safe handling of unreachable Windows reparse points. |
 | [ComposioHQ/awesome-claude-skills #21](https://github.com/ComposioHQ/awesome-claude-skills/pull/21) | Added LangSmith trace retrieval for agent observability. |
-| [santifer/career-ops #21](https://github.com/santifer/career-ops/pull/21) | DACH job-scanning workflow. |
-| [santifer/career-ops #22](https://github.com/santifer/career-ops/pull/22) | Engineer-instructor example. |
-| [santifer/career-ops #23](https://github.com/santifer/career-ops/pull/23) | German-language modes. |
+| [santifer/career-ops #21](https://github.com/career-ops-hq/career-ops/pull/21) | DACH job-scanning workflow. |
+| [santifer/career-ops #22](https://github.com/career-ops-hq/career-ops/pull/22) | Engineer-instructor example. |
+| [santifer/career-ops #23](https://github.com/career-ops-hq/career-ops/pull/23) | German-language modes. |
 | [op7418/guizang-ppt-skill #5](https://github.com/op7418/guizang-ppt-skill/pull/5) | Grid overflow and frame containment fixes. |
 | [uberskillsdev/uberSKILLS #65](https://github.com/uberskillsdev/uberSKILLS/pull/65) | Windows compatibility. |
 | [uberskillsdev/uberSKILLS #67](https://github.com/uberskillsdev/uberSKILLS/pull/67) | Claude Code skill-format support. |
@@ -88,13 +91,70 @@ authorship.
 
 More references are available on [LinkedIn](https://www.linkedin.com/in/codingwithadi).
 
+## Institutional references
+
+These brief excerpts are from professional reference letters held by me. Roles
+and dates identify the original references; they are not claims about the
+authors' current positions. English translations are labelled separately.
+
+### Berlitz Digital School
+
+> „Herr Adi unterrichtet seine SchülerInnen mit außerordentlichem Erfolg.“
+
+Heike Ehle, Senior Center Director, Berlitz Deutschland GmbH. March 2024.
+
+*English translation: Mr Adi teaches his students with exceptional success.*
+
+The letter documents programming instruction from February 2020 and 2,521
+teaching units by the date of the reference. Teaching units are not clock hours.
+
+### StartSteps
+
+> „Seine Unterrichtsorganisation und Classroom Management sind strukturiert und stets auf den bestmöglichen Lernerfolg unserer Teilnehmenden ausgerichtet.“
+
+Dominik Baedorf, Programme Lead and Quality Management Officer. 28 November 2023.
+
+*English translation: His teaching organisation and classroom management are
+structured and consistently directed towards the best possible learning
+outcomes for our participants.*
+
+The reference records work from 3 December 2020: group and individual teaching,
+live coding, code review, portfolio work, teamwork, communication and career
+coaching. It also describes supporting learners' further professional development.
+
+### MindRefined
+
+> „Sein Unterrichtsstil war klar strukturiert, interaktiv und an die Bedürfnisse der Lernenden angepasst.“
+
+David Oesinghaus, Managing Director. 2 February 2024.
+
+*English translation: His teaching style was clearly structured, interactive
+and adapted to the learners' needs.*
+
+The reference records a commission starting on 19 June 2023, covering networks,
+IT security and Linux for jobseekers, with support beyond class sessions.
+
+## Maintaining a shared project
+
+In [Planning with Files #368](https://github.com/OthmanAdi/planning-with-files/pull/368#issuecomment-6774601294),
+I documented why the initial help-command fix did not cover Windows PowerShell
+5.1 and reopened the issue. I worked through the remaining compatibility cases
+with contributors and merged the follow-up after its Windows, macOS, Linux and
+plugin checks passed. The patch was contributed by Eapp1e; this example shows
+my review and maintenance responsibility.
+
 ## How this evidence is handled
 
-Counts are a dated snapshot and repository metrics change. Rounded figures link
-to live sources. “Listed first” describes source-page order, not an editorial
-ranking. Last verified: 2026-08-13.
+The earlier source record was dated 13 August 2026 and is retained here.
+On 13 November 2026, the three external listings, nine selected merged PRs and
+CCteam Creator attribution were rechecked. Planning with Files then had 28,044
+GitHub stars and 2,314 forks. These are activity measures, not user counts.
+
+“Listed first” describes Snyk's page order. Its “Verified SKILL.md” wording is
+the article's label, not a security certification. Historical badges retain
+their dates and categories; GitHub Trending #4 refers to Python on 21 April 2026.
 
 ## Continue exploring
 
 - **[Return to the profile](./Readme.md)** for the recruiter-facing overview
-- **[Open the project catalogue](./PROJECTS.md)** for 35 selected public projects
+- **[Open the project catalogue](./PROJECTS.md)** for the original 35 projects and the newer additions

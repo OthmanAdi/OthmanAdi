@@ -1,14 +1,44 @@
 # Projects built for real workflows
 
-A curated map of 35 public projects across local-first products, agent
-reliability, Rust desktop software, graph systems, and developer tooling.
+A catalogue of public projects across local-first products, agent reliability,
+Rust desktop software, graph systems, and developer tooling. The original
+35-project collection is retained below, with newer work added here.
 
-**35 selected projects** · **4 flagship products** · **26K+ stars on
-planning-with-files** · **1 published Rust crate**
+For the current introduction, [return to my profile](./Readme.md).
+Planning with Files passed 28,000 GitHub stars in the November 2026 snapshot.
 
-![Projects built for real workflows: 35 selected projects, four flagships, 26K+ stars, and one published Rust crate](./media/v2/projects-hero.jpg)
+## Recent products and additional systems
 
-## Four flagship products
+| Project | What it does | Open it |
+|---|---|---|
+| [zero-to](https://github.com/OthmanAdi/zero-to) | An agent skill that researches a topic, checks resources and builds an interactive learning roadmap. | [Live gallery](https://othmanadi.github.io/zero-to/gallery/) |
+| [Bookmark Bookshelf](https://github.com/OthmanAdi/bookmark-bookshelf) | Local-first bookmark and reading software, with saved links represented as books. | [Live app](https://othmanadi.github.io/bookmark-bookshelf/) |
+| [sketchy](https://github.com/OthmanAdi/sketchy) | Hand-drawn slides, charts and teaching explainers as self-contained HTML, with export tools. Demo figures in its gallery are fictional examples. | [Live examples](https://othmanadi.github.io/sketchy/) |
+| [StateAssure](https://github.com/OthmanAdi/StateAssure) | A Windows C++20 metadata scanner for AI memory and index stores, with explicit coverage reporting. | [Releases](https://github.com/OthmanAdi/StateAssure/releases) |
+| [Commit FM](https://github.com/OthmanAdi/commit-fm) | A profile radio display generated from public GitHub push history. | [Source and setup](https://github.com/OthmanAdi/commit-fm) |
+
+## Learning applications
+
+| Project | Learning task |
+|---|---|
+| [Die Begriffsakte](https://github.com/OthmanAdi/laravel-ai-begriffsatlas) | Explore Laravel and Applied AI concepts at different depths, then apply and explain them. [Open the atlas](https://othmanadi.github.io/laravel-ai-begriffsatlas/). |
+| [Request-Labor](https://github.com/OthmanAdi/laravel-request-pipeline-warmup) | Follow a Laravel request through its pipeline, complete exercises and export a local completion record. |
+
+These public examples show learning-product engineering. They are not presented
+as the historical applications developed for every institution in my teaching record.
+
+<details>
+<summary>Previous portfolio overview, preserved as a historical snapshot</summary>
+
+The earlier overview below described 35 selected projects, four featured
+products, 26K+ Planning with Files stars and one published Rust crate. Current
+project and release information is linked in the catalogue.
+
+![Previous portfolio overview: 35 selected projects, four featured products, 26K+ stars and one published Rust crate](./media/v2/projects-hero.jpg)
+
+</details>
+
+## Browser and desktop products
 
 | Project | What it does | Core stack |
 |---|---|---|
@@ -17,7 +47,17 @@ planning-with-files** · **1 published Rust crate**
 | [Skill Deck](https://github.com/OthmanAdi/skill-deck) | Discovers and catalogs AI-agent artifacts for search and manual review. | Rust, Tauri, Svelte |
 | [INDEX](https://github.com/OthmanAdi/index) | Local governance and risk classification for supported agent artifacts. | Rust, Tauri, Svelte |
 
-## Open-source systems with traction
+<details>
+<summary>Open the original four-product visual collection</summary>
+
+<a href="https://github.com/OthmanAdi/bunbite"><img src="./media/v2/bunbite.jpg" width="410" alt="BunBite: local browser image optimization"></a>
+<a href="https://github.com/OthmanAdi/bunbite-extension"><img src="./media/v2/bunbite-studio.jpg" width="410" alt="BunBite Studio: Chromium image optimization extension"></a>
+<a href="https://github.com/OthmanAdi/skill-deck"><img src="./media/v2/skill-deck.jpg" width="410" alt="Skill Deck: Rust and Tauri agent-artifact workbench"></a>
+<a href="https://github.com/OthmanAdi/index"><img src="./media/v2/index.jpg" width="410" alt="INDEX: local governance and risk classification for agent artifacts"></a>
+
+</details>
+
+## Planning, interfaces and graph systems
 
 <p align="center">
 <a href="https://github.com/OthmanAdi/planning-with-files" title="Open the Planning with Files repository"><img src="./media/v2/planning-with-files.jpg" width="410" alt="Planning with Files, persistent file-based planning for AI coding agents"></a>
@@ -99,8 +139,8 @@ These company pages provide public context for my work at migRaven; they
 describe product scope, not my individual contributions.
 
 - **[migRaven.MAX](https://max.migraven.com/):** Graph-backed identity, data, and access management with enterprise connectors and LLM-assisted querying.
-- **[aikux.Brain](https://www.aikux.ai/):** Enterprise knowledge graphs, GraphRAG, and semantic access to organizational knowledge.
-- **[migRaven.Archiver for Teams](https://www.migraven.com/en/webinar-migraven-archiver-for-teams/):** Microsoft Teams archiving with visibility into external permissions.
+- **[aikux.Brain](https://www.aikux.com/produkte/aikux-brain/):** Enterprise knowledge graphs, GraphRAG, and semantic access to organizational knowledge.
+- **[migRaven.Archiver for Teams](https://www.migraven.com/webinar-migraven-archiver-fuer-teams/):** Microsoft Teams archiving with visibility into external permissions.
 
 ## Continue exploring
 

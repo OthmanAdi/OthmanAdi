@@ -1,0 +1,28 @@
+{
+  "width": 820,
+  "projectHeight": 330,
+  "quoteHeight": 430,
+  "projectTitleSize": 56,
+  "minimumReviewedDisplayWidth": 223,
+  "files": [
+    "card-pwf-light.svg",
+    "card-zero-to-light.svg",
+    "card-bookshelf-light.svg",
+    "card-sketchy-light.svg",
+    "card-plandeck-light.svg",
+    "card-stateassure-light.svg",
+    "quote-berlitz-light.svg",
+    "quote-startsteps-light.svg",
+    "quote-mindrefined-light.svg",
+    "card-pwf-dark.svg",
+    "card-zero-to-dark.svg",
+    "card-bookshelf-dark.svg",
+    "card-sketchy-dark.svg",
+    "card-plandeck-dark.svg",
+    "card-stateassure-dark.svg",
+    "quote-berlitz-dark.svg",
+    "quote-startsteps-dark.svg",
+    "quote-mindrefined-dark.svg"
+  ],
+  "quoteSource": "../teaching-leadership-evidence.md"
+}
