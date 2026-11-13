@@ -6,7 +6,7 @@ I build agent tools, enterprise software and learning applications. Creator and 
 
 Open to senior AI engineering roles and hands-on technical leadership, including founding-engineer work.
 
-[Repositories](#open-repositories) · [Professional work](#professional-work) · [Teaching and programmes](#teaching-and-programmes) · [Public evidence](#public-evidence) · [Discuss a role](mailto:adiatwork@outlook.com)
+[Repositories](#user-content-open-repositories) · [Professional work](#user-content-professional-work) · [Teaching and programmes](#user-content-teaching-and-programmes) · [Public evidence](#user-content-public-evidence) · [Discuss a role](mailto:adiatwork@outlook.com)
 
 <a name="repositories"></a>
 
