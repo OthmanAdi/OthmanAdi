@@ -44,63 +44,6 @@ Every project card opens its source. Live examples and descriptions follow each 
 <a href="https://trendshift.io/repositories/17191" title="Trendshift: #1 weekly for Python, week 2 of 2026"><img src="https://trendshift.io/api/badge/trendshift/repositories/17191/weekly?language=Python" width="250" height="55" alt="Trendshift #1 Python Repository of the Week, week 2 of 2026"></a>
 </p>
 
-Trendshift, January 2026: **#1 daily** across all languages and for Python (6 January); **#2 weekly** across all languages and **#1 for Python** (week 2).
-
-GitHub Trending: **#4 for Python**, 21 April 2026.
-
-More agent and systems work: [Plandeck](https://github.com/OthmanAdi/plandeck) · [chronos](https://github.com/OthmanAdi/chronos) · [StateAssure](https://github.com/OthmanAdi/StateAssure).
-
-<details>
-<summary><strong>Browser and desktop products: BunBite, BunBite Studio, Skill Deck and INDEX</strong></summary>
-
-| Repository | What it does |
-|---|---|
-| [BunBite](https://github.com/OthmanAdi/bunbite) | Local WebP, JPEG and PNG optimization in the browser. |
-| [BunBite Studio](https://github.com/OthmanAdi/bunbite-extension) | A Chromium extension for local image optimization. |
-| [Skill Deck](https://github.com/OthmanAdi/skill-deck) | A Rust, Tauri and Svelte desktop workbench for finding and reviewing AI-agent artifacts. |
-| [INDEX](https://github.com/OthmanAdi/index) | Local governance and risk classification for supported AI-agent artifacts. |
-
-<p>
-<a href="https://github.com/OthmanAdi/bunbite"><img src="./media/v2/bunbite.jpg" width="410" alt="BunBite, local-first WebP, JPEG and PNG optimization in the browser."></a>
-<a href="https://github.com/OthmanAdi/bunbite-extension"><img src="./media/v2/bunbite-studio.jpg" width="410" alt="BunBite Studio, a Chromium extension for local image optimization."></a>
-</p>
-<p>
-<a href="https://github.com/OthmanAdi/skill-deck"><img src="./media/v2/skill-deck.jpg" width="410" alt="Skill Deck, a Rust and Tauri desktop workbench for reviewing AI-agent artifacts."></a>
-<a href="https://github.com/OthmanAdi/index"><img src="./media/v2/index.jpg" width="410" alt="INDEX, local governance and risk classification for AI-agent artifacts."></a>
-</p>
-
-</details>
-
-<details>
-<summary><strong>More systems: agent reliability, music control, generative UI, model routing and knowledge graphs</strong></summary>
-
-| Repository | What to inspect |
-|---|---|
-| [StateAssure](https://github.com/OthmanAdi/StateAssure) | Windows C++20 scanning for AI memory/index stores, with explicit coverage reporting, builds and checksums. |
-| [chronos](https://github.com/OthmanAdi/chronos) | Reads agent transcripts to expose elapsed time, repeated calls and stale reads. |
-| [LangSmith Fetch](https://github.com/OthmanAdi/langsmith-fetch-skill) | My skill for retrieving LangChain and LangGraph agent traces with LangSmith's CLI. |
-| [Planning with Files](https://github.com/OthmanAdi/planning-with-files) | Persistent file-based planning and context recovery for coding agents. |
-| [Plandeck](https://github.com/OthmanAdi/plandeck) | Visual planning with dependencies, critical paths and a computed next action. |
-| [Loophole](https://github.com/OthmanAdi/loophole) | An Ableton Live extension kit and MCP server for music control. |
-| [OpenUI Forge](https://github.com/OthmanAdi/openui-forge) | A cross-IDE, multi-stack agent skill for OpenUI. |
-| [AI Model Directory Router](https://github.com/OthmanAdi/ai-model-directory-router-rs) | A Rust crate for routing by model cost, context, capabilities and fallback chains. |
-| [OpenMark](https://github.com/OthmanAdi/OpenMark) | A personal knowledge graph and multi-agent orchestration system. |
-
-<p>
-<a href="https://github.com/OthmanAdi/planning-with-files"><img src="./media/v2/planning-with-files.jpg" width="410" alt="Planning with Files, persistent file-based planning for AI coding agents."></a>
-<a href="https://github.com/OthmanAdi/plandeck"><img src="./media/v2/plandeck.jpg" width="410" alt="Plandeck, a live visual board for dependencies, critical paths and the next action."></a>
-</p>
-<p>
-<a href="https://github.com/OthmanAdi/loophole"><img src="./media/v2/loophole.jpg" width="410" alt="Loophole, an Ableton Live extension kit and MCP server."></a>
-<a href="https://github.com/OthmanAdi/openui-forge"><img src="./media/v2/openui-forge.jpg" width="410" alt="OpenUI Forge, a cross-IDE and multi-stack agent skill for OpenUI."></a>
-</p>
-<p>
-<a href="https://github.com/OthmanAdi/ai-model-directory-router-rs"><img src="./media/v2/ai-model-directory-router-rs.jpg" width="410" alt="AI Model Directory Router, a Rust crate for model cost, context, capability and fallback routing."></a>
-<a href="https://github.com/OthmanAdi/OpenMark"><img src="./media/v2/openmark.jpg" width="410" alt="OpenMark, a personal knowledge graph and multi-agent orchestration system."></a>
-</p>
-
-</details>
-
 [Browse the complete project catalogue](./PROJECTS.md): agent tooling, desktop applications, Rust systems, graph infrastructure, media tools and web products.
 
 ## Professional work
