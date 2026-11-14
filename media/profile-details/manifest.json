@@ -1,0 +1,198 @@
+{
+  "references": [
+    {
+      "filename": "reference-berlitz-light.svg",
+      "width": 820,
+      "height": 430
+    },
+    {
+      "filename": "reference-berlitz-mobile-light.svg",
+      "width": 440,
+      "height": 372
+    },
+    {
+      "filename": "reference-startsteps-light.svg",
+      "width": 820,
+      "height": 430
+    },
+    {
+      "filename": "reference-startsteps-mobile-light.svg",
+      "width": 440,
+      "height": 460
+    },
+    {
+      "filename": "reference-mindrefined-light.svg",
+      "width": 820,
+      "height": 430
+    },
+    {
+      "filename": "reference-mindrefined-mobile-light.svg",
+      "width": 440,
+      "height": 410
+    },
+    {
+      "filename": "reference-berlitz-dark.svg",
+      "width": 820,
+      "height": 430
+    },
+    {
+      "filename": "reference-berlitz-mobile-dark.svg",
+      "width": 440,
+      "height": 372
+    },
+    {
+      "filename": "reference-startsteps-dark.svg",
+      "width": 820,
+      "height": 430
+    },
+    {
+      "filename": "reference-startsteps-mobile-dark.svg",
+      "width": 440,
+      "height": 460
+    },
+    {
+      "filename": "reference-mindrefined-dark.svg",
+      "width": 820,
+      "height": 430
+    },
+    {
+      "filename": "reference-mindrefined-mobile-dark.svg",
+      "width": 440,
+      "height": 410
+    }
+  ],
+  "tiles": [
+    {
+      "filename": "tile-plandeck-light.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Visual dependency-aware planning for agent work."
+    },
+    {
+      "filename": "tile-chronos-light.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Time awareness for coding agents from their session records."
+    },
+    {
+      "filename": "tile-stateassure-light.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Inspect Windows filesystem metadata and scan coverage."
+    },
+    {
+      "filename": "tile-skill-deck-light.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Discover, search and manually review AI-agent artifacts."
+    },
+    {
+      "filename": "tile-index-light.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Local governance and risk classification for agent artifacts."
+    },
+    {
+      "filename": "tile-bunbite-light.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Local-first image optimization for WebP, JPEG and PNG."
+    },
+    {
+      "filename": "tile-loophole-light.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Ableton Live control through an extension kit and MCP server."
+    },
+    {
+      "filename": "tile-openui-forge-light.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "An agent skill for building interfaces with OpenUI."
+    },
+    {
+      "filename": "tile-openmark-light.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "A knowledge graph for bookmark collections."
+    },
+    {
+      "filename": "tile-langsmith-fetch-light.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Retrieve LangChain and LangGraph traces in the terminal."
+    },
+    {
+      "filename": "tile-plandeck-dark.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Visual dependency-aware planning for agent work."
+    },
+    {
+      "filename": "tile-chronos-dark.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Time awareness for coding agents from their session records."
+    },
+    {
+      "filename": "tile-stateassure-dark.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Inspect Windows filesystem metadata and scan coverage."
+    },
+    {
+      "filename": "tile-skill-deck-dark.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Discover, search and manually review AI-agent artifacts."
+    },
+    {
+      "filename": "tile-index-dark.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Local governance and risk classification for agent artifacts."
+    },
+    {
+      "filename": "tile-bunbite-dark.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Local-first image optimization for WebP, JPEG and PNG."
+    },
+    {
+      "filename": "tile-loophole-dark.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Ableton Live control through an extension kit and MCP server."
+    },
+    {
+      "filename": "tile-openui-forge-dark.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "An agent skill for building interfaces with OpenUI."
+    },
+    {
+      "filename": "tile-openmark-dark.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "A knowledge graph for bookmark collections."
+    },
+    {
+      "filename": "tile-langsmith-fetch-dark.svg",
+      "width": 320,
+      "height": 232,
+      "purpose": "Retrieve LangChain and LangGraph traces in the terminal."
+    }
+  ],
+  "tileDisplay": {
+    "width": 104,
+    "height": 75.4,
+    "nameSize": 13
+  },
+  "mobileReferenceDisplay": {
+    "width": 223,
+    "bodySizeMinimum": 14.190909090909091,
+    "bodySizeMaximum": 15.204545454545455,
+    "authorSize": 15.204545454545455,
+    "metadataSize": 12.163636363636364
+  }
+}

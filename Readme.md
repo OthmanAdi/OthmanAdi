@@ -145,32 +145,31 @@ I teach Python, agent-system design and production engineering practices. Develo
 
 These excerpts are from professional reference letters. [Read their context and English translations](./PROOF.md#institutional-references).
 
-<table>
-<tr><td>
-<strong>Berlitz Digital School</strong><br>
-<p>„Herr Adi unterrichtet seine SchülerInnen mit außerordentlichem Erfolg.“</p>
-<strong>Heike Ehle</strong> · Senior Center Director<br>
-Berlitz Deutschland GmbH · March 2024
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-<strong>StartSteps</strong><br>
-<p>„Seine Unterrichtsorganisation und Classroom Management sind strukturiert und stets auf den bestmöglichen Lernerfolg unserer Teilnehmenden ausgerichtet.“</p>
-<strong>Dominik Baedorf</strong> · Programme Lead and Quality Management Officer<br>
-28 November 2023
-</td></tr>
-</table>
-
-<table>
-<tr><td>
-<strong>MindRefined</strong><br>
-<p>„Sein Unterrichtsstil war klar strukturiert, interaktiv und an die Bedürfnisse der Lernenden angepasst.“</p>
-<strong>David Oesinghaus</strong> · Managing Director<br>
-2 February 2024
-</td></tr>
-</table>
+<p>
+<a href="./PROOF.md#institutional-references" title="Berlitz Digital School: reference and English translation"><picture>
+<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./media/profile-details/reference-berlitz-mobile-dark.svg">
+<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./media/profile-details/reference-berlitz-mobile-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/reference-berlitz-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="./media/profile-details/reference-berlitz-light.svg">
+<img src="./media/profile-details/reference-berlitz-light.svg" width="410" alt="Berlitz Digital School: „Herr Adi unterrichtet seine SchülerInnen mit außerordentlichem Erfolg.“ — Heike Ehle, Senior Center Director, March 2024">
+</picture></a>
+<a href="./PROOF.md#institutional-references" title="StartSteps: reference and English translation"><picture>
+<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./media/profile-details/reference-startsteps-mobile-dark.svg">
+<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./media/profile-details/reference-startsteps-mobile-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/reference-startsteps-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="./media/profile-details/reference-startsteps-light.svg">
+<img src="./media/profile-details/reference-startsteps-light.svg" width="410" alt="StartSteps: „Seine Unterrichtsorganisation und Classroom Management sind strukturiert und stets auf den bestmöglichen Lernerfolg unserer Teilnehmenden ausgerichtet.“ — Dominik Baedorf, Programme Lead and Quality Management Officer, 28 November 2023">
+</picture></a>
+</p>
+<p>
+<a href="./PROOF.md#institutional-references" title="MindRefined: reference and English translation"><picture>
+<source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./media/profile-details/reference-mindrefined-mobile-dark.svg">
+<source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./media/profile-details/reference-mindrefined-mobile-light.svg">
+<source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/reference-mindrefined-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="./media/profile-details/reference-mindrefined-light.svg">
+<img src="./media/profile-details/reference-mindrefined-light.svg" width="410" alt="MindRefined: „Sein Unterrichtsstil war klar strukturiert, interaktiv und an die Bedürfnisse der Lernenden angepasst.“ — David Oesinghaus, Managing Director, 2 February 2024">
+</picture></a>
+</p>
 
 <a name="institutional-reference-excerpts"></a>
 
@@ -270,3 +269,20 @@ I'm looking for a senior role building AI agents and products. I'm also interest
 Berlin · [Email me](mailto:adiatwork@outlook.com) · [LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Writing on dev.to](https://dev.to/othmanadi)
 
 [Project catalogue](./PROJECTS.md) · [Evidence and recommendations](./PROOF.md) · [Support my open-source work](https://github.com/sponsors/OthmanAdi)
+
+## More repositories
+
+<p align="center">
+<a href="https://github.com/OthmanAdi/plandeck" title="Plandeck: Visual planning and dependencies"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-plandeck-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-plandeck-light.svg"><img src="./media/profile-details/tile-plandeck-light.svg" width="104" alt="Plandeck — Visual planning and dependencies"></picture></a>
+<a href="https://github.com/OthmanAdi/chronos" title="chronos: Time awareness for coding agents"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-chronos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-chronos-light.svg"><img src="./media/profile-details/tile-chronos-light.svg" width="104" alt="chronos — Time awareness for coding agents"></picture></a>
+<a href="https://github.com/OthmanAdi/StateAssure" title="StateAssure: Windows metadata scanning"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-stateassure-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-stateassure-light.svg"><img src="./media/profile-details/tile-stateassure-light.svg" width="104" alt="StateAssure — Windows metadata scanning"></picture></a>
+<a href="https://github.com/OthmanAdi/skill-deck" title="Skill Deck: A local agent-artifact workbench"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-skill-deck-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-skill-deck-light.svg"><img src="./media/profile-details/tile-skill-deck-light.svg" width="104" alt="Skill Deck — A local agent-artifact workbench"></picture></a>
+<a href="https://github.com/OthmanAdi/index" title="INDEX: Local governance for agent artifacts"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-index-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-index-light.svg"><img src="./media/profile-details/tile-index-light.svg" width="104" alt="INDEX — Local governance for agent artifacts"></picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/OthmanAdi/bunbite" title="BunBite: Local browser image optimization"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-bunbite-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-bunbite-light.svg"><img src="./media/profile-details/tile-bunbite-light.svg" width="104" alt="BunBite — Local browser image optimization"></picture></a>
+<a href="https://github.com/OthmanAdi/loophole" title="Loophole: Ableton Live tools for agents"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-loophole-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-loophole-light.svg"><img src="./media/profile-details/tile-loophole-light.svg" width="104" alt="Loophole — Ableton Live tools for agents"></picture></a>
+<a href="https://github.com/OthmanAdi/openui-forge" title="OpenUI Forge: OpenUI integration skill"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-openui-forge-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-openui-forge-light.svg"><img src="./media/profile-details/tile-openui-forge-light.svg" width="104" alt="OpenUI Forge — OpenUI integration skill"></picture></a>
+<a href="https://github.com/OthmanAdi/OpenMark" title="OpenMark: Personal knowledge graph"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-openmark-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-openmark-light.svg"><img src="./media/profile-details/tile-openmark-light.svg" width="104" alt="OpenMark — Personal knowledge graph"></picture></a>
+<a href="https://github.com/OthmanAdi/langsmith-fetch-skill" title="LangSmith Fetch: Agent trace retrieval"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-langsmith-fetch-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-langsmith-fetch-light.svg"><img src="./media/profile-details/tile-langsmith-fetch-light.svg" width="104" alt="LangSmith Fetch — Agent trace retrieval"></picture></a>
+</p>
