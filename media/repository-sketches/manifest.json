@@ -1,0 +1,1872 @@
+{
+  "displayWidth": 108,
+  "displayHeight": 150,
+  "files": [
+    {
+      "name": "Plandeck",
+      "purpose": "Find the next ready task",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Plandeck",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Find the next",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 275.22,
+          "baseline": 463
+        },
+        {
+          "text": "ready task",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 216.48,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-plandeck-light.svg",
+      "bytes": 44507,
+      "static": false,
+      "motion": {
+        "durationSeconds": 7.6,
+        "activeFraction": 0.19,
+        "gesture": "translate(0px, 8px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "Plandeck",
+      "purpose": "Find the next ready task",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Plandeck",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Find the next",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 275.22,
+          "baseline": 463
+        },
+        {
+          "text": "ready task",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 216.48,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-plandeck-static-light.svg",
+      "bytes": 44136,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "chronos",
+      "purpose": "Give agents time awareness",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "chronos",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Give agents",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 231.48,
+          "baseline": 463
+        },
+        {
+          "text": "time awareness",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 314.28,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-chronos-light.svg",
+      "bytes": 43837,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.0,
+        "activeFraction": 0.19,
+        "gesture": "rotate(8deg)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "chronos",
+      "purpose": "Give agents time awareness",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "chronos",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Give agents",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 231.48,
+          "baseline": 463
+        },
+        {
+          "text": "time awareness",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 314.28,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-chronos-static-light.svg",
+      "bytes": 43473,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "StateAssure",
+      "purpose": "Find agent memory stores",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "StateAssure",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 369.36,
+          "baseline": 357
+        },
+        {
+          "text": "Find agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 220.44,
+          "baseline": 463
+        },
+        {
+          "text": "memory stores",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 290.4,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-stateassure-light.svg",
+      "bytes": 44133,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.4,
+        "activeFraction": 0.19,
+        "gesture": "translate(7px, -3px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "StateAssure",
+      "purpose": "Find agent memory stores",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "StateAssure",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 369.36,
+          "baseline": 357
+        },
+        {
+          "text": "Find agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 220.44,
+          "baseline": 463
+        },
+        {
+          "text": "memory stores",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 290.4,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-stateassure-static-light.svg",
+      "bytes": 43761,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "Skill Deck",
+      "purpose": "Inspect local agent skills",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Skill Deck",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 335.78,
+          "baseline": 357
+        },
+        {
+          "text": "Inspect local",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 261.9,
+          "baseline": 463
+        },
+        {
+          "text": "agent skills",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 226.32,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-skill-deck-light.svg",
+      "bytes": 43264,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.8,
+        "activeFraction": 0.19,
+        "gesture": "translate(0px, -8px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "Skill Deck",
+      "purpose": "Inspect local agent skills",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Skill Deck",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 335.78,
+          "baseline": 357
+        },
+        {
+          "text": "Inspect local",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 261.9,
+          "baseline": 463
+        },
+        {
+          "text": "agent skills",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 226.32,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-skill-deck-static-light.svg",
+      "bytes": 42892,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "INDEX",
+      "purpose": "Review agent artifact risks",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "INDEX",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 357
+        },
+        {
+          "text": "Review agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 264.54,
+          "baseline": 463
+        },
+        {
+          "text": "artifact risks",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 277.14,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-index-light.svg",
+      "bytes": 46694,
+      "static": false,
+      "motion": {
+        "durationSeconds": 7.6,
+        "activeFraction": 0.19,
+        "gesture": "translate(6px, 0px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "INDEX",
+      "purpose": "Review agent artifact risks",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "INDEX",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 357
+        },
+        {
+          "text": "Review agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 264.54,
+          "baseline": 463
+        },
+        {
+          "text": "artifact risks",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 277.14,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-index-static-light.svg",
+      "bytes": 46323,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "BunBite",
+      "purpose": "Shrink images. Stay local.",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "BunBite",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Shrink images.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 301.38,
+          "baseline": 463
+        },
+        {
+          "text": "Stay local.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 213.6,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-bunbite-light.svg",
+      "bytes": 51604,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.0,
+        "activeFraction": 0.19,
+        "gesture": "translate(0px, 8px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "BunBite",
+      "purpose": "Shrink images. Stay local.",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "BunBite",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Shrink images.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 301.38,
+          "baseline": 463
+        },
+        {
+          "text": "Stay local.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 213.6,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-bunbite-static-light.svg",
+      "bytes": 51233,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "Loophole",
+      "purpose": "Agent control for Ableton",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Loophole",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Agent control",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 277.8,
+          "baseline": 463
+        },
+        {
+          "text": "for Ableton",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 231.54,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-loophole-light.svg",
+      "bytes": 40431,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.4,
+        "activeFraction": 0.19,
+        "gesture": "translate(0px, 5px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "Loophole",
+      "purpose": "Agent control for Ableton",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Loophole",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Agent control",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 277.8,
+          "baseline": 463
+        },
+        {
+          "text": "for Ableton",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 231.54,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-loophole-static-light.svg",
+      "bytes": 40060,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "OpenUI Forge",
+      "purpose": "Integrate OpenUI into your app",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "OpenUI",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 201.47,
+          "baseline": 327
+        },
+        {
+          "text": "Forge",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 384
+        },
+        {
+          "text": "Integrate",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 201.0,
+          "baseline": 455
+        },
+        {
+          "text": "OpenUI into",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 248.16,
+          "baseline": 514
+        },
+        {
+          "text": "your app",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 172.26,
+          "baseline": 573
+        }
+      ],
+      "filename": "tile-openui-forge-light.svg",
+      "bytes": 45588,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.8,
+        "activeFraction": 0.19,
+        "gesture": "rotate(-4deg)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "OpenUI Forge",
+      "purpose": "Integrate OpenUI into your app",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "OpenUI",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 201.47,
+          "baseline": 327
+        },
+        {
+          "text": "Forge",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 384
+        },
+        {
+          "text": "Integrate",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 201.0,
+          "baseline": 455
+        },
+        {
+          "text": "OpenUI into",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 248.16,
+          "baseline": 514
+        },
+        {
+          "text": "your app",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 172.26,
+          "baseline": 573
+        }
+      ],
+      "filename": "tile-openui-forge-static-light.svg",
+      "bytes": 45224,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "OpenMark",
+      "purpose": "Connect bookmarks into a graph",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "OpenMark",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Connect",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 166.14,
+          "baseline": 455
+        },
+        {
+          "text": "bookmarks into",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 311.88,
+          "baseline": 514
+        },
+        {
+          "text": "a graph",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 161.82,
+          "baseline": 573
+        }
+      ],
+      "filename": "tile-openmark-light.svg",
+      "bytes": 50808,
+      "static": false,
+      "motion": {
+        "durationSeconds": 7.6,
+        "activeFraction": 0.19,
+        "gesture": "rotate(3deg)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "OpenMark",
+      "purpose": "Connect bookmarks into a graph",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "OpenMark",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Connect",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 166.14,
+          "baseline": 455
+        },
+        {
+          "text": "bookmarks into",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 311.88,
+          "baseline": 514
+        },
+        {
+          "text": "a graph",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 161.82,
+          "baseline": 573
+        }
+      ],
+      "filename": "tile-openmark-static-light.svg",
+      "bytes": 50445,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "LangSmith Fetch",
+      "purpose": "Read traces. Debug agent runs.",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "LangSmith",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 302.2,
+          "baseline": 327
+        },
+        {
+          "text": "Fetch",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 384
+        },
+        {
+          "text": "Read traces.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 259.68,
+          "baseline": 463
+        },
+        {
+          "text": "Debug agent runs.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 373.44,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-langsmith-fetch-light.svg",
+      "bytes": 46260,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.0,
+        "activeFraction": 0.19,
+        "gesture": "translate(0px, 7px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "LangSmith Fetch",
+      "purpose": "Read traces. Debug agent runs.",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "LangSmith",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 302.2,
+          "baseline": 327
+        },
+        {
+          "text": "Fetch",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 384
+        },
+        {
+          "text": "Read traces.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 259.68,
+          "baseline": 463
+        },
+        {
+          "text": "Debug agent runs.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 373.44,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-langsmith-fetch-static-light.svg",
+      "bytes": 45889,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "haircut",
+      "purpose": "Trim agent context with undo",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "haircut",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Trim agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 224.46,
+          "baseline": 463
+        },
+        {
+          "text": "context with undo",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 365.46,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-haircut-light.svg",
+      "bytes": 51984,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.4,
+        "activeFraction": 0.19,
+        "gesture": "rotate(-8deg)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "haircut",
+      "purpose": "Trim agent context with undo",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "haircut",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Trim agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 224.46,
+          "baseline": 463
+        },
+        {
+          "text": "context with undo",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 365.46,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-haircut-static-light.svg",
+      "bytes": 51619,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "Plandeck",
+      "purpose": "Find the next ready task",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Plandeck",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Find the next",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 275.22,
+          "baseline": 463
+        },
+        {
+          "text": "ready task",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 216.48,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-plandeck-dark.svg",
+      "bytes": 44507,
+      "static": false,
+      "motion": {
+        "durationSeconds": 7.6,
+        "activeFraction": 0.19,
+        "gesture": "translate(0px, 8px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "Plandeck",
+      "purpose": "Find the next ready task",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Plandeck",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Find the next",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 275.22,
+          "baseline": 463
+        },
+        {
+          "text": "ready task",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 216.48,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-plandeck-static-dark.svg",
+      "bytes": 44136,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "chronos",
+      "purpose": "Give agents time awareness",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "chronos",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Give agents",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 231.48,
+          "baseline": 463
+        },
+        {
+          "text": "time awareness",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 314.28,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-chronos-dark.svg",
+      "bytes": 43837,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.0,
+        "activeFraction": 0.19,
+        "gesture": "rotate(8deg)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "chronos",
+      "purpose": "Give agents time awareness",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "chronos",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Give agents",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 231.48,
+          "baseline": 463
+        },
+        {
+          "text": "time awareness",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 314.28,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-chronos-static-dark.svg",
+      "bytes": 43473,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "StateAssure",
+      "purpose": "Find agent memory stores",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "StateAssure",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 369.36,
+          "baseline": 357
+        },
+        {
+          "text": "Find agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 220.44,
+          "baseline": 463
+        },
+        {
+          "text": "memory stores",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 290.4,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-stateassure-dark.svg",
+      "bytes": 44133,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.4,
+        "activeFraction": 0.19,
+        "gesture": "translate(7px, -3px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "StateAssure",
+      "purpose": "Find agent memory stores",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "StateAssure",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 369.36,
+          "baseline": 357
+        },
+        {
+          "text": "Find agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 220.44,
+          "baseline": 463
+        },
+        {
+          "text": "memory stores",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 290.4,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-stateassure-static-dark.svg",
+      "bytes": 43761,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "Skill Deck",
+      "purpose": "Inspect local agent skills",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Skill Deck",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 335.78,
+          "baseline": 357
+        },
+        {
+          "text": "Inspect local",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 261.9,
+          "baseline": 463
+        },
+        {
+          "text": "agent skills",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 226.32,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-skill-deck-dark.svg",
+      "bytes": 43264,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.8,
+        "activeFraction": 0.19,
+        "gesture": "translate(0px, -8px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "Skill Deck",
+      "purpose": "Inspect local agent skills",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Skill Deck",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 335.78,
+          "baseline": 357
+        },
+        {
+          "text": "Inspect local",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 261.9,
+          "baseline": 463
+        },
+        {
+          "text": "agent skills",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 226.32,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-skill-deck-static-dark.svg",
+      "bytes": 42892,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "INDEX",
+      "purpose": "Review agent artifact risks",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "INDEX",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 357
+        },
+        {
+          "text": "Review agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 264.54,
+          "baseline": 463
+        },
+        {
+          "text": "artifact risks",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 277.14,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-index-dark.svg",
+      "bytes": 46694,
+      "static": false,
+      "motion": {
+        "durationSeconds": 7.6,
+        "activeFraction": 0.19,
+        "gesture": "translate(6px, 0px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "INDEX",
+      "purpose": "Review agent artifact risks",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "INDEX",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 357
+        },
+        {
+          "text": "Review agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 264.54,
+          "baseline": 463
+        },
+        {
+          "text": "artifact risks",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 277.14,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-index-static-dark.svg",
+      "bytes": 46323,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "BunBite",
+      "purpose": "Shrink images. Stay local.",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "BunBite",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Shrink images.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 301.38,
+          "baseline": 463
+        },
+        {
+          "text": "Stay local.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 213.6,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-bunbite-dark.svg",
+      "bytes": 51604,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.0,
+        "activeFraction": 0.19,
+        "gesture": "translate(0px, 8px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "BunBite",
+      "purpose": "Shrink images. Stay local.",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "BunBite",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Shrink images.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 301.38,
+          "baseline": 463
+        },
+        {
+          "text": "Stay local.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 213.6,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-bunbite-static-dark.svg",
+      "bytes": 51233,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "Loophole",
+      "purpose": "Agent control for Ableton",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Loophole",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Agent control",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 277.8,
+          "baseline": 463
+        },
+        {
+          "text": "for Ableton",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 231.54,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-loophole-dark.svg",
+      "bytes": 40431,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.4,
+        "activeFraction": 0.19,
+        "gesture": "translate(0px, 5px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "Loophole",
+      "purpose": "Agent control for Ableton",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "Loophole",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Agent control",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 277.8,
+          "baseline": 463
+        },
+        {
+          "text": "for Ableton",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 231.54,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-loophole-static-dark.svg",
+      "bytes": 40060,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "OpenUI Forge",
+      "purpose": "Integrate OpenUI into your app",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "OpenUI",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 201.47,
+          "baseline": 327
+        },
+        {
+          "text": "Forge",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 384
+        },
+        {
+          "text": "Integrate",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 201.0,
+          "baseline": 455
+        },
+        {
+          "text": "OpenUI into",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 248.16,
+          "baseline": 514
+        },
+        {
+          "text": "your app",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 172.26,
+          "baseline": 573
+        }
+      ],
+      "filename": "tile-openui-forge-dark.svg",
+      "bytes": 45588,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.8,
+        "activeFraction": 0.19,
+        "gesture": "rotate(-4deg)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "OpenUI Forge",
+      "purpose": "Integrate OpenUI into your app",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "OpenUI",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 201.47,
+          "baseline": 327
+        },
+        {
+          "text": "Forge",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 384
+        },
+        {
+          "text": "Integrate",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 201.0,
+          "baseline": 455
+        },
+        {
+          "text": "OpenUI into",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 248.16,
+          "baseline": 514
+        },
+        {
+          "text": "your app",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 172.26,
+          "baseline": 573
+        }
+      ],
+      "filename": "tile-openui-forge-static-dark.svg",
+      "bytes": 45224,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "OpenMark",
+      "purpose": "Connect bookmarks into a graph",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "OpenMark",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Connect",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 166.14,
+          "baseline": 455
+        },
+        {
+          "text": "bookmarks into",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 311.88,
+          "baseline": 514
+        },
+        {
+          "text": "a graph",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 161.82,
+          "baseline": 573
+        }
+      ],
+      "filename": "tile-openmark-dark.svg",
+      "bytes": 50808,
+      "static": false,
+      "motion": {
+        "durationSeconds": 7.6,
+        "activeFraction": 0.19,
+        "gesture": "rotate(3deg)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "OpenMark",
+      "purpose": "Connect bookmarks into a graph",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "OpenMark",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 268.62,
+          "baseline": 357
+        },
+        {
+          "text": "Connect",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 166.14,
+          "baseline": 455
+        },
+        {
+          "text": "bookmarks into",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 311.88,
+          "baseline": 514
+        },
+        {
+          "text": "a graph",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 161.82,
+          "baseline": 573
+        }
+      ],
+      "filename": "tile-openmark-static-dark.svg",
+      "bytes": 50445,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "LangSmith Fetch",
+      "purpose": "Read traces. Debug agent runs.",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "LangSmith",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 302.2,
+          "baseline": 327
+        },
+        {
+          "text": "Fetch",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 384
+        },
+        {
+          "text": "Read traces.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 259.68,
+          "baseline": 463
+        },
+        {
+          "text": "Debug agent runs.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 373.44,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-langsmith-fetch-dark.svg",
+      "bytes": 46260,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.0,
+        "activeFraction": 0.19,
+        "gesture": "translate(0px, 7px)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "LangSmith Fetch",
+      "purpose": "Read traces. Debug agent runs.",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "LangSmith",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 302.2,
+          "baseline": 327
+        },
+        {
+          "text": "Fetch",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 167.89,
+          "baseline": 384
+        },
+        {
+          "text": "Read traces.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 259.68,
+          "baseline": 463
+        },
+        {
+          "text": "Debug agent runs.",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 373.44,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-langsmith-fetch-static-dark.svg",
+      "bytes": 45889,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    },
+    {
+      "name": "haircut",
+      "purpose": "Trim agent context with undo",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "haircut",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Trim agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 224.46,
+          "baseline": 463
+        },
+        {
+          "text": "context with undo",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 365.46,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-haircut-dark.svg",
+      "bytes": 51984,
+      "static": false,
+      "motion": {
+        "durationSeconds": 8.4,
+        "activeFraction": 0.19,
+        "gesture": "rotate(-8deg)",
+        "groupCount": 1
+      }
+    },
+    {
+      "name": "haircut",
+      "purpose": "Trim agent context with undo",
+      "width": 432,
+      "height": 600,
+      "text": [
+        {
+          "text": "haircut",
+          "role": "name",
+          "sourceSize": 56,
+          "displaySizeAt108": 14.0,
+          "advanceWidth": 235.05,
+          "baseline": 357
+        },
+        {
+          "text": "Trim agent",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 224.46,
+          "baseline": 463
+        },
+        {
+          "text": "context with undo",
+          "role": "purpose",
+          "sourceSize": 60,
+          "displaySizeAt108": 15.0,
+          "advanceWidth": 365.46,
+          "baseline": 531
+        }
+      ],
+      "filename": "tile-haircut-static-dark.svg",
+      "bytes": 51619,
+      "static": true,
+      "motion": {
+        "groupCount": 0
+      }
+    }
+  ]
+}
