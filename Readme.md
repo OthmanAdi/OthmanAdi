@@ -229,3 +229,5 @@ Berlin · [Email me](mailto:adiatwork@outlook.com) · [LinkedIn](https://www.lin
 <a href="https://github.com/OthmanAdi/OpenMark" title="OpenMark: Personal knowledge graph"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-openmark-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-openmark-light.svg"><img src="./media/profile-details/tile-openmark-light.svg" width="104" alt="OpenMark — Personal knowledge graph"></picture></a>
 <a href="https://github.com/OthmanAdi/langsmith-fetch-skill" title="LangSmith Fetch: Agent trace retrieval"><picture><source media="(prefers-color-scheme: dark)" srcset="./media/profile-details/tile-langsmith-fetch-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./media/profile-details/tile-langsmith-fetch-light.svg"><img src="./media/profile-details/tile-langsmith-fetch-light.svg" width="104" alt="LangSmith Fetch — Agent trace retrieval"></picture></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=othmanadi-profile-20261114&style=pixel)
