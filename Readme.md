@@ -2,13 +2,24 @@
 
 <samp>SENIOR APPLIED AI ENGINEER · BERLIN</samp>
 
-I build agent tools, enterprise software and learning applications. Creator and maintainer of **Planning with Files**.
+### I build agent tools, enterprise software and learning applications. Creator and maintainer of **Planning with Files**.
 
-Open to senior AI engineering roles and hands-on technical leadership, including founding-engineer work.
+### Open to senior AI engineering roles and hands-on technical leadership, including founding-engineer work.
+
+*[evidence record](./PROOF.md) for recognition, direct downstream credit, related implementations, merged contributions, product launch coverage and teaching references. Related implementations are kept separate from projects that explicitly attribute the work.*
+
+<br>
+<br>
 
 [Repositories](#user-content-open-repositories) · [Professional work](#user-content-professional-work) · [Teaching and programmes](#user-content-teaching-and-programmes) · [Public evidence](#user-content-public-evidence) · [Discuss a role](mailto:adiatwork@outlook.com)
 
 <a name="repositories"></a>
+
+## Contact
+
+Berlin · [Email me](mailto:adiatwork@outlook.com) · [LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Writing on dev.to](https://dev.to/othmanadi)
+
+[Project catalogue](./PROJECTS.md) · [Evidence and recommendations](./PROOF.md) · [Support my open-source work](https://github.com/sponsors/OthmanAdi)
 
 ## Open repositories
 
@@ -195,8 +206,6 @@ The patch was authored by Eapp1e. My part in this example was the maintenance de
 
 </details>
 
-[Open the full evidence record](./PROOF.md) for recognition, direct downstream credit, related implementations, merged contributions, product launch coverage and teaching references. Related implementations are kept separate from projects that explicitly attribute the work.
-
 ## Currently in rotation
 
 [Commit FM](https://github.com/OthmanAdi/commit-fm) reads my public push history and shows the repository currently in rotation, with the queue behind it. Its update workflow is scheduled every thirty minutes.
@@ -204,14 +213,6 @@ The patch was authored by Eapp1e. My part in this example was the maintenance de
 <a href="https://github.com/OthmanAdi/commit-fm" title="Open Commit FM"><img src="https://raw.githubusercontent.com/OthmanAdi/OthmanAdi/main/commit-fm.svg" width="820" alt="Commit FM, the original terminal-style now-playing banner showing recent public repository activity and the queue behind it."></a>
 
 <a href="https://github.com/OthmanAdi/commit-fm" title="Put a Commit FM banner on your own profile"><img src="https://raw.githubusercontent.com/OthmanAdi/commit-fm/main/media/on-air.svg" width="392" alt="On air. Commit FM. Start your own station."></a>
-
-## Contact
-
-I'm looking for a senior role building AI agents and products. I'm also interested in hands-on technical leadership and founding-engineer opportunities where I can shape the architecture, work with users and stay responsible for delivery.
-
-Berlin · [Email me](mailto:adiatwork@outlook.com) · [LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Writing on dev.to](https://dev.to/othmanadi)
-
-[Project catalogue](./PROJECTS.md) · [Evidence and recommendations](./PROOF.md) · [Support my open-source work](https://github.com/sponsors/OthmanAdi)
 
 ## More repositories
 
