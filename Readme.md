@@ -4,22 +4,11 @@
 
 ### I build agent tools, enterprise software and learning applications. Creator and maintainer of **Planning with Files**.
 
-### Open to senior AI engineering roles and hands-on technical leadership, including founding-engineer work.
-
-*[evidence record](./PROOF.md) for recognition, direct downstream credit, related implementations, merged contributions, product launch coverage and teaching references. Related implementations are kept separate from projects that explicitly attribute the work.*
-
-<br>
-<br>
+Open to senior AI engineering roles and hands-on technical leadership, including founding-engineer work.
 
 [Repositories](#user-content-open-repositories) · [Professional work](#user-content-professional-work) · [Teaching and programmes](#user-content-teaching-and-programmes) · [Public evidence](#user-content-public-evidence) · [Discuss a role](mailto:adiatwork@outlook.com)
 
-<a name="repositories"></a>
-
-## Contact
-
-Berlin · [Email me](mailto:adiatwork@outlook.com) · [LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Writing on dev.to](https://dev.to/othmanadi)
-
-[Project catalogue](./PROJECTS.md) · [Evidence and recommendations](./PROOF.md) · [Support my open-source work](https://github.com/sponsors/OthmanAdi)
+Berlin · [LinkedIn](https://www.linkedin.com/in/codingwithadi) · [Writing on dev.to](https://dev.to/othmanadi) · [Support my open-source work](https://github.com/sponsors/OthmanAdi)
 
 ## Open repositories
 
@@ -168,7 +157,7 @@ João Teixeira describes how I worked with different experience levels in one cl
 
 ## Public evidence
 
-The work has received recognition, been credited downstream and contributed fixes to other projects. Each source below establishes a specific connection.
+The work has received recognition, been credited downstream and contributed fixes to other projects. Each source below establishes a specific connection. The [full evidence record](./PROOF.md) adds direct downstream credit, related implementations, merged contributions, product launch coverage and teaching references. Related implementations are kept separate from projects that explicitly attribute the work.
 
 | Source | What it records |
 |---|---|
